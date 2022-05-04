@@ -23,6 +23,6 @@ On top off this, there is also a punishment for those looking to withdraw their 
 
 It is important to understand the benefit and consequences of specifying how long your want to stake your tokens for.  In this section we discuss the **Reward Multiplier** which represents a multiplier, applied to the tokens you stake, in essence, giving you a greater stake than originally put in.
 
-
+{% embed url="https://infogram.com/reward-multiplier-1hd12yx7nn0jx6k?live=" %}
 
 ### Unstake Fee
