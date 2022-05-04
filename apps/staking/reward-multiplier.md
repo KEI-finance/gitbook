@@ -21,5 +21,16 @@ The **Reward Multiplier** is based on how long you decide to stake for. The long
 
 ### Formula
 
-The formula associated with what multiplier you receive is calculated based on three variables.
+The formula associated with what multiplier you receive is calculated as such:
 
+| Variable | Value                 |
+| -------- | --------------------- |
+| a        | Min Reward Multiplier |
+| b        | Max Reward Multiplier |
+| c        | Max Stake Duration    |
+| d        | Stake Duration        |
+| x        | Reward Multiplier     |
+
+$$
+f(x) = a + (d/c)^2 * (b - a)
+$$
