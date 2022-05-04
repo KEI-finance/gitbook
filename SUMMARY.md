@@ -1,0 +1,55 @@
+# Table of contents
+
+* [What is Kei Finance](README.md)
+* [Getting Started](getting-started/README.md)
+  * [Creating a Wallet](getting-started/creating-a-wallet.md)
+  * [Buying the Token](getting-started/buying-the-token.md)
+  * [Earning Rewards](getting-started/earning-rewards.md)
+  * [Get More Rewards](getting-started/get-more-rewards.md)
+* [Contract Us](contract-us/README.md)
+  * [Website](contract-us/website.md)
+  * [Telegram](contract-us/telegram.md)
+  * [Twitter](contract-us/twitter.md)
+
+## Apps
+
+* [🔄 Swapping](apps/swapping.md)
+* [🔓 Bonding](apps/bonding.md)
+* [🌱 Staking](apps/staking/README.md)
+  * [How to Stake](apps/staking/how-to-stake.md)
+* [🗣 Affiliate](apps/affiliate.md)
+* [🏦 Lending - Coming Soon](apps/lending-coming-soon.md)
+* [🤝 Governance - Coming Soon](apps/governance-coming-soon.md)
+
+## Mechanics
+
+* [Fees](mechanics/fees.md)
+* [Rewards](mechanics/rewards.md)
+* [Floor Price](mechanics/floor-price.md)
+* [Ceiling Price](mechanics/ceiling-price.md)
+* [Supply Liquidity](mechanics/supply-liquidity.md)
+
+## Technicals
+
+* [Networks](technicals/networks/README.md)
+  * [Rinkeby](technicals/networks/rinkeby.md)
+* [Kei Contracts](technicals/kei-contracts/README.md)
+  * [Kei](technicals/kei-contracts/kei.md)
+  * [Admin](technicals/kei-contracts/admin.md)
+  * [Affiliate](technicals/kei-contracts/affiliate.md)
+  * [Bonding](technicals/kei-contracts/bonding.md)
+  * [Pair Controller](technicals/kei-contracts/pair-controller.md)
+  * [Liquidity Controller](technicals/kei-contracts/liquidity-controller.md)
+  * [Token Controller](technicals/kei-contracts/token-controller.md)
+  * [Debt](technicals/kei-contracts/debt.md)
+  * [Fees](technicals/kei-contracts/fees.md)
+  * [Oracle](technicals/kei-contracts/oracle.md)
+  * [Presale](technicals/kei-contracts/presale.md)
+  * [Pricing](technicals/kei-contracts/pricing.md)
+  * [Processor](technicals/kei-contracts/processor.md)
+  * [Rewards](technicals/kei-contracts/rewards.md)
+  * [Staking](technicals/kei-contracts/staking.md)
+  * [Token](technicals/kei-contracts/token.md)
+  * [Treasury](technicals/kei-contracts/treasury.md)
+* [Contributing](technicals/contributing.md)
+* [Bug Bounty - Coming Soon](technicals/bug-bounty-coming-soon.md)
