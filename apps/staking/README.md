@@ -11,13 +11,28 @@ The staking contract will be a core way to grow your investment over a long peri
 #### Technical Specification
 
 * [Staking](../../technicals/kei-contracts/staking.md)
-* [% Rewards](../../mechanics/rewards.md)&#x20;
 
 ## How does it work?
 
-The staking mechanic in KEI finance rewards long term holders, by giving a greater return on rewards, for the longer duration that you stake. This is determined by the [Reward Multiplier](./#undefined).
+There are two main arguments associated with staking.
 
-On top of this, there is also a punishment for those looking to withdraw their stake partially or entirely before the end of the staking duration. This is known as the [Unstake Fee](./#paper-hands-fee).
+| Argument       | Description                             |
+| -------------- | --------------------------------------- |
+| Stake Duration | How long you would like to stake for    |
+| Stake Amount   | How many tokens you would like to stake |
 
-It is important to understand the benefits and consequences associated with your stake duration to avoid risks and maximize gains.
+It is important to understand the benefits and consequences associated with your _Stake Duration_ to avoid risks and maximize returns. When it comes to the _Stake Duration_ there are two main factors at play that need to be thought about.
 
+### Reward Multiplier
+
+Rewards long term holders, by giving a greater return on rewards for the longer duration that you stake. [Read More](reward-multiplier.md)
+
+### Unstake Penalty
+
+The penalty is associated with fully/partially exitting a stake earlier than specified. This penalty is subtracted from your equivalent stake amount and then redistributed to all stakers. [Read More](unstake-penalty.md)
+
+
+
+## How to Stake
+
+For more information on how to get started with staking. [Skip to Here](how-to-stake.md)
