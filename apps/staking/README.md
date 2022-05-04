@@ -25,6 +25,6 @@ It is important to understand the benefit and consequences of specifying how lon
 
 
 
-
+{% embed url="https://e.infogram.com/js/dist/embed.js?kyn=" %}
 
 ### Unstake Fee
