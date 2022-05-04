@@ -23,8 +23,6 @@ On top off this, there is also a punishment for those looking to withdraw their 
 
 It is important to understand the benefit and consequences of specifying how long your want to stake your tokens for.  In this section we discuss the **Reward Multiplier** which represents a multiplier, applied to the tokens you stake, in essence, giving you a greater stake than originally put in.
 
-{% embed url="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FAIL0IcUfqfoCzINLhViUZs%2FInteractive-Graph-Component-%28Community%29%3Fnode-id%3D3%253A95%26scaling%3Dmin-zoom%26page-id%3D2%253A2%26starting-point-node-id%3D3%253A63" %}
-
 
 
 
