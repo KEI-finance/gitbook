@@ -16,6 +16,8 @@
 * [🔄 Swapping](apps/swapping.md)
 * [🔓 Bonding](apps/bonding.md)
 * [🌱 Staking](apps/staking/README.md)
+  * [Reward Multiplier](apps/staking/reward-multiplier.md)
+  * [Unstake Penalty](apps/staking/unstake-penalty.md)
   * [How to Stake](apps/staking/how-to-stake.md)
 * [🗣 Affiliate](apps/affiliate.md)
 * [🏦 Lending - Coming Soon](apps/lending-coming-soon.md)
