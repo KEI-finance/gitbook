@@ -32,5 +32,5 @@ The formula associated with what multiplier you receive is calculated as such:
 | x        | Reward Multiplier     |
 
 $$
-f(x) = a + (d/c)^2 * (b - a)
+f(x) = a + (min(d,c)/c)^2 * (b - a)
 $$
