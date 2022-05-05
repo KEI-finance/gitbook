@@ -16,6 +16,18 @@ Here are a couple of examples of succinct overviews from products with really gr
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
+
+
+
+
+{% embed url="https://datawrapper.dwcdn.net/EnRF7/1" %}
+
+{% embed url="https://datawrapper.dwcdn.net/zoK4S/1" %}
+
+{% embed url="https://infogram.com/reward-multiplier-1hd12yx7nn0jx6k?live=" %}
+
+##
+
 ## Getting Started
 
 **Got 2 minutes?** Check out a video overview of our product:
