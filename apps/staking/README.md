@@ -12,6 +12,8 @@ The staking contract will be a core way to grow your investment over a long peri
 
 * [Staking](../../technicals/kei-contracts/staking.md)
 
+{% embed url="https://app.mural.co/embed/818cef29-8508-4f21-a60c-255d734f82ce" %}
+
 ## How does it work?
 
 There are two main arguments associated with staking.

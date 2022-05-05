@@ -23,10 +23,14 @@ It is important to understand the penalties associated with unstaking before the
 
 The formula associated with what penalty you receive is calculated as such:
 
-| Variable | Value                 |
-| -------- | --------------------- |
-| a        | Min Reward Multiplier |
-| b        | Max Reward Multiplier |
-| c        | Max Stake Duration    |
-| d        | Stake Duration        |
-| x        | Reward Multiplier     |
+| Variable | Value                      |
+| -------- | -------------------------- |
+| a        | Min Penalty                |
+| b        | Max Penalty                |
+| c        | Current Stake Duration (%) |
+| x        | Unstake Penalty (%)        |
+
+$$
+f(x) = b - (c^2 * (b - a))
+$$
+
