@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Kei Finance](README.md)
+* [Welcome to Kei Finance](README.md)
 * [Getting Started](getting-started/README.md)
   * [Creating a Wallet](getting-started/creating-a-wallet.md)
   * [Buying the Token](getting-started/buying-the-token.md)
