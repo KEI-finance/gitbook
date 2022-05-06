@@ -12,7 +12,7 @@ The staking contract will be a core way to grow your investment over a long peri
 
 * [Staking](../../technicals/kei-contracts/staking.md)
 
-![Staking Rewards Diagram](<../../.gitbook/assets/Screen Shot 2022-05-06 at 9.13.38 am.png>)
+![Staking Reward System](<../../.gitbook/assets/Screen Shot 2022-05-06 at 10.17.31 am.png>)
 
 ## How does it work?
 
