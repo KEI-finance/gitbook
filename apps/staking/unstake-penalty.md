@@ -17,6 +17,8 @@ It is important to understand the penalties associated with unstaking before the
 | Min Penalty | 0   |
 | Max Penalty | 100 |
 
+### Penalty Curve
+
 {% embed url="https://infogram.com/unstake-penalty-1h7j4dvy03egv4n?live=" %}
 
 ### Formula
