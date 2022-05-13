@@ -1,2 +1,2 @@
-# NFT Stake
+# Staking NFT's
 
