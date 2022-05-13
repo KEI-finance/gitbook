@@ -55,12 +55,12 @@ Returns how many rewards (tokens) the staking contract is currently holding onto
 function totalRewards() external view returns (uint256);
 ```
 
-### Gradient
+### Details Of
 
-The steepness of the [Reward Curve](../../apps/staking/reward-multiplier.md#reward-curve), and [Penalty Curve](../../apps/staking/unstake-penalty.md#penalty-curve).
+Returns the [StakeDetails](staking.md#undefined) of a stake, given the _stakeId_.
 
 ```solidity
-function MIN_STAKE_DURATION() external view returns (uint256);
+function detailsOf(uint256 stakeId) external view returns (StakeDetails memory);
 ```
 
 ### Gradient
@@ -77,5 +77,30 @@ The steepness of the [Reward Curve](../../apps/staking/reward-multiplier.md#rewa
 
 ```solidity
 function MIN_STAKE_DURATION() external view returns (uint256);
+```
+
+## Write Methods
+
+## Events
+
+## Structs
+
+### Stake Details
+
+Contains all of the information about a particular stake.
+
+```solidity
+struct StakeDetails {
+    address creator;
+    uint32 rewardMultiplier;
+    
+    uint128 currentSupply;
+    uint128 initialSupply;
+    
+    uint64 createdAt;
+    uint64 expiresAt;
+    uint64 stakeDuration;
+    uint64 lockDuration;
+}
 ```
 
