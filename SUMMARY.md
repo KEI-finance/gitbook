@@ -20,7 +20,7 @@
   * [Unstake Penalty](apps/staking/unstake-penalty.md)
   * [Staking Calculations](apps/staking/staking-calculations.md)
   * [How to Stake](apps/staking/how-to-stake.md)
-  * [NFT Stake](apps/staking/nft-stake.md)
+  * [Staking NFT's](apps/staking/staking-nfts.md)
 * [🗣 Affiliate](apps/affiliate.md)
 * [🏦 Lending - Coming Soon](apps/lending-coming-soon.md)
 * [🤝 Governance - Coming Soon](apps/governance-coming-soon.md)
