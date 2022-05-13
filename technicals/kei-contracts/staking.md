@@ -168,7 +168,7 @@ function detailsOf(uint256 stakeId) external view returns (StakeDetails memory);
 
 ### NFT Descriptor
 
-Returns the location of the [NFTDescriptor](nft-descriptor.md) contract. Used in generating the metadata for the [NFT Stake](../../apps/staking/staking-nfts.md).
+Returns the location of the [NFTDescriptor](nft-descriptor.md) contract. Used in generating the metadata for the [NFT Stake](../../apps/staking/nft-stake.md).
 
 ```solidity
 function nftDescriptor() external view returns (address);

@@ -14,12 +14,14 @@
 ## Apps
 
 * [🔄 Swapping](apps/swapping.md)
-* [🔓 Bonding](apps/bonding.md)
+* [🔓 Bonding](apps/bonding/README.md)
+  * [How to Bond](apps/bonding/how-to-bond.md)
+  * [Bonding Calculations](apps/bonding/bonding-calculations.md)
 * [🌱 Staking](apps/staking/README.md)
   * [Reward Multiplier](apps/staking/reward-multiplier.md)
   * [Unstake Penalty](apps/staking/unstake-penalty.md)
   * [Staking Calculations](apps/staking/staking-calculations.md)
-  * [Staking NFT's](apps/staking/staking-nfts.md)
+  * [Staking NFT's](apps/staking/nft-stake.md)
   * [How to Stake](apps/staking/how-to-stake.md)
   * [How to Unstake](apps/staking/how-to-unstake.md)
 * [🗣 Affiliate](apps/affiliate.md)

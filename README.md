@@ -60,8 +60,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="apps/bonding.md" %}
-[bonding.md](apps/bonding.md)
+{% content-ref url="apps/bonding/" %}
+[bonding](apps/bonding/)
 {% endcontent-ref %}
 
 {% content-ref url="apps/staking/" %}
