@@ -31,9 +31,11 @@ Rewards long term holders, by giving a greater return on rewards for the longer 
 
 ### Unstake Penalty
 
-The penalty is associated with fully/partially exitting a stake earlier than specified. This penalty is subtracted from your equivalent stake amount and then redistributed to all stakers. [Read More](unstake-penalty.md)
+The penalty is associated with fully/partially exiting a stake earlier than specified. This penalty is subtracted from your equivalent stake amount and then redistributed to all Stakers. [Read More](unstake-penalty.md)
 
+### Staking Calculations
 
+The more in-depth calculations happening behind the scenes, ensure that everyone is rewarded appropriately. [Read More](staking-calculations.md)&#x20;
 
 ## How to Stake
 
