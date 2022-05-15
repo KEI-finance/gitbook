@@ -13,3 +13,31 @@ A percentage of rewards are distributed to the admin contract to assist with dev
 > A percentage of these rewards are allocated to [Affiliate](../../apps/affiliate.md) rewards.
 
 TODO burn affiliate leftover funds
+
+## Read Methods
+
+### Admin Role
+
+Description
+
+```solidity
+function ADMIN_ROLE() external view returns (bytes32);
+```
+
+### Admin Withdraw Role
+
+Description
+
+```solidity
+function ADMIN_WITHDRAW_ROLE() external view returns (bytes32);
+```
+
+## Write Methods
+
+### Withdraw
+
+Description
+
+```solidity
+function withdraw(address to, uint256 totalRewards) external;
+```
