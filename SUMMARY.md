@@ -6,10 +6,10 @@
   * [Buying the Token](getting-started/buying-the-token.md)
   * [Earning Rewards](getting-started/earning-rewards.md)
   * [Get More Rewards](getting-started/get-more-rewards.md)
-* [Contract Us](contract-us/README.md)
-  * [Website](contract-us/website.md)
-  * [Telegram](contract-us/telegram.md)
-  * [Twitter](contract-us/twitter.md)
+* [Contact Us](contact-us/README.md)
+  * [Website](https://kei.fi)
+  * [Telegram](https://t.me/KeiFinance)
+  * [Twitter](https://twitter.com/KeiFinance)
 
 ## Apps
 
