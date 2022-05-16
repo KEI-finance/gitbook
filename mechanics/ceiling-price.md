@@ -1,2 +1,2 @@
-# 📉 Ceiling Price
+# Ceiling Price
 

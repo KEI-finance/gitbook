@@ -1,2 +1,2 @@
-# 🤝 Lending - Coming Soon
+# 🏦 Lending - Coming Soon
 
