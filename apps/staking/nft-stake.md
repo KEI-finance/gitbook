@@ -30,4 +30,6 @@ Anyone who owns a portion of your stake is able to unstake it at anytime, taking
 
 ## ERC1155
 
-The staking contract is actually an NFT which&#x20;
+{% embed url="https://eips.ethereum.org/EIPS/eip-1155" %}
+Read more about the specific standard
+{% endembed %}
