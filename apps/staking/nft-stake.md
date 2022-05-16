@@ -20,7 +20,7 @@ Anyone who owns a portion of your stake is able to unstake it at anytime, taking
 
 {% embed url="https://assets.kei.fi/nft-basic.svg" %}
 
-### Medium Design (50x)http
+### Medium Design (50x)
 
 {% embed url="https://assets.kei.fi/nft-medium.svg" %}
 
