@@ -52,7 +52,6 @@
   * [Fees](technicals/kei-contracts/fees.md)
   * [NFT Descriptor](technicals/kei-contracts/nft-descriptor.md)
   * [Oracle](technicals/kei-contracts/oracle.md)
-  * [Presale](technicals/kei-contracts/presale.md)
   * [Pricing](technicals/kei-contracts/pricing.md)
   * [Processor](technicals/kei-contracts/processor.md)
   * [Rewards](technicals/kei-contracts/rewards.md)
