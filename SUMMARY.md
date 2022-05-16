@@ -10,6 +10,10 @@
   * [Website](https://kei.fi)
   * [Telegram](https://t.me/KeiFinance)
   * [Twitter](https://twitter.com/KeiFinance)
+  * [Instagram](https://www.instagram.com/keifinance/)
+  * [Facebook](https://www.facebook.com/KeiFinance/)
+  * [Youtube](https://youtube.com/)
+  * [Linkedin](https://www.linkedin.com/company/kei-finance)
 
 ## Apps
 
