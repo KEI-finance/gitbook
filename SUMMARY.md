@@ -25,8 +25,8 @@
   * [Staking Calculations](apps/staking/staking-calculations.md)
   * [Staking NFT's](apps/staking/nft-stake.md)
 * [🗣 Affiliate](apps/affiliate.md)
-* [🏦 Lending - Coming Soon](apps/lending-coming-soon.md)
-* [🤝 Governance - Coming Soon](apps/governance-coming-soon.md)
+* [🤝 Lending - Coming Soon](apps/lending-coming-soon.md)
+* [🏛 Governance - Coming Soon](apps/governance-coming-soon.md)
 
 ## Mechanics
 

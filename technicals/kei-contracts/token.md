@@ -1,6 +1,2 @@
----
-description: description
----
-
 # Token
 
