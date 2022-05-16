@@ -1,64 +1,56 @@
+---
+description: Next generation Defi Protocol
+---
+
 # Welcome to Kei Finance
 
-{% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
-{% endhint %}
+Kei Finance aims to be the light for how defi protocols should operate and run. We are creating solutions for many of the pain points in the space, through alternative algorithmic operations and transparent processes.
 
-Loom is a video messaging tool that helps you get your message across through instantly&#x20;
+Striving to provide accurate APY's, stable backings and a real return on your investment.
 
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+## Core Mechanics
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+The following discusses the core mechanics behind the protocol, striving to provide safe and effective long term investment for all involved.
 
+### Backed Tokens
 
+There is no such thing as minting out of thin air in Kei. Every token is created with value giving a true value to the APY, and making sure those rewards you earn, do not go down in value.
 
-
-
-{% embed url="https://datawrapper.dwcdn.net/EnRF7/1" %}
-
-{% embed url="https://datawrapper.dwcdn.net/zoK4S/1" %}
-
-{% embed url="https://infogram.com/reward-multiplier-1hd12yx7nn0jx6k?live=" %}
-
-##
-
-## Getting Started
-
-**Got 2 minutes?** Check out a video overview of our product:
-
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
-
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
-
-### Guides: Jump right in
-
-Follow our handy guides to get started on the basics as quickly as possible:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="mechanics/rewards.md" %}
+[rewards.md](mechanics/rewards.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+### Raising Floor Price
+
+The automatically increasing floor price backing each token in the protocol. Preventing the token price from ever going below the floor price.
+
+{% content-ref url="mechanics/floor-price.md" %}
+[floor-price.md](mechanics/floor-price.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+### Ceiling Price
+
+Being a certain distance away from the floor, the Ceiling Price is able to keep the price between two points, increasing price stability, and decreasing fluctuations.
+
+{% content-ref url="mechanics/ceiling-price.md" %}
+[ceiling-price.md](mechanics/ceiling-price.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+### Fees
+
+The token is able to apply a fee whitelist, to certain addresses, allowing for rewards to be directly taken from each transaction that happens to and from this address
+
+{% content-ref url="mechanics/fees.md" %}
+[fees.md](mechanics/fees.md)
+{% endcontent-ref %}
+
+
+
+## Applications
+
+{% hint style="success" %}
+Unlock your true earning potential through our different applications
 {% endhint %}
-
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
 {% content-ref url="apps/bonding/" %}
 [bonding](apps/bonding/)
@@ -72,8 +64,8 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [swapping.md](apps/swapping.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="apps/affiliate.md" %}
+[affiliate.md](apps/affiliate.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
