@@ -30,9 +30,9 @@
 
 ## Mechanics
 
-* [Rewards](mechanics/rewards.md)
-* [Floor Price](mechanics/floor-price.md)
-* [Ceiling Price](mechanics/ceiling-price.md)
+* [🪙 Rewards](mechanics/rewards.md)
+* [📈 Floor Price](mechanics/floor-price.md)
+* [📉 Ceiling Price](mechanics/ceiling-price.md)
 * [🤏 Fees](mechanics/fees.md)
 
 ## Technicals
