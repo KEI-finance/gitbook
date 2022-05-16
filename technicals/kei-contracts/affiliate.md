@@ -19,7 +19,7 @@ function getId(address affiliate) external view returns (bytes32);
 description
 
 ```solidity
- function getAffiliate(bytes32 id) external view returns (address);
+function getAffiliate(bytes32 id) external view returns (address);
 ```
 
 ### Get Referrer
