@@ -4,7 +4,11 @@ description: Kei Testing Contracts
 
 # Rinkeby
 
-| Name                 | Address |
+{% hint style="info" %}
+This is a Test Network
+{% endhint %}
+
+| Contract             | Address |
 | -------------------- | ------- |
 | KEI                  |         |
 | Admin                |         |
