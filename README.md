@@ -4,7 +4,7 @@ description: Next generation Defi Protocol
 
 # Welcome to Kei Finance
 
-Kei Finance aims to be the light for how defi protocols should operate and run. We are creating solutions for many of the pain points in the space, through alternative algorithmic operations and transparent processes.
+Kei Finance aims to be a leader in how defi protocols operate and run. We are creating solutions for many of the pain points in the space, through alternative algorithms and transparent processes.
 
 Striving to provide accurate APY's, stable backings and a real return on your investment.
 
@@ -38,7 +38,7 @@ Being a certain distance away from the floor, the Ceiling Price is able to keep 
 
 ### Fees
 
-The token is able to apply a fee whitelist, to certain addresses, allowing for rewards to be directly taken from each transaction that happens to and from this address
+The token has a fee whitelist. Meaning that address added, will subtract a fee from the each transaction, and allocate it back into the reward system.
 
 {% content-ref url="mechanics/fees.md" %}
 [fees.md](mechanics/fees.md)
@@ -47,10 +47,6 @@ The token is able to apply a fee whitelist, to certain addresses, allowing for r
 
 
 ## Applications
-
-{% hint style="success" %}
-Unlock your true earning potential through our different applications
-{% endhint %}
 
 {% content-ref url="apps/bonding/" %}
 [bonding](apps/bonding/)
