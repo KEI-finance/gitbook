@@ -63,7 +63,3 @@ The token has a fee whitelist. Meaning that address added, will subtract a fee f
 {% content-ref url="apps/affiliate.md" %}
 [affiliate.md](apps/affiliate.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}
