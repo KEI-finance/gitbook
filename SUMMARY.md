@@ -70,5 +70,6 @@
   * [Access Control Upgradeable](technicals/kei-contracts/access-control-upgradeable.md)
   * [Access Control](technicals/kei-contracts/access-control.md)
   * [ERC20](technicals/kei-contracts/erc20.md)
+  * [Bonding Router](technicals/kei-contracts/bonding-router.md)
 * [Contributing](technicals/contributing.md)
 * [Bug Bounty - Coming Soon](technicals/bug-bounty-coming-soon.md)
