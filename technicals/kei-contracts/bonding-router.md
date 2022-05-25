@@ -6,17 +6,16 @@ description: description
 
 ## Write Methods
 
-### Bond&#x20;
+### Bond
 
 description
 
 ```solidity
 function bond(
-    address asset,
-    uint256 assetAmount,
-    uint256 stakingDuration,
-    uint256 minAllocatedTokens,
-    uint256 expiresAt
-    ) external;
-}
+address asset,
+uint256 assetAmount,
+uint256 stakingDuration,
+uint256 minAllocatedTokens,
+uint256 expiresAt
+) external;
 ```
