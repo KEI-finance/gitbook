@@ -4,9 +4,7 @@ description: Next generation Defi Protocol
 
 # Welcome to Kei Finance
 
-Kei Finance aims to be a leader in how defi protocols operate and run. We are creating solutions for many of the pain points in the space, through alternative algorithms and transparent processes.
-
-Striving to provide accurate APY's, stable backings and a real return on your investment.
+Kei Finance is a Decentralized Finance (DeFi) application that solves many of the pain points associated with traditional financial products and services. With advanced algorithms and transparent processes, Kei Finance offers a high return on investment and attractive interfaces that make it easy to use and understand.
 
 ## Core Mechanics
 

@@ -27,8 +27,6 @@ All penalty tokens that are subtracted from the unstake amount, are then returne
 
 ### Penalty Curve
 
-{% embed url="https://infogram.com/unstake-penalty-1h7j4dvy03egv4n?live=" %}
-
 ### Formula
 
 The formula associated with what penalty you receive is calculated as such:

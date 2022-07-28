@@ -19,8 +19,6 @@ The **Reward Multiplier** is based on how long you decide to stake for. The long
 
 ### Reward Curve
 
-{% embed url="https://infogram.com/reward-multiplier-1hd12yx7nn0jx6k?live=" %}
-
 ### Formula
 
 The formula associated with what multiplier you receive is calculated as such:
