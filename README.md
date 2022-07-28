@@ -38,8 +38,8 @@ Being a certain distance away from the floor, the Ceiling Price is able to keep 
 
 The token has a fee whitelist. Meaning that address added, will subtract a fee from the each transaction, and allocate it back into the reward system.
 
-{% content-ref url="mechanics/fees.md" %}
-[fees.md](mechanics/fees.md)
+{% content-ref url="mechanics/spread.md" %}
+[spread.md](mechanics/spread.md)
 {% endcontent-ref %}
 
 
