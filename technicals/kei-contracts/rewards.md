@@ -93,7 +93,7 @@ struct Reward {
     RewardPercentages percentages;
     uint256 totalReward;
     address txOrigin;
-    uint64 timestamp;
+    uint64 blockNumber;
 }
 ```
 
@@ -105,7 +105,7 @@ description
 struct RewardPercentages {
     uint16 debtPercent;
     uint16 adminPercent;
-    uint16 workerPercent;
+    uint16 processorPercent;
     uint16 stakingPercent;
     uint16 affiliatePercent;
     uint16 liquidityPercent;
@@ -123,7 +123,7 @@ struct RewardDistributions {
     uint256 affiliateTokens;
     uint256 stakingTokens;
     uint256 liquidityTokens;
-    uint256 workerTokens;
+    uint256 processorTokens;
     uint256 debtTokens;
     uint256 treasuryTokens;
 }

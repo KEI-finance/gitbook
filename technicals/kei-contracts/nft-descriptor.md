@@ -25,7 +25,7 @@ struct NFTDetails {
     uint256 stakeId;
     IStaking.Stake stake;
     uint256 rewards;
-    uint256 principle;
+    uint256 principal;
     uint256 unstakePenalty;
     uint256 unstakePenaltyPercent;
 }

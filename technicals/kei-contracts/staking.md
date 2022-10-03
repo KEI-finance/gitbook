@@ -145,14 +145,14 @@ function rewardBalanceOf(uint256 stakeId, uint256 amount) external view returns 
 
 ### Estimated Unstake Rewards
 
-Returns the _principle_ (initial investment), _rewards_ (rewards from staking), _unstake penalty_ (penalty which is subtracted from the _principle_ and _rewards_)
+Returns the _principal_ (initial investment), _rewards_ (rewards from staking), _unstake penalty_ (penalty which is subtracted from the _principal_ and _rewards_)
 
 ```solidity
 function estimateUnstakeRewards(uint256 stakeId, uint256 amount) 
 external 
 view
 returns (
-     uint256 principle, 
+     uint256 principal, 
      uint256 rewards,
      uint256 unstakePenalty
  );
@@ -244,7 +244,7 @@ Emitted when a Stake has been unstaked
 event StakeRemoved(
     uint256 indexed stakeId,
     uint256 amount,
-    uint256 principle,
+    uint256 principal,
     uint256 rewards,
     uint256 unstakePenalty,
     address indexed sender
@@ -260,7 +260,7 @@ Contains all of the information about a particular stake.
 ```solidity
 struct Stake {
     uint32 rewardMultiplier;
-    uint112 principle;
+    uint112 principal;
     uint112 totalSupply;
     
     uint256 rewardsStart;
