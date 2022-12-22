@@ -14,10 +14,6 @@ The affiliate contract is embedded entirely within the protocol. So whenever rew
 
 The affiliate contract is a `Rewardable` contract, which integrates into the [Rewards](../technicals/kei-contracts/rewards.md) contract, meaning that on every reward received, a share is distributed to the **Affiliate** contract.
 
-> **70%** of [Admin](../technicals/kei-contracts/admin.md) rewards are distributed to affiliates
->
-> Unclaimed affiliate rewards are returned to the admin distribution
-
 #### Distribution Table:
 
 _Where `Level X` was referred by `Level (X+1)`_
@@ -30,13 +26,5 @@ _Where `Level X` was referred by `Level (X+1)`_
 
 
 
-### Getting Started
-
-
-
-### Viewing Stats
-
-
-
-### Claiming Rewards
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 

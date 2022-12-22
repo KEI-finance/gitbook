@@ -12,7 +12,7 @@ The staking contract is actually an [ERC1155](nft-stake.md#erc1155) rather than 
 
 This standard introduces a total supply for each NFT, meaning that each stake also comes with a total supply. This supply is minted to the account which that stake is for, and can thus be transfer from account to account, partially or entirely.
 
-Anyone who owns a portion of your stake is able to unstake it at anytime, taking from a portion of the total pool. To find out more about the calculations and how this works, visit [Staking Calculations](staking-calculations.md).
+Anyone who owns a portion of your stake is able to unstake it at anytime, taking from a portion of the total pool. To find out more about the calculations and how this works, visit [Staking Calculations](broken-reference).
 
 ## Designs
 

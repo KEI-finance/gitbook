@@ -17,7 +17,7 @@ function MANAGE_ROLE() external view returns (bytes32);
 
 ### Max Stake Duration
 
-Returns the maximum staking duration you can commit for, in seconds. (Applies to [Reward Multiplier](../../apps/staking/reward-multiplier.md))
+Returns the maximum staking duration you can commit for, in seconds. (Applies to [Reward Multiplier](broken-reference))
 
 ```solidity
 function MAX_STAKE_DURATION() external view returns (uint256);
@@ -25,7 +25,7 @@ function MAX_STAKE_DURATION() external view returns (uint256);
 
 ### Min Stake Duration
 
-Returns the minimum staking duration you can commit for, in seconds. (Applies to [Reward Multiplier](../../apps/staking/reward-multiplier.md))
+Returns the minimum staking duration you can commit for, in seconds. (Applies to [Reward Multiplier](broken-reference))
 
 ```solidity
 function MIN_STAKE_DURATION() external view returns (uint256);
@@ -33,7 +33,7 @@ function MIN_STAKE_DURATION() external view returns (uint256);
 
 ### Max Reward Multiplier
 
-Returns the maximum reward multiplier you can receive (in % form). (Applies to [Reward Multiplier](../../apps/staking/reward-multiplier.md))
+Returns the maximum reward multiplier you can receive (in % form). (Applies to [Reward Multiplier](broken-reference))
 
 ```solidity
 function MAX_REWARD_MULTIPLIER() external view returns (uint256);
@@ -41,7 +41,7 @@ function MAX_REWARD_MULTIPLIER() external view returns (uint256);
 
 ### Min Reward Multiplier
 
-Returns the minimum reward multiplier you can receive (in % form). (Applies to [Reward Multiplier](../../apps/staking/reward-multiplier.md))
+Returns the minimum reward multiplier you can receive (in % form). (Applies to [Reward Multiplier](broken-reference))
 
 ```solidity
 function MIN_STAKE_DURATION() external view returns (uint256);
@@ -49,7 +49,7 @@ function MIN_STAKE_DURATION() external view returns (uint256);
 
 ### Gradient
 
-Returns the steepness of the [Reward Curve](../../apps/staking/reward-multiplier.md#reward-curve), and [Penalty Curve](../../apps/staking/unstake-penalty.md#penalty-curve).
+Returns the steepness of the [Reward Curve](broken-reference), and [Penalty Curve](../../apps/staking/unstake-penalty.md#penalty-curve).
 
 ```solidity
 function MIN_STAKE_DURATION() external view returns (uint256);
@@ -89,7 +89,7 @@ function totalValue() external view returns (uint256);
 
 ### Total Multiplied
 
-Returns the sum of all the stakes multiplied by their associated multiplier. Used in the calculations of the Staking contract. [Read More](../../apps/staking/staking-calculations.md)
+Returns the sum of all the stakes multiplied by their associated multiplier. Used in the calculations of the Staking contract. [Read More](broken-reference)
 
 ```solidity
 function totalMultiplied() external view returns (uint256);
@@ -181,8 +181,8 @@ function nftDescriptor() external view returns (address);
 Creates a stake position, based on the following input. Requires that tokens are sent to the [Treasury](treasury.md), prior to being called. (It will Stake how ever many tokens the treasury receives).
 
 * _account_ - the account receiving the stake
-* _stakeDuration_ - used in calculating the [Reward Multiplier](../../apps/staking/reward-multiplier.md) for the stake.
-* _lockDuration_ - used to force a minimum stake duration with no benefits to the [Reward Multiplier.](../../apps/staking/reward-multiplier.md)
+* _stakeDuration_ - used in calculating the [Reward Multiplier](broken-reference) for the stake.
+* _lockDuration_ - used to force a minimum stake duration with no benefits to the [Reward Multiplier.](broken-reference)
 
 ```solidity
 function stake(
@@ -271,6 +271,3 @@ struct Stake {
     uint64 lockDuration;
 }
 ```
-
-
-

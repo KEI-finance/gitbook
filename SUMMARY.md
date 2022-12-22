@@ -2,8 +2,8 @@
 
 * [Welcome to Kei Finance](README.md)
 * [Getting Started](getting-started/README.md)
-  * [Creating a Wallet](getting-started/creating-a-wallet.md)
-  * [Buying the Token](getting-started/buying-the-token.md)
+  * [Connecting](getting-started/creating-a-wallet.md)
+  * [Buying / Selling](getting-started/buying-the-token.md)
   * [Earning Rewards](getting-started/earning-rewards.md)
   * [Get More Rewards](getting-started/get-more-rewards.md)
 * [Contact Us](contact-us/README.md)
@@ -14,29 +14,23 @@
   * [Facebook](https://www.facebook.com/KeiFinance/)
   * [Youtube](https://youtube.com/)
   * [Linkedin](https://www.linkedin.com/company/kei-finance)
+* [FAQ](faq.md)
 
 ## Apps
 
 * [🔄 Swapping](apps/swapping.md)
-* [🔓 Bonding](apps/bonding/README.md)
-  * [How to Bond](apps/bonding/how-to-bond.md)
-  * [Bonding Calculations](apps/bonding/bonding-calculations.md)
+* [🔓 Supplying](apps/bonding.md)
 * [🌱 Staking](apps/staking/README.md)
-  * [Reward Multiplier](apps/staking/reward-multiplier.md)
+  * [How it works](apps/staking/how-it-works.md)
   * [Unstake Penalty](apps/staking/unstake-penalty.md)
-  * [How to Stake](apps/staking/how-to-stake.md)
-  * [How to Unstake](apps/staking/how-to-unstake.md)
-  * [Staking Calculations](apps/staking/staking-calculations.md)
   * [Staking NFT's](apps/staking/nft-stake.md)
 * [🗣 Affiliate](apps/affiliate.md)
-* [🏦 Lending - Coming Soon](apps/lending-coming-soon.md)
 * [🤝 Governance - Coming Soon](apps/governance-coming-soon.md)
 
 ## Mechanics
 
 * [🪙 Rewards](mechanics/rewards.md)
 * [📈 Floor Price](mechanics/floor-price.md)
-* [📉 Ceiling Price](mechanics/ceiling-price.md)
 * [🤏 Spread](mechanics/spread.md)
 
 ## Technicals
