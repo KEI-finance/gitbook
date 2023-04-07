@@ -29,7 +29,7 @@
 
 ## Mechanics
 
-* [Tokenomics](mechanics/tokenomics.md)
+* [🚀 Tokenomics](mechanics/tokenomics.md)
 * [🪙 Rewards](mechanics/rewards.md)
 * [📈 Floor Price](mechanics/floor-price.md)
 * [🤏 Spread](mechanics/spread.md)
