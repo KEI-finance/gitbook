@@ -2,7 +2,7 @@
 description: The tokenomics of the Kei Finance protocol and its KEI, sKEI tokens.
 ---
 
-# Tokenomics
+# 🚀 Tokenomics
 
 {% hint style="info" %}
 The Kei Finance protocol is distinguished by its organic growth strategy, which sets it apart from most protocols that mint the total supply upfront. Instead, Kei Finance mints only the minimum required to launch and gradually increases the supply as the protocol gains momentum. This approach ensures a stable, long-term growth trajectory, minimizing the risk of immediate selling pressure upon launch.
@@ -22,7 +22,7 @@ The Kei Finance protocol is distinguished by its organic growth strategy, which 
 
 The KEI token can be found at the following address `0xF75C7a59bCD9bd207C4Ab1BEB0b32EEd3B6392f3`
 
-{% embed url="https://etherscan.io/token/0xF75C7a59bCD9bd207C4Ab1BEB0b32EEd3B6392f3#code" %}
+{% embed url="https://etherscan.io/token/0xF75C7a59bCD9bd207C4Ab1BEB0b32EEd3B6392f3" %}
 Etherscan Link
 {% endembed %}
 
