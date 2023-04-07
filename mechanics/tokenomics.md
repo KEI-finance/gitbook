@@ -69,7 +69,7 @@ The Kei Finance protocol implements inflationary mechanics through its Staking r
 
 ## Liquidity Pool
 
-The Kei Protocol's liquidity pool is a self-managing system that operates seamlessly without any human intervention. As the value of the treasury grows, the protocol automatically transfers a portion of these assets into the liquidity pool, expanding its size and boosting the overall stability of the token's price. This unique feature promotes a gradual, organic growth trajectory for the protocol over an extended period, facilitating sustainable and reliable returns for its users.
+The Kei Protocol's liquidity pool is a self-managing system that operates seamlessly without any human intervention. As the value of the treasury grows, the protocol automatically transfers a portion of these assets into the liquidity pool, expanding its size and boosting the overall stability of the token's price. This unique feature promotes a gradual, organic growth trajectory for the protocol over an extended period to facilitate a more sustainable approach.
 
 ## Private Round
 
@@ -79,7 +79,7 @@ Supply Charts\
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Example Total Supply Over 1000</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Example Total Supply Over 1000</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Example Total Supply over 3330 days</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Example Total Supply over 3330 days</p></figcaption></figure>
 
