@@ -8,7 +8,7 @@ Decentralized Finance (DeFi) protocols have rapidly evolved to provide users wit
 
 ## Tokenomics
 
-Check out the Kei [Tokenomics](mechanics/tokenomics.md) page to find out more about how the protocol manages the KEI token.
+Check out the KEI [Tokenomics](mechanics/tokenomics.md) page to find out more about how the protocol manages the KEI token.
 
 {% content-ref url="mechanics/tokenomics.md" %}
 [tokenomics.md](mechanics/tokenomics.md)
@@ -32,7 +32,7 @@ Check out the [Floor Price](mechanics/rewards.md) page to learn more about the K
 
 ### Fees
 
-Check out the [Fees](mechanics/fees.md) page to learn more about the Kei Finance protocol's floor price mechanism.
+Check out the [Fees](mechanics/fees.md) page to learn more about the Kei Finance protocol's fee mechanism.
 
 {% content-ref url="mechanics/fees.md" %}
 [fees.md](mechanics/fees.md)

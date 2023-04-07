@@ -10,17 +10,17 @@ Kei Protocol has a contract - known as rewards - that handles where each amount 
 
 ## Staking Rewards
 
-A percentage of the rewards distribution goes to stakers. This is the standard stakers reward. The Staker reward is calculated regarding a user’s return on investment when staking. To earn on Kei, users are required to stake on the Kei pool to earn the staked-Kei token, which is also the governance token. This token allows users to vote on improvements to Kei. To stake, users need to set their stake timeframe; such that, the larger the stake amount the more rewards and voting power, and the longer the stake duration the more rewards and voting power.
+A percentage of the rewards distribution goes to stakers. This is the standard stakers reward. The Staker reward is calculated regarding a user’s return on investment when staking. To earn on Kei, users are required to stake on the Kei pool to earn the staked-Kei (sKEI) token, which is also the governance token. This token allows users to vote on improvements to Kei. To stake, users need to set their stake timeframe; such that, the larger the stake amount the more rewards and voting power, and the longer the stake duration the more rewards and voting power.
 
-Every wallet that claims the Kei token is qualified to receive the Kei NFT. These collectibles are immediately tradable on Opensea as NFTs.
+Every wallet that claims the KEI token is qualified to receive the Kei NFT. These collectibles are immediately tradable on Opensea as NFTs.
 
 The staking reward pool is ever-increasing; such that revenue generated from penalties charged on stakers who defaulted is reallocated into the staking reward pool.
 
 ## &#x20;Treasury Rewards
 
-A portion of the platform’s rewards are allocated to the DAO treasury that constantly lends the native Kei token to the different sections of protocol such as the lending and the liquidity pools.
+A portion of the platform’s rewards are allocated to the DAO treasury that constantly lends the native KEI token to the different sections of protocol such as the lending and the liquidity pools.
 
-The treasury rewards are allocated to the treasury, such that, as more of these rewards gets accumulated in the treasury reserve, the floor price of the token increases in concert, since the treasury will always have more funds to buyback the Kei tokens.
+The treasury rewards are allocated to the treasury, such that, as more of these rewards gets accumulated in the treasury reserve, the floor price of the token increases in concert, since the treasury will always have more funds to buy back the KEI tokens.
 
 Through this mechanism, the treasury rewards will tend to grow the floor price of the token in the long run.
 
