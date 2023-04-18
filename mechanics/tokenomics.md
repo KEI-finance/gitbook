@@ -39,7 +39,7 @@ The protocol enforces a customizable trading fee on each buy and sell. This assi
 | Buy Fee  | 3%     |
 | Sell Fee | 3%     |
 
-The primary act right now of the buy sell fee is to apply [deflationary](tokenomics.md#deflationary-mechanisms) pressure with 88% of the 3% being burnt, and 12% of the 3% going to the operating company.
+The primary act right now of the buy sell fee is to apply [deflationary](tokenomics.md#deflationary-mechanisms) pressure with 80% of the 3% being burnt, and 20% of the 3% going to the operating company.
 
 ### Rewards
 
@@ -58,6 +58,8 @@ The sKEI token is more than just a token received through staking KEI; it symbol
 ## Daily Allocation
 
 The daily allocation, which is supplied by the Supplier, serves as the driving force behind the protocol's organic growth. Users can access this allocation only by purchasing directly through the website dashboard, which offers more competitive prices than buying through the Uniswap pool. The allocation is provided at a fixed price, enabling users to benefit from greater pricing stability. However, it is worth noting that the daily allocation has a maximum supply limit of 33,333 tokens. Once this limit is reached, it will not be reset until the following day based on UTC+0 time. This unique feature ensures a consistent and measured approach to token distribution, promoting greater fairness and transparency in the Kei Finance ecosystem.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>supplying 10,338.9 tokens at a fixed rate</p></figcaption></figure>
 
 ## Deflationary Mechanics
 
