@@ -30,6 +30,7 @@
 ## Mechanics
 
 * [🚀 Tokenomics](mechanics/tokenomics.md)
+* [💰 Reserve Currency](mechanics/reserve-currency.md)
 * [🪙 Rewards](mechanics/rewards.md)
 * [📈 Floor Price](mechanics/floor-price.md)
 * [💸 Fees](mechanics/fees.md)

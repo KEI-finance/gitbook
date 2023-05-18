@@ -28,17 +28,19 @@ Furthermore, we are continuously working on integrating new features, like a dec
 
 Kei introduces a refreshing take on tokenomics, meticulously designed to increase supply while securing stakeholder benefits. Its fundamentals are based on a guaranteed floor price, expanding liquidity, and smart treasury utilization, offering a stable and rewarding financial ecosystem amidst the crypto market's uncertainties.
 
-Check out the KEI [Tokenomics](mechanics/tokenomics.md) page to find out more about how the protocol manages the KEI token.
-
 {% content-ref url="mechanics/tokenomics.md" %}
 [tokenomics.md](mechanics/tokenomics.md)
 {% endcontent-ref %}
 
+### Reserve Currency
+
+Through meticulous Treasury management, an innovative reward distribution mechanism, and the prudent utilization of Kei's liquidity and Treasury assets, KEI's stability is set to be enhanced, facilitating the growth and prosperity of the Kei Finance ecosystem.
+
+(<mark style="background-color:green;">Insert Reserve currency tab</mark>)
+
 ### Profit Distribution
 
 Kei Protocol's profit distribution system stands as a testament to our commitment to equitable growth and community empowerment. We have carefully designed a model that ensures sustainable rewards for our stakeholders, while fueling consistent platform development, demonstrating that financial success and community enrichment can indeed coexist.
-
-Check out the [Rewards](technicals/kei-contracts/rewards.md) page to learn more about Kei Finance's Intelligent Profit distribution system.
 
 {% content-ref url="mechanics/rewards.md" %}
 [rewards.md](mechanics/rewards.md)
@@ -48,22 +50,17 @@ Check out the [Rewards](technicals/kei-contracts/rewards.md) page to learn more 
 
 KEI's Intelligent 'Floor Price' mechanism guarantees a minimum value for each token, providing a safety net for our community. This innovative approach ensures community confidence and trust, fostering stability and sustained growth in our financial ecosystem.
 
-\
-Check out the [Floor Price](mechanics/rewards.md) page to learn more about the Kei Finance protocol's floor price mechanism.
-
 {% content-ref url="mechanics/floor-price.md" %}
 [floor-price.md](mechanics/floor-price.md)
 {% endcontent-ref %}
 
 ### Fees
 
-Check out the [Fees](mechanics/fees.md) page to learn more about the Kei Finance protocol's fee mechanism.
+KEI Finance has implemented a strategic fee structure designed to foster sustainable growth and reward protocol participants. Our fixed transaction fee of 0.3%, applied to every buy or sell operation, not only drives platform longevity but is also redistributed across stakers, the treasury, affiliates, and administrative channels, thereby promoting a balanced, incentivized ecosystem.
 
 {% content-ref url="mechanics/fees.md" %}
 [fees.md](mechanics/fees.md)
 {% endcontent-ref %}
-
-
 
 ## Applications
 
@@ -71,13 +68,25 @@ Check out the [Fees](mechanics/fees.md) page to learn more about the Kei Finance
 [bonding.md](apps/bonding.md)
 {% endcontent-ref %}
 
+### Staking
+
+In essence, Kei Finance's swapping function elevates the standard DeFi trading experience through its innovative and user-focused features. With its custom SwapRouter, wallet indexing, and smart price comparison mechanisms, it enhances the value of every transaction, promotes fair affiliate reward distribution, and safeguards KEI's price stability. These advanced functionalities manifest the Kei Finance commitment to creating a fair, profitable, and resilient DeFi ecosystem.
+
 {% content-ref url="apps/staking/" %}
 [staking](apps/staking/)
 {% endcontent-ref %}
 
+### Swapping
+
+In essence,
+
 {% content-ref url="apps/swapping.md" %}
 [swapping.md](apps/swapping.md)
 {% endcontent-ref %}
+
+### Affiliate
+
+In essence,
 
 {% content-ref url="apps/affiliate.md" %}
 [affiliate.md](apps/affiliate.md)
