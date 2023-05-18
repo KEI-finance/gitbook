@@ -6,28 +6,31 @@ description: The tokenomics of the Kei Finance protocol and its KEI, sKEI tokens
 
 {% hint style="info" %}
 The Kei Finance protocol is distinguished by its organic growth strategy, which sets it apart from most protocols that mint the total supply upfront. Instead, Kei Finance mints only the minimum required to launch and gradually increases the supply as the protocol gains momentum. This approach ensures a stable, long-term growth trajectory, minimizing the risk of immediate selling pressure upon launch.
+
+A crucial aspect to bear in mind about the KEI token is its intrinsic value, as it is never minted out of thin air. In fact, every mint event is **always backed** by the treasury, setting it apart from other platforms. KEI adopts a conservative approach and will only mint new tokens once it has **generated profit**. The only exception to this rule pertains to the liquidity pool mechanics, which mints tokens upon supplying liquidity and burns them when removing liquidity. This ensures the overall stability of the KEI token and protects it against potential devaluation risks.
 {% endhint %}
-
-> The two tokens that specifically power the Kei protocol are [**KEI**](tokenomics.md#kei-token) and [**sKEI**](tokenomics.md#skei-token). Where [**sKEI**](tokenomics.md#skei-token) represents the staking token for the protocol.
-
-| Title                                                        | Amount (KEI) |  Price (USD)  |
-| ------------------------------------------------------------ | -----------: | :-----------: |
-| [Private Round](tokenomics.md#private-round)                 |    5,000,000 |     $0.03     |
-| [Initial Liquidity Allocation](tokenomics.md#liquidity-pool) |    2,000,000 |     $0.03     |
-| [Daily Allocation](tokenomics.md#daily-allocation)           |       33,333 | Current Price |
-
-
 
 ## KEI token
 
-The KEI token can be found at the following address `0xF75C7a59bCD9bd207C4Ab1BEB0b32EEd3B6392f3`
+Address:`0xF75C7a59bCD9bd207C4Ab1BEB0b32EEd3B6392f3`
+
+> The two tokens that specifically power the Kei protocol are [**KEI**](tokenomics.md#kei-token) and [**sKEI**](tokenomics.md#skei-token). Where [**sKEI**](tokenomics.md#skei-token) represents the staking token for the protocol.
+
+| Title                                                        | Amount (KEI) |  Price (USD)  | Lock duration |
+| ------------------------------------------------------------ | -----------: | :-----------: | ------------- |
+| [Private Round](tokenomics.md#private-round)                 |    4,000,000 |     $0.03     | 2+ years      |
+| Team                                                         |    1,000,000 |     $0.03     | 10 years      |
+| [Initial Liquidity Allocation](tokenomics.md#liquidity-pool) |    2,000,000 |     $0.03     | Indefinitate  |
+| [Daily Allocation](tokenomics.md#daily-allocation)           |       33,333 | Current Price | NA            |
+
+
 
 {% embed url="https://etherscan.io/token/0xF75C7a59bCD9bd207C4Ab1BEB0b32EEd3B6392f3" %}
 Etherscan Link
 {% endembed %}
 
 {% hint style="success" %}
-A crucial aspect to bear in mind about the KEI token is its intrinsic value, as it is never minted out of thin air. In fact, every mint event is **always backed** by the treasury, setting it apart from other platforms. KEI adopts a conservative approach and will only mint new tokens once it has **generated profit**. The only exception to this rule pertains to the liquidity pool mechanics, which mints tokens upon supplying liquidity and burns them when removing liquidity. This ensures the overall stability of the KEI token and protects it against potential devaluation risks.
+
 {% endhint %}
 
 ### Trading Fees
