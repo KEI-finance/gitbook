@@ -15,6 +15,7 @@
   * [Youtube](https://youtube.com/)
   * [Linkedin](https://www.linkedin.com/company/kei-finance)
 * [FAQ](faq.md)
+* [Page 1](page-1.md)
 
 ## Apps
 
@@ -26,6 +27,8 @@
   * [Staking NFT's](apps/staking/nft-stake.md)
 * [🗣 Affiliate](apps/affiliate.md)
 * [🤝 Governance - Coming Soon](apps/governance-coming-soon.md)
+* [💱 Decentralised Asset Management ](apps/decentralised-asset-management.md)
+* [💹 NFT Stake Trading](apps/nft-stake-trading.md)
 
 ## Mechanics
 
