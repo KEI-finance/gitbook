@@ -22,7 +22,7 @@ This makes KEI Finance a remarkably lucrative platform for token holders, as the
 
 Our advanced architecture offers robust security and transparency, with our KEI contract visible for public scrutiny.&#x20;
 
-Furthermore, we are continuously working on integrating new features, like a decentralized asset management and borrowing platform, to offer you a comprehensive DeFi experience. Join KEI Finance today and explore a smarter, more rewarding world of decentralized finance. Welcome to the future.
+Furthermore, we are continuously working on integrating new features, like a decentralized, automated asset management and borrowing platform, LP staking, Portfolio trading platform and more, to offer you a comprehensive DeFi experience. Join KEI Finance today and explore a smarter, more rewarding world of decentralized finance. **Welcome to the future.**
 
 ## Tokenomics
 
