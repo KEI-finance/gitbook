@@ -1,5 +1,5 @@
 ---
-description: Enhancing the Trading Experience
+description: Simplifying the user experience
 ---
 
 # 🔄 Swapping

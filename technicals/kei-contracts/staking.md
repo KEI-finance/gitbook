@@ -49,7 +49,7 @@ function MIN_STAKE_DURATION() external view returns (uint256);
 
 ### Gradient
 
-Returns the steepness of the [Reward Curve](broken-reference), and [Penalty Curve](../../apps/staking/unstake-penalty.md#penalty-curve).
+Returns the steepness of the [Reward Curve](broken-reference), and [Penalty Curve](../../applications/staking/unstake-penalty.md#penalty-curve).
 
 ```solidity
 function MIN_STAKE_DURATION() external view returns (uint256);
@@ -121,7 +121,7 @@ function MIN_STAKE_DURATION() external view returns (uint256);
 
 ### Unstake Penalty Of
 
-Returns the % penalty from unstaking a particular stake. Refer to [Unstake Penalty](../../apps/staking/unstake-penalty.md) for the math. The % Value is in the format of `type(uint16).max`
+Returns the % penalty from unstaking a particular stake. Refer to [Unstake Penalty](../../applications/staking/unstake-penalty.md) for the math. The % Value is in the format of `type(uint16).max`
 
 ```solidity
 function MIN_STAKE_DURATION() external view returns (uint256);
@@ -168,7 +168,7 @@ function detailsOf(uint256 stakeId) external view returns (StakeDetails memory);
 
 ### NFT Descriptor
 
-Returns the location of the [NFTDescriptor](nft-descriptor.md) contract. Used in generating the metadata for the [NFT Stake](../../apps/staking/nft-stake.md).
+Returns the location of the [NFTDescriptor](nft-descriptor.md) contract. Used in generating the metadata for the [NFT Stake](broken-reference).
 
 ```solidity
 function nftDescriptor() external view returns (address);

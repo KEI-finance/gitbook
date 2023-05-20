@@ -6,88 +6,36 @@ description: >-
 
 # Welcome to Kei Finance
 
-KEI Finance is about more than just quick gains – it's about long-term growth, quality technology, and creating real change in the DeFi sector. We're committed to addressing the industry's pain points and restoring trust.&#x20;
+KEI Finance is more than just a DeFi platform; we are an agent of change seeking to revolutionize the DeFi sector by fusing industry-leading technology with a steadfast commitment to long-term growth. Our goal is to overcome the inherent challenges plaguing the DeFi landscape and restore trust within the community, using an approach that blends innovative solutions with user-centric financial services.
 
-Our mission is to redefine your DeFi experience, providing a comprehensive platform that blends cutting-edge technology with user-centric financial services to provide a fully automatic, self-governing ecosystem. KEI is designed to pave the way for an entirely new DeFi landscape – one where the tokenomics are in favour of the Hodlers.&#x20;
+Our mission at KEI Finance is to redefine your DeFi experience by developing an all-encompassing, fully automated, and self-governing ecosystem. KEI's unique design lays the groundwork for an advanced DeFi landscape, one where the tokenomics are decisively engineered in favor of the stakeholders, thus promoting the concept of a truly democratized financial system.
 
-By ensuring a hard floor price that continually increases over time, we aim to negate any negative impacts and build a system that provides consistent growth and value.&#x20;
+### **The Reserve Currency Aspect of KEI**
 
-At KEI Finance, we've designed innovative reward distribution mechanisms that funnel profits back to our users. Our system ensures that as KEI Finance grows, so does your share of the profits.&#x20;
+As a reserve currency in the DeFi landscape, KEI holds a unique position. KEI Finance ensures a hard floor price that gradually increases over time, a move intended to nullify any negative market impacts and foster a system that delivers consistent growth and value.
 
-KEI's unique financial structuring is designed to increase the current supply while providing substantial benefits to invested stakeholders.&#x20;
+### **Reward Distribution and Value Accrual**
 
-The protocol we employ is unlike any other, avoiding the dilution of token value prevalent in many systems. How? Our innovative token supply mechanism sees every token purchase's entire cost go to the protocol, directly benefiting our users by increasing floor prices, liquidity pool sizes, or staking rewards, thus ensuring a level of price security for our token holders.&#x20;
+At KEI Finance, we believe in rewarding our stakeholders. Hence, we have devised innovative reward distribution mechanisms that channel the platform's profits back to its users. As the KEI ecosystem grows, so does your share of the profits, thanks to a unique financial structure designed to enhance the supply while conferring significant benefits to the invested stakeholders.
 
-This makes KEI Finance a remarkably lucrative platform for token holders, as the protocol's fund control grows significantly with each token supply.&#x20;
+### **Innovative Token Supply Mechanism**
 
-Our advanced architecture offers robust security and transparency, with our KEI contract visible for public scrutiny.&#x20;
+KEI's protocol breaks free from the typical pitfalls of dilution of token value. Our pioneering token supply mechanism ensures that the entire cost of every token purchase is funneled into the protocol. This process directly benefits our users by increasing floor prices, expanding liquidity pool sizes, or enhancing staking rewards, thereby ensuring a degree of price stability for our token holders.
 
-Furthermore, we are continuously working on integrating new features, like a decentralized, automated asset management and borrowing platform, LP staking, Portfolio trading platform and more, to offer you a comprehensive DeFi experience. Join KEI Finance today and explore a smarter, more rewarding world of decentralized finance. **Welcome to the future.**
+### **Security, Transparency, and Growth**
 
-## Tokenomics
+KEI Finance stands tall on pillars of robust security and complete transparency. Our KEI contract is open for public scrutiny, showcasing our commitment to maintaining utmost clarity. Moreover, as KEI's fund control flourishes with each token supply, our platform becomes increasingly lucrative for token holders.
 
-Kei introduces a refreshing take on tokenomics, meticulously designed to increase supply while securing stakeholder benefits. Its fundamentals are based on a guaranteed floor price, expanding liquidity, and smart treasury utilization, offering a stable and rewarding financial ecosystem amidst the crypto market's uncertainties.
+## **The Future is Here**
 
-{% content-ref url="mechanics/tokenomics.md" %}
-[tokenomics.md](mechanics/tokenomics.md)
-{% endcontent-ref %}
+Kei Finance is consistently striving to incorporate new features like:
 
-### Reserve Currency
+* Swapping and locked-single-staking
+* IDentity and affiliates
+* Decentralized automated asset trading
+* Lending and borrowing platform
+* LP staking
+* Staked NFT trading platform
+* Governance DAO
 
-Through meticulous Treasury management, an innovative reward distribution mechanism, and the prudent utilization of Kei's liquidity and Treasury assets, KEI's stability is set to be enhanced, facilitating the growth and prosperity of the Kei Finance ecosystem.
-
-(<mark style="background-color:green;">Insert Reserve currency tab</mark>)
-
-### Profit Distribution
-
-Kei Protocol's profit distribution system stands as a testament to our commitment to equitable growth and community empowerment. We have carefully designed a model that ensures sustainable rewards for our stakeholders, while fueling consistent platform development, demonstrating that financial success and community enrichment can indeed coexist.
-
-{% content-ref url="mechanics/rewards.md" %}
-[rewards.md](mechanics/rewards.md)
-{% endcontent-ref %}
-
-### Floor Price
-
-KEI's Intelligent 'Floor Price' mechanism guarantees a minimum value for each token, providing a safety net for our community. This innovative approach ensures community confidence and trust, fostering stability and sustained growth in our financial ecosystem.
-
-{% content-ref url="mechanics/floor-price.md" %}
-[floor-price.md](mechanics/floor-price.md)
-{% endcontent-ref %}
-
-### Fees
-
-KEI Finance has implemented a strategic fee structure designed to foster sustainable growth and reward protocol participants. Our fixed transaction fee of 0.3%, applied to every buy or sell operation, not only drives platform longevity but is also redistributed across stakers, the treasury, affiliates, and administrative channels, thereby promoting a balanced, incentivized ecosystem.
-
-{% content-ref url="mechanics/fees.md" %}
-[fees.md](mechanics/fees.md)
-{% endcontent-ref %}
-
-## Applications
-
-{% content-ref url="apps/bonding.md" %}
-[bonding.md](apps/bonding.md)
-{% endcontent-ref %}
-
-### Staking
-
-In essence, Kei Finance's swapping function elevates the standard DeFi trading experience through its innovative and user-focused features. With its custom SwapRouter, wallet indexing, and smart price comparison mechanisms, it enhances the value of every transaction, promotes fair affiliate reward distribution, and safeguards KEI's price stability. These advanced functionalities manifest the Kei Finance commitment to creating a fair, profitable, and resilient DeFi ecosystem.
-
-{% content-ref url="apps/staking/" %}
-[staking](apps/staking/)
-{% endcontent-ref %}
-
-### Swapping
-
-In essence,
-
-{% content-ref url="apps/swapping.md" %}
-[swapping.md](apps/swapping.md)
-{% endcontent-ref %}
-
-### Affiliate
-
-In essence,
-
-{% content-ref url="apps/affiliate.md" %}
-[affiliate.md](apps/affiliate.md)
-{% endcontent-ref %}
+Our vision is to offer you a comprehensive, rewarding, and seamless DeFi experience. Join KEI Finance today and step into a future where decentralized finance is smarter, more efficient, and unequivocally rewarding. Welcome to the future, today.

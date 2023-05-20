@@ -2,48 +2,60 @@
 description: Understanding rewards and Kei distribution
 ---
 
-# 🪙 Rewards
+# 🪙 Profit Distribution
 
 {% hint style="info" %}
 Kei Protocol has a contract - known as rewards - that handles where each amount of profit generated on the platform is allocated. The Platform rewards are basically the rewards that go through the reward contract and are then distributed to; Staking, Treasury, Affiliates, Debt Repayment and affiliate reward programs.
 {% endhint %}
 
-## Staking Rewards
+KEI Finance ensures fair and sustainable profit distribution, aimed at aligning all stakeholders towards the common goal of the protocol's growth. Our robust tokenomics and unique profit distribution system benefit all participants, including stakers, the treasury, debt repayment mechanisms, and affiliates.
 
-A percentage of the rewards distribution goes to stakers. This is the standard stakers reward. The Staker reward is calculated regarding a user’s return on investment when staking. To earn on Kei, users are required to stake on the Kei pool to earn the staked-Kei (sKEI) token, which is also the governance token. This token allows users to vote on improvements to Kei. To stake, users need to set their stake timeframe; such that, the larger the stake amount the more rewards and voting power, and the longer the stake duration the more rewards and voting power.
+### Staking Rewards
 
-Every wallet that claims the KEI token is qualified to receive the Kei NFT. These collectibles are immediately tradable on Opensea as NFTs.
+Staking rewards make up a significant part of KEI's profit distribution. By staking KEI tokens, users receive Staked-KEI (sKEI) tokens, granting them governance rights and a portion of the protocol's rewards. The reward structure incentivizes long-term and large-scale staking with greater rewards and voting power. Any penalties incurred by stakers prematurely unstaking are reallocated back into the staking reward pool, ensuring its continuous growth. Additionally, stakers receive a unique KEI NFT, immediately tradable on NFT marketplaces.
 
-The staking reward pool is ever-increasing; such that revenue generated from penalties charged on stakers who defaulted is reallocated into the staking reward pool.
+### Treasury Rewards
 
-## &#x20;Treasury Rewards
+KEI's treasury plays a pivotal role in stabilizing and growing the protocol. A portion of the rewards is channeled into the treasury, which lends the native KEI tokens to different parts of the protocol, such as the lending and liquidity pools. As these rewards accumulate, they effectively increase the token's floor price due to the treasury's ability to buy back KEI tokens, creating a sustainable long-term growth model for the token.
 
-A portion of the platform’s rewards are allocated to the DAO treasury that constantly lends the native KEI token to the different sections of protocol such as the lending and the liquidity pools.
+### Debt Rewards
 
-The treasury rewards are allocated to the treasury, such that, as more of these rewards gets accumulated in the treasury reserve, the floor price of the token increases in concert, since the treasury will always have more funds to buy back the KEI tokens.
+The KEI Protocol incorporates a debt concept wherein the platform can borrow funds from the treasury and redistribute these funds to other protocol sections, such as liquidity pools. These funds are recorded as debts and are systematically offset through the debt reward distribution. Once all debts are paid off, the debt rewards allocation is redirected to the treasury, bolstering the platform's reserves and enhancing the token's floor price.
 
-Through this mechanism, the treasury rewards will tend to grow the floor price of the token in the long run.
+### Affiliate Rewards
 
-## Debt Rewards
+KEI Finance rewards its community members for expanding its user base through a multi-tiered affiliate program. It represents a smaller but substantial portion of the overall reward pool. If a user (A) refers a new user (B) who makes a purchase, the referrer (A) earns 80% of the profit allocated to the affiliate reward. This reward system extends to two more levels, with the referrer earning 10% for purchases made by individuals referred by their invitees.
 
-Kei Protocol has a concept of debt; where the platform can borrow funds from the treasury and redistribute these funds to any sections of the protocol that is in want.
+The KEI Finance affiliate program encourages active community involvement and strengthens the network effect, thus contributing to the platform's overall growth and prosperity. The rewards are only distributed when the invitee executes a trade on the platform, ensuring a genuine expansion of the user base.
 
-A good example of this is the liquidity pools; where funds are moved from the treasury into the liquidity pool to support sufficient trades.
+Diagram:
 
-As such, these redistributed funds from the treasury are recorded as debts, where the platform perpetually offsets these loans through the debt reward distribution until there are no more debts to be paid.
+```yaml
+yamlCopy code           ____________ KEI Profit Distribution ____________
+          /                                                  \
+         /                                                    \
+        /                                                      \
+       /                                                        \
+   Staking Rewards                                        Treasury Rewards
+       |                                                            |
+       |                                                            |
+    sKEI Tokens                                                Buyback KEI Tokens
+       |                                                            |
+  Governance Rights                                            Increase Floor Price
+       |                                                            |
+Increase Reward Pool                                       Increase Treasury Reserve
+       |                                                            |
+Penalty Reallocation                                        Debt Reward Allocation
+                                                              |
+                                                         Debt Repayment
+                                                              |
+                                                       Increase Floor Price
+                                                              |
+                                                    Affiliate Rewards
+                                                              |
+                                                   Referral Profit Sharing
+                                                              |
+                                                  Network Effect & Growth
+```
 
-Upon offsetting all of the debts accrued by borrowing funds from the treasury to service other sections of the protocol, all debts rewards distribution allocated for the repayment of the platform’s debts will go directly to the treasury, to further boost the platform’s reserve. &#x20;
-
-At its core, the debt reward pays back to a treasury which increases the floor price of the token.
-
-## Affiliate Rewards
-
-The Affiliate reward is a part of the profit distribution representing a much smaller percentage of the overall reward pool. Users of Kei Protocol can join the referral program to earn more in rewards.
-
-How the affiliate/referral reward program works is; should person A refer person B to the platform and person B make any purchases, then person A would earn a portion of 80% of the profit that is allocated to the affiliate reward. In simple terms, the reward distribution for affiliate rewards is such that the rewards go from the platform’s profit to the affiliate reward to person A rewards.
-
-Kei Protocol allows for a multi-level affiliate system where an affiliate - person B - can refer another affiliate - person C - such that if person C makes a purchase, then person A will receive 10% of the profit allocated to the affiliate reward from the enter platform’s profit. The Kei Protocol affiliate program is a multi-tiered reward system that spans three levels - with the first tier, the referrer earns a reward of 80% in profit, and in the other two sub-levels, the second-person referrer earns 10% respectively.
-
-Affiliate rewards are only awarded to referrers for their invitees who makes an actual trade on the platform.
-
-For more info on how to get started with affiliates, [Check Here](../getting-started/get-more-rewards.md)
+Our profit distribution system, through these four interconnected mechanisms, establishes a positive feedback loop, fostering platform sustainability, token value growth, and community involvement.

@@ -10,7 +10,7 @@ A percentage of rewards are distributed to the admin contract to assist with dev
 
 > Admin reward percent: **10%**
 >
-> A percentage of these rewards are allocated to [Affiliate](../../apps/affiliate.md) rewards.
+> A percentage of these rewards are allocated to [Affiliate](../../applications/affiliate.md) rewards.
 
 TODO burn affiliate leftover funds
 

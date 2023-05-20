@@ -6,6 +6,30 @@
   * [Buying / Selling](getting-started/buying-the-token.md)
   * [Earning Rewards](getting-started/earning-rewards.md)
   * [Get More Rewards](getting-started/get-more-rewards.md)
+
+## APPLICATIONS
+
+* [🔄 Swapping](applications/swapping.md)
+* [🔓 Supplying](applications/bonding.md)
+* [🌱 Staking](applications/staking/README.md)
+  * [How it works](applications/staking/how-it-works.md)
+  * [Unstake Penalty](applications/staking/unstake-penalty.md)
+* [🗣 Identity](applications/affiliate.md)
+* [💱 Decentralised Asset Management ](applications/decentralised-asset-management.md)
+* [💹 StakeFrame: KEI Staked NFT Trading](applications/stakeframe-kei-staked-nft-trading.md)
+* [🤝 Governance - Coming Soon](applications/governance-coming-soon.md)
+
+## Mechanics
+
+* [🚀 Tokenomics](mechanics/tokenomics.md)
+* [💰 Reserve Currency](mechanics/reserve-currency.md)
+* [🪙 Profit Distribution](mechanics/rewards.md)
+* [📈 Floor Price](mechanics/floor-price.md)
+* [💸 Fees](mechanics/fees.md)
+
+***
+
+* [FAQ](faq.md)
 * [Contact Us](contact-us/README.md)
   * [Website](https://kei.fi)
   * [Telegram](https://t.me/KeiFinance)
@@ -14,29 +38,6 @@
   * [Facebook](https://www.facebook.com/KeiFinance/)
   * [Youtube](https://youtube.com/)
   * [Linkedin](https://www.linkedin.com/company/kei-finance)
-* [FAQ](faq.md)
-* [Page 1](page-1.md)
-
-## Apps
-
-* [🔄 Swapping](apps/swapping.md)
-* [🔓 Supplying](apps/bonding.md)
-* [🌱 Staking](apps/staking/README.md)
-  * [How it works](apps/staking/how-it-works.md)
-  * [Unstake Penalty](apps/staking/unstake-penalty.md)
-  * [Staking NFT's](apps/staking/nft-stake.md)
-* [🗣 Affiliate](apps/affiliate.md)
-* [🤝 Governance - Coming Soon](apps/governance-coming-soon.md)
-* [💱 Decentralised Asset Management ](apps/decentralised-asset-management.md)
-* [💹 NFT Stake Trading](apps/nft-stake-trading.md)
-
-## Mechanics
-
-* [🚀 Tokenomics](mechanics/tokenomics.md)
-* [💰 Reserve Currency](mechanics/reserve-currency.md)
-* [🪙 Rewards](mechanics/rewards.md)
-* [📈 Floor Price](mechanics/floor-price.md)
-* [💸 Fees](mechanics/fees.md)
 
 ## Technicals
 

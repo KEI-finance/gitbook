@@ -12,13 +12,13 @@ Kei Finance stands out among DeFi protocols with its strategy of organic growth.
 The KEI token carries **intrinsic value** as its creation is never arbitrary but rather **treasury-backed**, distinguishing it from others. The protocol follows a cautious tactic, **only minting new tokens post-profit realization**, except in the case of liquidity pool operations. **Tokens are minted upon liquidity supply and burned upon removal,** safeguarding KEI's stability and shielding it from devaluation threats. This unique approach to tokenomics bolsters **long-term stability and value retention** in the KEI ecosystem.
 {% endhint %}
 
-> ## **KEI Tokenomics**
+## **KEI Tokenomics**
 
 | Category                                              | Tokens     | Price Per Token | Lock-In Period |
 | ----------------------------------------------------- | ---------- | --------------- | -------------- |
 | Team                                                  | 1 million  | $0.03           | 10 years       |
 | Private Round                                         | 3 million  | $0.03           | 1+ years       |
-| Public Sale (Pending)                                 | 32 million | $0.04           | -              |
+| Public Sale                                           | 32 million | $0.04           | -              |
 | Operational Activities (airdrops, rewards, team, etc) | 4 million  | -               | -              |
 | Liquidity provision                                   | 10 million | 0.042           | -              |
 

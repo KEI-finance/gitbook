@@ -57,7 +57,7 @@ function tokenController() external view returns (ITokenController);
 
 ### Staking
 
-Returns the [Staking](staking.md). Or [read how it works.](../../apps/staking/)
+Returns the [Staking](staking.md). Or [read how it works.](../../applications/staking/)
 
 ```solidity
 function staking() external view returns (IStaking);
@@ -73,7 +73,7 @@ function treasury() external view returns (ITreasury);
 
 ### Bonding
 
-Returns the [Bonding](bonding.md). Or [read how it works.](../../apps/bonding.md)
+Returns the [Bonding](bonding.md). Or [read how it works.](../../applications/bonding.md)
 
 ```solidity
 function bonding() external view returns (IBonding);
