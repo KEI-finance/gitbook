@@ -31,11 +31,12 @@ KEI Finance stands tall on pillars of robust security and complete transparency.
 Kei Finance is consistently striving to incorporate new features like:
 
 * Swapping and locked-single-staking
-* IDentity and affiliates
-* Decentralized automated asset trading
+* Decentralized automated asset trading platform
+* Decentralized Automated Market Maker
 * Lending and borrowing platform
 * LP staking
 * Staked NFT trading platform
 * Governance DAO
+* Identity and affiliates
 
 Our vision is to offer you a comprehensive, rewarding, and seamless DeFi experience. Join KEI Finance today and step into a future where decentralized finance is smarter, more efficient, and unequivocally rewarding. Welcome to the future, today.
