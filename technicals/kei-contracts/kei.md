@@ -73,7 +73,7 @@ function treasury() external view returns (ITreasury);
 
 ### Bonding
 
-Returns the [Bonding](bonding.md). Or [read how it works.](../../applications/bonding.md)
+Returns the [Bonding](bonding.md). Or [read how it works.](../../mechanics/bonding.md)
 
 ```solidity
 function bonding() external view returns (IBonding);
