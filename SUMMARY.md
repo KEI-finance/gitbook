@@ -9,23 +9,23 @@
 
 ## APPLICATIONS
 
-* [🔄 Swapping](applications/swapping.md)
-* [🌱 Staking](applications/staking/README.md)
+* [🔄 K-swap: advanced Swapping](applications/swapping.md)
+* [🌱 K-stake: Single KEI Staking](applications/staking/README.md)
   * [How it works](applications/staking/how-it-works.md)
   * [Unstake Penalty](applications/staking/unstake-penalty.md)
-* [🗣 Identity](applications/affiliate.md)
-* [💱 Decentralised Asset Management - Coming Soon](applications/decentralised-asset-management-coming-soon.md)
-* [💹 StakeFrame: KEI Staked NFT Trading](applications/stakeframe-kei-staked-nft-trading.md)
-* [➡ Borrowing Platform - Coming soon](applications/borrowing-platform-coming-soon.md)
+* [🗣 K-domain: Unique identify and referral](applications/affiliate.md)
+* [💱 K-trade: Decentralised Automated Trading Platform - Coming Soon](applications/k-trade-decentralised-automated-trading-platform-coming-soon.md)
+* [➡ K-borrow: Lending & Borrowing Platform - Coming soon](applications/k-borrow-lending-and-borrowing-platform-coming-soon.md)
+* [💹 K-positions: KEI Staked NFT Trading](applications/k-positions-kei-staked-nft-trading.md)
 * [🤝 Governance - Coming Soon](applications/governance-coming-soon.md)
 
 ## Mechanics
 
+* [🚀 Tokenomics](mechanics/tokenomics.md)
+* [💰 Reserve Currency](mechanics/reserve-currency.md)
 * [🏛 Architecture](mechanics/architecture.md)
 * [🔑 Processor](mechanics/processor.md)
 * [🔓 Supplying](mechanics/bonding.md)
-* [🚀 Tokenomics](mechanics/tokenomics.md)
-* [💰 Reserve Currency](mechanics/reserve-currency.md)
 * [🪙 Profit Distribution](mechanics/rewards.md)
 * [📈 Floor Price](mechanics/floor-price.md)
 * [💸 Fees](mechanics/fees.md)
