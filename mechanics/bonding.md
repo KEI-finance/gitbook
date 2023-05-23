@@ -12,7 +12,9 @@ description: Supporting long-term growth through sustainable token supplies.
 
 The supplier works in sync with the custom Kei Finance swap router that determines the best price for fixed token purchases within the last 12 hours of the Uniswap pool. The supplier contract has the ability to mint daily KEI tokens capped at 33 333.&#x20;
 
-Through the minting process a fee is incurred by the protocol which is then split up and distributed throughout the platform to LP pools and user rewards.&#x20;
+Through the minting process a fee is incurred by the protocol which is then split up and distributed throughout the platform to LP pools and user rewards.\
+\
+**Example:** If the supplier mints $10 worth of KEI the 3% fee is applied distributing $0.30 to the platform.
 
 ### How does The Supplier work?&#x20;
 
