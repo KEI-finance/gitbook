@@ -41,7 +41,7 @@ A small percentage determined by the number of platform users and volume is dist
 Diagram:
 
 ```yaml
-yamlCopy code           ____________ KEI Profit Distribution ____________
+            ____________ KEI Profit Distribution ____________
           /                                                  \
          /                                                    \
         /                                                      \

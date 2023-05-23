@@ -9,15 +9,16 @@
 
 ## APPLICATIONS
 
-* [🔄 K-swap: advanced Swapping](applications/swapping.md)
-* [🌱 K-stake: Single KEI Staking](applications/staking/README.md)
+* [🔄 K-Swap: advanced Swapping](applications/swapping.md)
+* [🌱 K-Stake: Single KEI Staking](applications/staking/README.md)
   * [How it works](applications/staking/how-it-works.md)
   * [Unstake Penalty](applications/staking/unstake-penalty.md)
-* [🗣 K-domain: Unique identify and referral](applications/affiliate.md)
-* [💱 K-trade: Decentralised Automated Trading Platform - Coming Soon](applications/k-trade-decentralised-automated-trading-platform-coming-soon.md)
-* [➡ K-borrow: Lending & Borrowing Platform - Coming soon](applications/k-borrow-lending-and-borrowing-platform-coming-soon.md)
-* [💹 K-positions: KEI Staked NFT Trading](applications/k-positions-kei-staked-nft-trading.md)
-* [🤝 Governance - Coming Soon](applications/governance-coming-soon.md)
+* [🗣 K-Domain: Unique identify and referral](applications/affiliate.md)
+* [💱 K-Trade: Decentralised Automated Trading Platform - Coming Soon](applications/k-trade-decentralised-automated-trading-platform-coming-soon.md)
+* [🔥 K-Pool: LP Pool & No-loss Lottery](applications/k-pool-lp-pool-and-no-loss-lottery.md)
+* [➡ K-Borrow: Lending & Borrowing Platform - Coming soon](applications/k-borrow-lending-and-borrowing-platform-coming-soon.md)
+* [💹 K-Positions: KEI Portfolio Trading - Coming Soon](applications/k-positions-kei-portfolio-trading-coming-soon.md)
+* [🤝 K-DAO: Governance - Coming Soon](applications/governance-coming-soon.md)
 
 ## Mechanics
 
@@ -34,11 +35,8 @@
 
 * [FAQ](faq.md)
 * [Contact Us](contact-us/README.md)
-  * [Website](https://kei.fi)
-  * [Telegram](https://t.me/KeiFinance)
   * [Twitter](https://twitter.com/KeiFinance)
-  * [Instagram](https://www.instagram.com/keifinance/)
-  * [Facebook](https://www.facebook.com/KeiFinance/)
+  * [Telegram](https://t.me/KeiFinance)
   * [Youtube](https://youtube.com/)
   * [Linkedin](https://www.linkedin.com/company/kei-finance)
 

@@ -22,4 +22,4 @@ The Supplier contract is self-executing, minting 'x' tokens per day where the va
 \
 **Formula:**
 
-(IS IT POSSIBLE TO HAVE A DIAGRAM HERE)&#x20;
+(<mark style="background-color:green;">IS IT POSSIBLE TO HAVE A DIAGRAM HERE)</mark>&#x20;

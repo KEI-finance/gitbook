@@ -4,12 +4,22 @@ description: A modular and replaceable contract framework that supports system u
 
 # 🏛 Architecture
 
-### The Architect Contract - An Overview&#x20;
+## **The Architect Contract: Enhancing Smart Contract Architecture**
 
-The Architect contract is developed in a way that allows the company swap out contract components in the event of a required platform upgrade or internal platform issue.&#x20;
+The Architect Contract plays a vital role within KEI Finance's advanced smart contract architecture. It provides a resilient, secure, and modular framework for the continuous evolution and improvement of the platform.
 
-Built with multiple seperated contracts The Architect ensures each contract only is issued with the roles required to perfom its sole function. This is turn makes it easier to replace or upgrade an individual contract while maximising contract security.&#x20;
+### **Modular Design**&#x20;
 
-It has been built in such a way that future protocol development is enhanced as The Architect can be plugged directly into existing smart contract distribution systems.&#x20;
+The Architect Contract is ingeniously designed with multiple separate contracts, each focusing on performing its unique function. By giving each contract only the roles required to perform its function, the system can be streamlined and focused, which contributes to overall system efficiency and security.
 
-Whenever the protocol deploys a new profit generating product it will automatically be connected into the autonomous nature of the protocol.&#x20;
+### **Contract Upgradeability**&#x20;
+
+This modular design also facilitates upgradeability. In the event of a platform upgrade or internal issue, individual contracts can be swapped out and replaced or upgraded without affecting the entire system. This level of modularity mitigates risk and ensures smooth transitions during updates or issue resolution.
+
+### **Enhanced Future Development**&#x20;
+
+The Architect has been constructed to facilitate future protocol development. Due to its plug-and-play nature, it can be easily integrated into existing smart contract distribution systems. This capability greatly accelerates the deployment and integration of new features, reducing development time and enhancing the protocol's ability to innovate.
+
+### **Autonomous Integration**
+
+When the protocol deploys a new profit-generating product, it is automatically connected into the autonomous framework of the protocol via the Architect Contract. This ensures that new products are seamlessly integrated into the ecosystem, with their profits channeled efficiently through the protocol's automated systems.

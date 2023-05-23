@@ -2,7 +2,7 @@
 description: Amplifying Investment Growth Through Commitment
 ---
 
-# 🌱 K-stake: Single KEI Staking
+# 🌱 K-Stake: Single KEI Staking
 
 ## **The Core Function: Long-Term Capital Growth**
 
@@ -38,7 +38,7 @@ Recognizing the need for flexibility, KEI Finance allows stakers to partially un
 
 ## Trading Staked Positions: Avoid fees for greater flexibility&#x20;
 
-Furthering the recognition of flexibility users also have the option to sell their whole of partial position to other users who take on the staking period committment. Learn more of trading staked positions in the [StakeFrame](../k-positions-kei-staked-nft-trading.md) section.&#x20;
+Furthering the recognition of flexibility users also have the option to sell their whole of partial position to other users who take on the staking period committment. Learn more of trading staked positions in the [StakeFrame](../k-positions-kei-portfolio-trading-coming-soon.md) section.&#x20;
 
 ## **Post-Duration Rewards: No Penalties, Continuous Earnings**
 
