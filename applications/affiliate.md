@@ -4,7 +4,7 @@ description: >-
   domains.
 ---
 
-# 🗣 Identity
+# 🗣 K-Domain: Unique identify and referral
 
 {% hint style="info" %}
 The Identity contract is embedded entirely within the protocol. So whenever affiliate rewards are distributed, a percentage of rewards are allocated to the affiliate contract. This is applyied to all applications within the protocol.

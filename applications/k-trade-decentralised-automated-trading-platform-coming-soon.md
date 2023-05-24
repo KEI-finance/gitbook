@@ -7,6 +7,8 @@ description: >-
 
 # 💱 K-Trade: Decentralised Automated Trading Platform - Coming Soon
 
+<mark style="background-color:green;">This needs input and more work - Kevin are you able to flesh this out?</mark>
+
 ## Introduction to K-Trade&#x20;
 
 K-trade is designed to allow users to further diversify their portfolio without the need to day trade by themselves. Acting as a decentralised index, K-trade allows users to deposit their KEI tokens into the K-Trade pool and receive a portion of the profits  accrued from the algorithmic trading of a range of bluechip tokens.

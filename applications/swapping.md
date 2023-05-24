@@ -2,7 +2,7 @@
 description: Simplifying the user experience
 ---
 
-# 🔄 Swapping
+# 🔄 K-swap: Advanced Swapping
 
 ### **1. Custom SwapRouter: Multi-Source Token Purchase**
 

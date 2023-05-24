@@ -49,7 +49,7 @@ function MIN_STAKE_DURATION() external view returns (uint256);
 
 ### Gradient
 
-Returns the steepness of the [Reward Curve](broken-reference), and [Penalty Curve](../../kei-financial-services/staking/unstake-penalty.md#penalty-curve).
+Returns the steepness of the [Reward Curve](broken-reference), and [Penalty Curve](../../applications/staking/unstake-penalty.md#penalty-curve).
 
 ```solidity
 function MIN_STAKE_DURATION() external view returns (uint256);
@@ -121,7 +121,7 @@ function MIN_STAKE_DURATION() external view returns (uint256);
 
 ### Unstake Penalty Of
 
-Returns the % penalty from unstaking a particular stake. Refer to [Unstake Penalty](../../kei-financial-services/staking/unstake-penalty.md) for the math. The % Value is in the format of `type(uint16).max`
+Returns the % penalty from unstaking a particular stake. Refer to [Unstake Penalty](../../applications/staking/unstake-penalty.md) for the math. The % Value is in the format of `type(uint16).max`
 
 ```solidity
 function MIN_STAKE_DURATION() external view returns (uint256);
