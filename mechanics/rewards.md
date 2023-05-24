@@ -32,7 +32,7 @@ The KEI Protocol incorporates a debt concept wherein the platform can borrow fun
 
 KEI Finance rewards its community members for expanding its user base through a multi-tiered affiliate program. It represents a smaller but substantial portion of the overall reward pool. If a user (A) refers a new user (B) who makes a purchase, the referrer (A) earns 80% of the profit allocated to the affiliate reward. This reward system extends to two more levels, with the referrer earning 10% for purchases made by individuals referred by their invitees.
 
-The KEI Finance affiliate program encourages active community involvement and strengthens the network effect, thus contributing to the platform's overall growth and prosperity. The rewards are only distributed when the invitee executes a trade on the platform, ensuring a genuine expansion of the user base.  Learn more on affiliate rewards in the [identity](../applications/affiliate.md) section.
+The KEI Finance affiliate program encourages active community involvement and strengthens the network effect, thus contributing to the platform's overall growth and prosperity. The rewards are only distributed when the invitee executes a trade on the platform, ensuring a genuine expansion of the user base.  Learn more on affiliate rewards in the [identity](../kei-financial-services/affiliate.md) section.
 
 ### Admin Distribution:
 

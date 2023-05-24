@@ -1,11 +1,11 @@
 ---
 description: >-
-  Smartly Engineered for Stability, Growth and Trust. Kei Finance Reimagines
-  DeFi with Self-Governing Tokenomics and User-Centric, Intelligent Financial
-  Tools.
+  Smartly Engineered for Stability, Growth and Trust - Reimagining DeFi with
+  Self-Governing Tokenomics, Reserve Currency Functionality and User-centric,
+  Intelligent Financial Tooling Services.
 ---
 
-# Welcome to Kei Finance
+# Welcome to Kei Finance ($KEI)
 
 KEI Finance is more than just a DeFi platform; we are an agent of change, seeking to revolutionize the DeFi sector by fusing industry-leading technology with a steadfast commitment to long-term growth. Our goal is to overcome the inherent challenges plaguing the DeFi landscape and restore trust within the community, using an approach that blends innovative solutions with user-centric financial services.
 
@@ -13,6 +13,8 @@ KEI Finance is more than just a DeFi platform; we are an agent of change, seekin
 
 * <mark style="background-color:green;">Legal Information</mark>
   * <mark style="background-color:green;">as a pop-up/disclaimer when a user first clicks on our whitepaper?</mark>
+
+## The Kei Concept
 
 KEI Finance is more than just a DeFi platform; we are an agent of change seeking to revolutionize the DeFi sector by fusing industry-leading technology with a steadfast commitment to long-term growth. Our goal is to overcome the inherent challenges plaguing the DeFi landscape and restore trust within the community, using an approach that blends innovative solutions with user-centric financial services.
 
@@ -22,9 +24,11 @@ Backed by a token that can autonomously burn, mint, and distribute profits to al
 
 ## **The Future is Here**
 
-Kei Finance is consistently striving to incorporate new features like:
+Our vision is to offer you a comprehensive, rewarding, and seamless DeFi experience. We're focused on delivering on our promise to be the go-to DeFi protocol On Arbitrum.
 
-t offers best-price swapping, single staking with multipliers, passive decentralized index trading, and an accessible, user-friendly borrowing platform.
+Join KEI Finance today and step into a future where decentralized finance is smarter, more efficient, and unequivocally rewarding. Welcome to the future, today.
+
+#### WHAT WE OFFER
 
 #### Now
 
@@ -32,21 +36,19 @@ K-Swap: Best-price Swapping
 
 K-Stake: Locked Single Staking with multipliers and auto-compounding
 
-K-Domain: Unique Identity and referrals
+K-Domain: Unique Identity and Referrals
 
 #### Coming
 
 K-Trade: Decentralized automated asset trading
 
+K-Positions: Stakeholder portfolio NFT trading
+
 K-Borrow: Lending and borrowing platform
 
 K-Pool: Incentivised LP Pool + No-Loss Lottery
 
-K-Positions: Stakeholder portfolio NFT trading
-
 K-DAO: Governance DAO
-
-Our vision is to offer you a comprehensive, rewarding, and seamless DeFi experience. Join KEI Finance today and step into a future where decentralized finance is smarter, more efficient, and unequivocally rewarding. Welcome to the future, today.
 
 ### **The Reserve Currency Aspect of KEI**
 

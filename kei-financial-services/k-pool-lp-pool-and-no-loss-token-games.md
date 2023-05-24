@@ -1,9 +1,3 @@
----
-description: >-
-  Provide liquidity to strengthen the Kei Finance platform and go into the draw
-  to receive weekly KEI payouts for selected wallets.
----
-
 # 🎲 K-Pool: LP Pool & No-loss token games
 
 ### Weekly Token Games: Gamified Liquidity Incentives&#x20;

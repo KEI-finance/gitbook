@@ -1,12 +1,12 @@
 ---
-description: The First Step To Long-Term, Automatic Rewards
+description: Buying / Selling on Kei Finance
 ---
 
 # Buying / Selling
 
-Once users have successfully connected their wallet they can immediately engage in the buying process. To purchase Kei tokens, users are required to have some funds in their wallets to exchange these assets for Kei tokens via a process otherwise known as 'Swapping’.
+Once users have successfully connected their wallets they can immediately engage in the buying process. To purchase Kei tokens, users need to have some funds in their wallets to exchange these assets for Kei tokens via a process otherwise known as 'Swapping’.
 
-Unlike conventional DeFi platforms, the [‘Supplier contract](../mechanics/bonding.md)’ on Kei Finance is designed such that when users try to swap their ETH for Kei tokens, the supplying happens inside the tokens from the ‘Swap.’ Such that, when a user initiates a ‘Swap’ order on Kei Protocol the router automatically execute a ‘Bond’ and a ’Swap,’ behind the scenes, in the best way that is for the user.
+Unlike conventional DeFi platforms, the ‘Supplier contract’ on Kei Finance is designed such that when users try to swap their ETH for Kei tokens, the supplying happens inside the tokens from the ‘Swap.’ that, when a user initiates a ‘Swap’ order on Kei Protocol the router automatically executes a ‘Bond’ and a ’Swap,’ behind the scenes, in the best way that is for the user.
 
 For instance, following a purchase order, should the purchase price specified by the user be cheaper than the ‘Swap’ price, the platform intuitively selects the ‘Bond’ price to buy from and vice versa - doing all of that in one transaction.
 

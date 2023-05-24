@@ -57,7 +57,7 @@ function tokenController() external view returns (ITokenController);
 
 ### Staking
 
-Returns the [Staking](staking.md). Or [read how it works.](../../applications/staking/)
+Returns the [Staking](staking.md). Or [read how it works.](../../kei-financial-services/staking/)
 
 ```solidity
 function staking() external view returns (IStaking);

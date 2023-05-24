@@ -1,24 +1,24 @@
 # Table of contents
 
-* [Welcome to Kei Finance](README.md)
+* [Welcome to Kei Finance ($KEI)](README.md)
 * [Getting Started](getting-started/README.md)
   * [Connecting](getting-started/creating-a-wallet.md)
   * [Buying / Selling](getting-started/buying-the-token.md)
   * [Earning Rewards](getting-started/earning-rewards.md)
   * [Get More Rewards](getting-started/get-more-rewards.md)
 
-## APPLICATIONS
+## Kei Financial Services
 
-* [🔄 K-swap: Advanced Swapping](applications/swapping.md)
-* [🌱 K-Stake: Single KEI Staking](applications/staking/README.md)
-  * [How it works](applications/staking/how-it-works.md)
-  * [Unstake Penalty](applications/staking/unstake-penalty.md)
-* [🗣 K-Domain: Unique identify and referral](applications/affiliate.md)
-* [💱 K-Trade: Decentralised Automated Trading Platform - Coming Soon](applications/k-trade-decentralised-automated-trading-platform-coming-soon.md)
-* [🎲 K-Pool: LP Pool & No-loss token games](applications/k-pool-lp-pool-and-no-loss-lottery.md)
-* [➡ K-Borrow: Lending & Borrowing Platform - Coming soon](applications/k-borrow-lending-and-borrowing-platform-coming-soon.md)
-* [💹 K-Positions: KEI Portfolio Trading - Coming Soon](applications/k-positions-kei-portfolio-trading-coming-soon.md)
-* [🤝 K-DAO: Governance - Coming Soon](applications/governance-coming-soon.md)
+* [🔄 K-swap: Advanced Swapping](kei-financial-services/swapping.md)
+* [🌱 K-Stake: Single KEI Staking](kei-financial-services/staking/README.md)
+  * [How it works](kei-financial-services/staking/how-it-works.md)
+  * [Unstake Penalty](kei-financial-services/staking/unstake-penalty.md)
+* [🗣 K-Domain: Unique identify and referral](kei-financial-services/affiliate.md)
+* [💱 K-Trade: Decentralised Automated Trading Platform - Coming Soon](kei-financial-services/k-trade-decentralised-automated-trading-platform-coming-soon.md)
+* [🎲 K-Pool: LP Pool & No-loss token games](kei-financial-services/k-pool-lp-pool-and-no-loss-token-games.md)
+* [➡ K-Borrow: Lending & Borrowing Platform - Coming soon](kei-financial-services/k-borrow-lending-and-borrowing-platform-coming-soon.md)
+* [💹 K-Positions: KEI Portfolio Trading - Coming Soon](kei-financial-services/k-positions-kei-portfolio-trading-coming-soon.md)
+* [🤝 K-Gov: Governance - Coming Soon](kei-financial-services/governance-coming-soon.md)
 
 ## Mechanics
 

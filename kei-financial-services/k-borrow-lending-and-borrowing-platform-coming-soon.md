@@ -2,7 +2,7 @@
 description: Integrating a unique model that empowers secure borrowing practices
 ---
 
-# ➡ Borrowing Platform - Coming soon
+# ➡ K-Borrow: Lending & Borrowing Platform - Coming soon
 
 ### How it works&#x20;
 
@@ -25,3 +25,9 @@ Users can purchase KEI and borrow ARB. Then use their borrowed ARB to purchase m
 ### Interest Distribution: Secures the treasury and platform liquidity.
 
 100% of the interest paid is protocol profit. This profit is distributed back to the treasury and liquidity pools in order to reinforce a stable treasury and adequate protocol liquidity.  &#x20;
+
+### Debt&#x20;
+
+Debt primarily wraps around the treasury, allowing for controlled asset removal and tracking. This capability ensures stable price maintenance despite asset usage. The eventual introduction of the borrowing functionality will leverage this aspect. The inherent risk in reusing assets in this manner necessitates a cap on accrued debt, set as a percentage of the total treasury balance.
+
+The borrowing contract assures safe token borrowing due to the protocol removing tokens from the market, effectively making it safe to lend up to the token's stable price without algorithmic consequences.
