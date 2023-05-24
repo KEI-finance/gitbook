@@ -15,7 +15,7 @@
   * [Unstake Penalty](applications/staking/unstake-penalty.md)
 * [🗣 K-Domain: Unique identify and referral](applications/affiliate.md)
 * [💱 K-Trade: Decentralised Automated Trading Platform - Coming Soon](applications/k-trade-decentralised-automated-trading-platform-coming-soon.md)
-* [🔥 K-Pool: LP Pool & No-loss token games](applications/k-pool-lp-pool-and-no-loss-token-games.md)
+* [🎲 K-Pool: LP Pool & No-loss token games](applications/k-pool-lp-pool-and-no-loss-lottery.md)
 * [➡ K-Borrow: Lending & Borrowing Platform - Coming soon](applications/k-borrow-lending-and-borrowing-platform-coming-soon.md)
 * [💹 K-Positions: KEI Portfolio Trading - Coming Soon](applications/k-positions-kei-portfolio-trading-coming-soon.md)
 * [🤝 K-DAO: Governance - Coming Soon](applications/governance-coming-soon.md)
