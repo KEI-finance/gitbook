@@ -9,13 +9,13 @@
 
 ## APPLICATIONS
 
-* [🔄 K-Swap: advanced Swapping](applications/swapping.md)
+* [🔄 K-swap: Advanced Swapping](applications/swapping.md)
 * [🌱 K-Stake: Single KEI Staking](applications/staking/README.md)
   * [How it works](applications/staking/how-it-works.md)
   * [Unstake Penalty](applications/staking/unstake-penalty.md)
 * [🗣 K-Domain: Unique identify and referral](applications/affiliate.md)
 * [💱 K-Trade: Decentralised Automated Trading Platform - Coming Soon](applications/k-trade-decentralised-automated-trading-platform-coming-soon.md)
-* [🔥 K-Pool: LP Pool & No-loss Lottery](applications/k-pool-lp-pool-and-no-loss-lottery.md)
+* [🔥 K-Pool: LP Pool & No-loss token games](applications/k-pool-lp-pool-and-no-loss-token-games.md)
 * [➡ K-Borrow: Lending & Borrowing Platform - Coming soon](applications/k-borrow-lending-and-borrowing-platform-coming-soon.md)
 * [💹 K-Positions: KEI Portfolio Trading - Coming Soon](applications/k-positions-kei-portfolio-trading-coming-soon.md)
 * [🤝 K-DAO: Governance - Coming Soon](applications/governance-coming-soon.md)

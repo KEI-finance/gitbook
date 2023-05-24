@@ -1,5 +1,5 @@
 ---
-description: Connecting to Kei using a wallet
+description: Connecting to Kei Finance using a wallet
 ---
 
 # Connecting
