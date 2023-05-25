@@ -14,13 +14,7 @@ The KEI token carries **intrinsic value** as its creation is never arbitrary but
 
 ## **KEI Tokenomics**
 
-| Category                                              | Tokens     | Price Per Token | Lock-In Period |
-| ----------------------------------------------------- | ---------- | --------------- | -------------- |
-| Team                                                  | 1 million  | $0.03           | 10 years       |
-| Private Round                                         | 3 million  | $0.03           | 1+ years       |
-| Public Sale                                           | 32 million | $0.04           | -              |
-| Operational Activities (airdrops, rewards, team, etc) | 4 million  | -               | -              |
-| Liquidity provision                                   | 10 million | 0.042           | -              |
+<table><thead><tr><th>Category</th><th width="126">Tokens</th><th width="174">Price Per Token</th><th>Lock-In Period</th></tr></thead><tbody><tr><td>Team</td><td>1 million</td><td>$0.03</td><td>10 years</td></tr><tr><td>Private Round</td><td>3 million</td><td>$0.03</td><td>1+ years</td></tr><tr><td>Public Sale</td><td>32 million</td><td>$0.04</td><td>-</td></tr><tr><td>Operational Activities (airdrops, rewards, team, etc)</td><td>4 million</td><td>-</td><td>-</td></tr><tr><td>Liquidity provision</td><td>10 million</td><td>0.042</td><td>-</td></tr></tbody></table>
 
 ## **Funding Allocation**
 

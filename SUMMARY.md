@@ -14,7 +14,7 @@
   * [How it works](applications/staking/how-it-works.md)
   * [Unstake Penalty](applications/staking/unstake-penalty.md)
 * [🗣 K-Domain: Unique identify and referral](applications/affiliate.md)
-* [💱 K-Trade: Decentralised Automated Trading Platform - Coming Soon](applications/k-trade-decentralised-automated-trading-platform-coming-soon.md)
+* [💱 K-Invest: Decentralised Automated Investment Platform - Coming Soon](kei-financial-services/k-invest-decentralised-automated-investment-platform-coming-soon.md)
 * [🎲 K-Pool: Incentivised Liquidity Provision](kei-financial-services/k-pool-incentivised-liquidity-provision.md)
 * [➡ K-Borrow: Lending & Borrowing Platform - Coming soon](applications/k-borrow-lending-and-borrowing-platform-coming-soon.md)
 * [💹 K-Positions: KEI Portfolio Trading - Coming Soon](applications/k-positions-kei-portfolio-trading-coming-soon.md)

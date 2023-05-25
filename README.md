@@ -1,8 +1,9 @@
 ---
 description: >-
-  Smartly Engineered for Stability, Growth and Trust - Reimagining DeFi with
-  Self-Governing Tokenomics, Reserve Currency Functionality and User-centric,
-  Intelligent Financial Tooling Services.
+  Smartly Engineered for Stability, Growth and Trust - Reimagining Personal
+  Finance, with Self-Governing Tokenomics, Reserve Currency Functionality &
+  Intelligent Financial Services.
+coverY: 0
 ---
 
 # Welcome to Kei Finance ($KEI)
@@ -14,7 +15,7 @@ KEI Finance is more than just a DeFi platform; we are an agent of change, seekin
 * <mark style="background-color:green;">Legal Information</mark>
   * <mark style="background-color:green;">as a pop-up/disclaimer when a user first clicks on our whitepaper?</mark>
 
-## The Kei Concept
+## <mark style="color:purple;">The Kei Concept</mark>
 
 KEI Finance is more than just a DeFi platform; we are an agent of change seeking to revolutionize the DeFi sector by fusing industry-leading technology with a steadfast commitment to long-term growth. Our goal is to overcome the inherent challenges plaguing the DeFi landscape and restore trust within the community, using an approach that blends innovative solutions with user-centric financial services.
 
@@ -22,13 +23,13 @@ Our mission at Kei Finance is to redefine your DeFi experience by developing an 
 
 Backed by a token that can autonomously burn, mint, and distribute profits to all stakeholders, KEI promotes a sustainable and inclusive financial ecosystem. With a treasury-backed 'rising' hard floor, it ensures stability and long-term growth, answering the need for a robust, user-centric DeFi solution.
 
-## **The Future is Here**
+## <mark style="color:purple;">**The Future is Here**</mark>
 
 Our vision is to offer you a comprehensive, rewarding, and seamless DeFi experience. We're focused on delivering on our promise to be the go-to DeFi protocol On Arbitrum.
 
 Join KEI Finance today and step into a future where decentralized finance is smarter, more efficient, and unequivocally rewarding. Welcome to the future, today.
 
-#### WHAT WE OFFER
+#### <mark style="color:purple;">WHAT WE OFFER</mark>
 
 #### Now
 
@@ -40,15 +41,15 @@ K-Domain: Unique Identity and Referrals
 
 #### Coming
 
-K-Trade: Decentralized automated asset trading
+K-Invest: Decentralized automated Investment Solutions
 
 K-Positions: Stakeholder portfolio NFT trading
 
 K-Borrow: Lending and borrowing platform
 
-K-Pool: Incentivised LP Pool + No-Loss Lottery
+K-Pool: Incentivised LP Pool
 
-K-DAO: Governance DAO
+K-Gov: Governance for Kei
 
 ### **The Reserve Currency Aspect of KEI**
 

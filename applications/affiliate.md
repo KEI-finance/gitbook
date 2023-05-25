@@ -36,11 +36,7 @@ From this point forward, every action taken by the new user results in reward di
 
 _**Distribution Table**_ Where Level X was identified by Level (X+1)
 
-| Level | Reward |
-| ----- | ------ |
-| 1     | 80%    |
-| 2     | 10%    |
-| 3     | 10%    |
+<table><thead><tr><th width="159.8571428571429">Level</th><th>Reward</th></tr></thead><tbody><tr><td>1</td><td>80%</td></tr><tr><td>2</td><td>10%</td></tr><tr><td>3</td><td>10%</td></tr></tbody></table>
 
 
 

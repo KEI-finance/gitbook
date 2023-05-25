@@ -4,10 +4,7 @@ How does it work?
 
 There are two main arguments associated with staking.
 
-| Argument       | Description                             |
-| -------------- | --------------------------------------- |
-| Stake Duration | How long you would like to stake for    |
-| Stake Amount   | How many tokens you would like to stake |
+<table><thead><tr><th width="217.5">Argument</th><th>Description</th></tr></thead><tbody><tr><td>Stake Duration</td><td>How long you would like to stake for</td></tr><tr><td>Stake Amount</td><td>How many tokens you would like to stake</td></tr></tbody></table>
 
 It is important to understand the benefits and consequences associated with your _Stake Duration_ to avoid risks and maximize returns. When it comes to the _Stake Duration_ there are two main factors at play that need to be thought about.
 
