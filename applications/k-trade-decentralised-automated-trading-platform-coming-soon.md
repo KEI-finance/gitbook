@@ -17,13 +17,11 @@ K-Investis designed to allow users to further diversify their portfolio without 
 
 
 
-### <mark style="color:purple;">Automated Trading Algorithms</mark>
-
-<mark style="background-color:green;">Keep this high level - no secrets on the sauce please</mark>
-
 ### <mark style="color:purple;">Decentralised Trading Smart Contracts</mark>&#x20;
 
 K-Invest is governed by a smart contract,\_\_\_\_\_\_\_. The smart contract only has permissions to execute on trading the bluechip assets set to the contract. It cannot manage user funds and does not control user funds in anyway within the contract. Therefore K-trade users can withdraw their tokens at anytime providing a further security and control of their KEI tokens.&#x20;
+
+<mark style="background-color:green;">I think we re-word this. Kepp it high level. This section should be describing what K-invest is, what we invision for the future and benefits to users & platform.</mark>
 
 <mark style="color:purple;">**Example:**</mark> User deposits 1000 KEI into the K-invest pool. The smart contract executes trading requests using KEI in the pool. The user can withdraw their KEI at anytime and profits distributed in the time their tokens were in the pool.&#x20;
 
