@@ -2,6 +2,8 @@
 description: >-
   The penalty associated with withdrawing your stake before the designated stake
   end date.
+cover: ../../.gitbook/assets/Screen Shot 2023-05-25 at 10.46.33.png
+coverY: 0
 ---
 
 # Unstake Penalty

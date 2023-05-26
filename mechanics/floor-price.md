@@ -1,26 +1,28 @@
 ---
 description: Understand how the KEI token increases the protocol's floor price
+cover: ../.gitbook/assets/Screen Shot 2023-05-25 at 10.46.33.png
+coverY: 0
 ---
 
 # 📈 Floor Price
 
-## Floor Price Mechanism
+## <mark style="color:purple;">Floor Price Mechanism</mark>
 
 KEI Finance utilizes a unique and groundbreaking "Raising Floor Price" mechanism, distinguishing it from other DeFi protocols and promoting the stability and growth of the KEI token's value. This innovative method creates a floor price - a minimum value that the KEI token cannot fall below, maintained by a continuous automated buyback and burn process.
 
-### Buyback Mechanism
+### <mark style="color:purple;">Buyback Mechanism</mark>
 
 When a user conducts a buy or sell transaction, our algorithm evaluates the current pool price against the floor price. If the pool price falls below the floor price, the system automatically buys back assets from the pool, raising the price above the floor price. The volume of assets to be bought back is determined algorithmically, ensuring a consistent pool price above the floor price. This process is entirely automated and transparent, fostering a stable environment for the KEI token value.
 
-### Reserve Token
+### <mark style="color:purple;">Reserve Token</mark>
 
 KEI token acts as a reserve token, backed by each asset held in the treasury, excluding LP and KEI tokens. If the KEI token's market value falls below the floor price, the assets in the treasury are deployed to buy back and burn the depreciated tokens, reinforcing the floor price.
 
-### Multi-Coin Treasury Backed
+### <mark style="color:purple;">Multi-Coin Treasury Backed</mark>
 
 The treasury currently holds ETH as its reserve, but is designed to support a range of other assets like BTC and DAI. This multi-coin backing enriches the treasury's capacity to support the KEI token's floor price.
 
-### Floor Price Walkthrough
+### <mark style="color:purple;">Floor Price Walkthrough</mark>
 
 The floor price is calculated based on the fluctuating prices of each asset in the treasury, primarily valued in ETH. As a result, the KEI token's value is essentially tethered to the value of ETH, meaning that the rise in ETH's value consequently elevates the KEI token's value. The 1:1 ETH-to-KEI ratio simplifies the floor price calculation as long as the treasury only holds ETH.
 

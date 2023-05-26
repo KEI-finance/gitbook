@@ -3,7 +3,8 @@ description: >-
   Smartly Engineered for Stability, Growth and Trust - Reimagining Personal
   Finance, with Self-Governing Tokenomics, Reserve Currency Functionality &
   Intelligent Financial Services.
-coverY: 0
+cover: .gitbook/assets/Screen Shot 2023-05-25 at 10.46.33.png
+coverY: -2
 ---
 
 # Welcome to Kei Finance ($KEI)
@@ -25,13 +26,13 @@ Backed by a token that can autonomously burn, mint, and distribute profits to al
 
 ## <mark style="color:purple;">**The Future is Here**</mark>
 
-Our vision is to offer you a comprehensive, rewarding, and seamless DeFi experience. We're focused on delivering on our promise to be the go-to DeFi protocol On Arbitrum.
+Our vision is to offer you a comprehensive, rewarding, and seamless DeFi experience. We're focused on delivering on our promise to be the go-to DeFi protocol on Arbitrum.
 
 Join KEI Finance today and step into a future where decentralized finance is smarter, more efficient, and unequivocally rewarding. Welcome to the future, today.
 
 #### <mark style="color:purple;">WHAT WE OFFER</mark>
 
-#### Now
+#### <mark style="color:purple;">Now</mark>
 
 K-Swap: Best-price Swapping
 
@@ -39,7 +40,7 @@ K-Stake: Locked Single Staking with multipliers and auto-compounding
 
 K-Domain: Unique Identity and Referrals
 
-#### Coming
+#### <mark style="color:purple;">Coming</mark>
 
 K-Invest: Decentralized automated Investment Solutions
 
@@ -51,22 +52,20 @@ K-Pool: Incentivised LP Pool
 
 K-Gov: Governance for Kei
 
-### **The Reserve Currency Aspect of KEI**
+### <mark style="color:purple;">**The Reserve Currency Aspect of KEI**</mark>
 
 As a reserve currency in the DeFi landscape, KEI holds a unique position. Kei Finance ensures a hard floor price that gradually increases over time, a move intended to nullify any negative market impacts and foster a system that delivers consistent growth, trust and value.
 
-### **Reward Distribution and Value Accrual**
+### <mark style="color:purple;">**Reward Distribution and Value Accrual**</mark>
 
 At Kei Finance, we believe in rewarding our stakeholders. Hence, we have devised innovative reward distribution mechanisms that channel the platform's profits back to its users. Every feature of the protocol in some way acts as a profit distribution mechanic. As the Kei ecosystem grows, so does your share of the profits, thanks to a unique financial structure designed to actively manage supply balance while distributing significant benefits to the invested stakeholders.
 
-### **Innovative Token Supply Mechanism**
+### <mark style="color:purple;">**Innovative Token Supply Mechanism**</mark>
 
 Kei's protocol breaks free from the typical pitfalls of inevitable token value dilution. Our pioneering token supply mechanism ensures that the entire cost of every token purchase is re-funnelled into the protocol. This process directly benefits our users by increasing floor prices, expanding liquidity pool sizes, or enhancing staking rewards, thereby ensuring a degree of price stability for our token holders.
 
-### **Security, Transparency, and Growth**
+### <mark style="color:purple;">**Security, Transparency, and Growth**</mark>
 
 Kei Finance stands tall on pillars of robust security and complete transparency. Our KEI contract is open for public scrutiny, showcasing our commitment to maintaining utmost clarity. Moreover, as Kei's fund control flourishes with each token supply, our platform becomes increasingly lucrative for token holders.
-
-
 
 Our vision is to offer you a comprehensive, rewarding, and seamless DeFi experience. Join Kei Finance today and step into a future where decentralized finance is smarter, more efficient, and unequivocally rewarding. Welcome to the future, today.

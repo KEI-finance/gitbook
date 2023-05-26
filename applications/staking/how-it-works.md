@@ -8,15 +8,15 @@ There are two main arguments associated with staking.
 
 It is important to understand the benefits and consequences associated with your _Stake Duration_ to avoid risks and maximize returns. When it comes to the _Stake Duration_ there are two main factors at play that need to be thought about.
 
-### Reward Multiplier
+### <mark style="color:purple;">Reward Multiplier</mark>
 
 Rewards long term holders, by giving a greater return on rewards for the longer duration that you stake. [Read More](broken-reference)
 
-### Unstake Penalty
+### <mark style="color:purple;">Unstake Penalty</mark>
 
 The penalty is associated with fully/partially exiting a stake earlier than specified. This penalty is subtracted from your equivalent stake amount and then redistributed to all Stakers. [Read More](unstake-penalty.md)
 
-### Staking Calculations
+### <mark style="color:purple;">Staking Calculations</mark>
 
 The more in-depth calculations happening behind the scenes, ensure that everyone is rewarded appropriately. [Read More](broken-reference)&#x20;
 
@@ -24,6 +24,6 @@ The more in-depth calculations happening behind the scenes, ensure that everyone
 
 
 
-## How to Stake
+## <mark style="background-color:purple;">How to Stake</mark>
 
 For more information on how to get started with staking. [Skip to Here](../../getting-started/earning-rewards.md)
