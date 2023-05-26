@@ -1,7 +1,7 @@
 ---
 description: >-
-  Boost the Kei Finance community and earn rewards with unique Kei Finance
-  identity and referral domains.
+  Boost Kei Finance community and earn rewards with unique Kei Finance referral
+  domains.
 cover: ../.gitbook/assets/Screen Shot 2023-05-25 at 10.46.33.png
 coverY: 0
 ---
@@ -46,7 +46,7 @@ _<mark style="color:purple;">**Distribution Table**</mark>_ Where Level X was id
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:purple;">**Domain Name Trading**</mark>
+### <mark style="color:purple;">Domain Name Trading</mark>
 
 Unique Kei Finance domain names, embodied as identity tokens, can be traded among users. These tokens, being NFTs, abide by the same rules as all other NFTs on the Kei Protocol. Each trade sparks the reward contract, triggering a distribution of fees as rewards to all protocol stakers, boosting the overall tokenomics of the KEI ecosystem.\
 &#x20;

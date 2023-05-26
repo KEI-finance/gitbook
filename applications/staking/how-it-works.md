@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Screen Shot 2023-05-25 at 10.46.33.png
+coverY: 0
+---
+
 # How it works
 
 <mark style="background-color:green;">How does it work?</mark>

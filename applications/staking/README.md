@@ -26,7 +26,7 @@ This deterrent discourages impulsive entry and exit from the staking pool, foste
 
 <mark style="color:purple;">**Unstaking Penalty Example:**</mark> A user staking their KEI tokens for a year who decides to unstake within the first 10 days could incur a penalty as high as 99% of the stake. In contrast, a user opting to unstake on the 340th day could incur a significantly lower penalty, reflecting the completed duration of their staking commitment.\
 \
-<mark style="background-color:green;">**Formula**</mark>**:**
+<mark style="background-color:green;">**Formula: (Unstake Formula Inputs)**</mark>
 
 ## <mark style="color:purple;">**Penalties and Principal: A Responsible Balance**</mark>
 
