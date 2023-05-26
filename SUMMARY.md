@@ -6,6 +6,7 @@
   * [Buying / Selling](getting-started/buying-the-token.md)
   * [Earning Rewards](getting-started/earning-rewards.md)
   * [Get More Rewards](getting-started/get-more-rewards.md)
+* [FAQ](faq.md)
 
 ## Kei Financial Services
 
@@ -33,7 +34,6 @@
 
 ***
 
-* [FAQ](faq.md)
 * [Contact Us](contact-us/README.md)
   * [Twitter](https://twitter.com/KeiFinance)
   * [Telegram](https://t.me/KeiFinance)

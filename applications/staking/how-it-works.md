@@ -1,6 +1,6 @@
 # How it works
 
-How does it work?
+<mark style="background-color:green;">How does it work?</mark>
 
 There are two main arguments associated with staking.
 

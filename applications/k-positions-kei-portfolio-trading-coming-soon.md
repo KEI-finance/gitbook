@@ -18,12 +18,12 @@ K-positions, a revolutionary product within the Kei Finance ecosystem, allows us
 
 _<mark style="color:purple;">**K-positions Marketplace - coming soon**</mark> Users can currently trade their NFTs on any public NFT platform, and in the future they can trade directly on KEI._
 
-### <mark style="color:purple;">**Benefits of K-positions**</mark>
+## <mark style="color:purple;">**Benefits of K-positions**</mark>
 
 * <mark style="color:purple;">**For New Users**</mark>**:** k-positions provides an avenue for new participants to access established staking positions without committing to an upfront time lock. Users can purchase a K-positions NFT that is nearing its maturity, allowing them to enjoy the staking rewards sooner than initiating a new stake.
 * <mark style="color:purple;">**For Existing Users:**</mark> K-positions offers existing participants a mechanism to scale back or entirely exit their staking positions without incurring unstaking penalties. Instead of unstaking and enduring the associated costs, users can sell their staked position as a K-positions NFT, usually at a market value considerably higher than the penalty-adjusted unstaking value.
 
-### <mark style="color:purple;">**The K-positions Process**</mark>
+## <mark style="color:purple;">**The K-positions Process**</mark>
 
 The K-positions process converts each stake into an ERC1155 NFT, differing from the common ERC20 standard. This approach brings several unique properties to the staked position:
 

@@ -7,6 +7,8 @@ coverY: 0
 # 🔓 Supplying
 
 {% hint style="info" %}
+
+
 **The Supplier:** Integrated into the swap router, the supplier contract is responsible for minting daily tokens in direct balance with the current number of protocol users.
 {% endhint %}
 
@@ -20,7 +22,9 @@ Through the minting process a fee is incurred by the protocol which is then spli
 
 ### <mark style="color:purple;">How does The Supplier work?</mark>&#x20;
 
-The Supplier contract is self-executing, minting 'x' tokens per day where the value of 'x' is determined by the number of staked wallets on that day. Automatic snap shots are taken by the supplier contract to determine number of staked wallets, which then triggers automated KEI token minting.\
+The Supplier contract is self-executing, minting 'x' tokens per day where the value of 'x' is determined by the number of staked wallets on that day. Automatic snap shots are taken by the supplier contract to determine number of staked wallets, which then triggers automated KEI token minting.
+
+<mark style="background-color:green;">Kevin please break this page down further</mark>\
 \
 **Formula:**
 

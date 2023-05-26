@@ -1,7 +1,7 @@
 ---
 description: >-
-  Boost Kei Finance community and earn rewards with unique Kei Finance referral
-  domains.
+  Boost the Kei Finance community and earn rewards with unique Kei Finance
+  identity and referral domains.
 cover: ../.gitbook/assets/Screen Shot 2023-05-25 at 10.46.33.png
 coverY: 0
 ---
@@ -9,7 +9,7 @@ coverY: 0
 # 🗣 K-Domain: Unique identify and referral
 
 {% hint style="info" %}
-The Identity contract is embedded entirely within the protocol. So whenever affiliate rewards are distributed, a percentage of rewards are allocated to the affiliate contract. This is applyied to all applications within the protocol.
+The Identity contract is embedded entirely within the protocol. So whenever affiliate rewards are distributed, a percentage of rewards are allocated to the affiliate contract. This is applied to all applications within the protocol.
 {% endhint %}
 
 ## <mark style="color:purple;">**Introduction to Kei Finance Identity**</mark>
@@ -24,7 +24,9 @@ To become an identity, KEI community members need to secure a unique Kei Finance
 
 The cost of domain names is determined by two factors: the length of the domain name and the duration of ownership. Shorter names imply a higher cost, reflecting the premium nature of concise, memorable names. Additionally, the length of ownership acts as a price multiplier, where each extra year of ownership multiplies the base cost.
 
-For instance, a domain name 'User.kei' with a base price of $100 secured for 3 years would cost 3 x Base Price, totaling to $300 in this case.
+**Example**
+
+A domain name 'User.kei' with a base price of $100 secured for 3 years would cost 3 x Base Price, totaling to $300 in this case.
 
 ### <mark style="color:purple;">**Identity Reward Structure**</mark>
 
@@ -44,7 +46,7 @@ _<mark style="color:purple;">**Distribution Table**</mark>_ Where Level X was id
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-### **Domain Name Trading**
+### <mark style="color:purple;">**Domain Name Trading**</mark>
 
 Unique Kei Finance domain names, embodied as identity tokens, can be traded among users. These tokens, being NFTs, abide by the same rules as all other NFTs on the Kei Protocol. Each trade sparks the reward contract, triggering a distribution of fees as rewards to all protocol stakers, boosting the overall tokenomics of the KEI ecosystem.\
 &#x20;

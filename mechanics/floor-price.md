@@ -32,6 +32,8 @@ This unique mechanism of KEI Finance not only ensures stability but also promote
 
 Diagram:
 
+<mark style="background-color:green;">and this needs updating</mark>
+
 ```mathematica
                                  KEI Finance Floor Price Mechanism
                                              ___________________

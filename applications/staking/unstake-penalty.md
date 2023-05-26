@@ -12,8 +12,8 @@ coverY: 0
 It is important to understand the penalties associated with unstacking before the designated stake end date. This is to ensure that you do not have any unexpected losses.
 {% endhint %}
 
-The Kei Finance staking penalty is such that should a staker have served less than half their stake duration, only then will these penalties start to eat into the profits accrued and only eat into the principle when the profit have all been drained. Essentially eating into the current amount of tokens the user has in the stake, as a percentage based on the duration at which they unstake. &#x20;
+The Kei Finance staking protocol applies a penalty for unstaking tokens before the completion of the designated stake duration. This penalty functions on a progressive scale, only kicking in when stakers have served less than half of their stake duration.
 
-The unstake penalty is applied when you are unstaking your tokens before the designated Stake Duration. It applies to both the principal and the rewards earned and is in place to incentivize people to hold their tokens and continue to stake for longer durations.
+In such cases, the penalty begins by reducing the accrued profits. The principal - or the original number of tokens staked - is only impacted once all the profits have been absorbed by the penalty. This essentially means that the penalty proportionately deducts from the current number of tokens the user has in stake, based on the duration at which they unstake.
 
-All penalty tokens that are subtracted from the unstake amount, are then returned into the staking pool directly as rewards. So this creates a feedback cycle for those that decide to stake for long durations and hold.
+This unstake penalty system encourages stakers to hold onto their tokens and maintain their stake for the entire duration. Its implementation is not purely punitive; it provides a system of redistribution that benefits long-term stakers. Any penalty tokens deducted from the unstake amount are redirected back into the staking pool, serving as additional rewards. This creates a beneficial cycle for those who choose to stake for extended durations and maintain their hold.

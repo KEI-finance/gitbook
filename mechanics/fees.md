@@ -8,16 +8,18 @@ coverY: 0
 
 The Kei Protocol maintains a fee structure designed to balance the growth of the protocol and the interests of its participants. The fees imposed on buy and sell transactions with the KEI token serve a dual purpose: to generate revenue that supports the platform's operations, and to create an additional source of rewards for participants.
 
-<mark style="color:purple;">**1. Fee Structure**</mark>
+## <mark style="color:purple;">**Fee Structure**</mark>
 
 Every transaction involving the buying or selling of KEI tokens incurs a fixed fee of **0.3%**. This fee is an important part of our strategy to ensure the long-term sustainability of the protocol's core infrastructure.
 
-<mark style="color:purple;">**2. Fee Distribution**</mark>
+## <mark style="color:purple;">**Fee Distribution**</mark>
 
 The revenue collected from transaction fees is redistributed back into the KEI protocol as follows:
 
+<mark style="background-color:green;">Does this need to be updated?</mark>
+
 * <mark style="color:purple;">**Stakers (15%):**</mark> A percentage of the transaction fees is given to the participants who have staked their KEI tokens. This serves as an added incentive for staking and supports the stability of the KEI token by encouraging participants to hold and stake their tokens.
-* <mark style="color:purple;">**Affiliate Program (15%):**</mark> Affiliates who bring new users to the platform receive a portion of the transaction fees. This incentivizes the expansion of the KEI protocol's user base, ultimately increasing the demand for and stability of the KEI token.
+* <mark style="color:purple;">**Identity Program (15%):**</mark> Affiliates who bring new users to the platform receive a portion of the transaction fees. This incentivizes the expansion of the KEI protocol's user base, ultimately increasing the demand for and stability of the KEI token.
 * <mark style="color:purple;">**Treasury (35%):**</mark> This ensures the protocol has a stable reserve of funds for any necessary future expenses.
 * <mark style="color:purple;">**Administration (35%):**</mark> This includes operational costs, salaries for the development team, platform development, and maintenance.
 
