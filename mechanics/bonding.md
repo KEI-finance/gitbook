@@ -14,7 +14,7 @@ coverY: 0
 
 ### <mark style="color:purple;">Introduction to The Supplier.</mark>
 
-The supplier works in sync with the custom Kei Finance swap router that determines the best price for fixed token purchases within the last 12 hours of the Uniswap pool. The supplier contract has the ability to mint daily KEI tokens capped at 33 333.&#x20;
+The supplier works in sync with the custom Kei Finance swap router that determines the best price for fixed token purchases within the last 12 hours of the Uniswap pool. The supplier contract has the ability to mint daily KEI tokens capped at <mark style="background-color:green;">33 333</mark>.&#x20;
 
 Through the minting process a fee is incurred by the protocol which is then split up and distributed throughout the platform to LP pools and user rewards.\
 \
