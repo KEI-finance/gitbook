@@ -4,6 +4,8 @@ description: Connecting to Kei using a wallet
 
 # Connecting
 
+<mark style="background-color:green;">NOT LIVE YET</mark>
+
 To get started on the Kei Protocol users would have to visit the website and sign into their App by connecting their non-custodial wallet of choice - in this case, we use Metamask just as seen in the steps below.
 
 * Visit the website at [https://kei.fi](https://kei.fi), and click the ‘App’ button to sign into your App.

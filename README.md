@@ -42,7 +42,7 @@ K-Domain: Unique Identity and Referrals
 
 #### <mark style="color:purple;">Coming</mark>
 
-K-Invest: Decentralized automated Investment Solutions
+K-DiversiFI: Decentralized automated Investment Solutions
 
 K-Positions: Stakeholder portfolio NFT trading
 

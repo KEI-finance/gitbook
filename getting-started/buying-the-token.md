@@ -4,6 +4,8 @@ description: Buying / Selling on Kei Finance
 
 # Buying / Selling
 
+<mark style="background-color:green;">DEMO: NOT LIVE YET</mark>
+
 Once users have successfully connected their wallets they can immediately engage in the buying process. To purchase Kei tokens, users need to have some funds in their wallets to exchange these assets for Kei tokens via a process otherwise known as 'Swapping’.
 
 Unlike conventional DeFi platforms, the ‘Supplier contract’ on Kei Finance is designed such that when users try to swap their ETH for Kei tokens, the supplying happens inside the tokens from the ‘Swap.’ that, when a user initiates a ‘Swap’ order on Kei Protocol the router automatically executes a ‘Bond’ and a ’Swap,’ behind the scenes, in the best way that is for the user.
