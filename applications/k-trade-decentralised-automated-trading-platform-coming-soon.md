@@ -7,7 +7,7 @@ cover: ../.gitbook/assets/Screen Shot 2023-05-25 at 10.46.33.png
 coverY: 0
 ---
 
-# 💱 K-Invest: Decentralised Automated Investment Platform - Coming Soon
+# 💱 K-DiversiFI: Decentralised Automated Investment Platform - Coming Soon
 
 <mark style="background-color:green;">This needs input and more work - Kevin are you able to flesh this out?</mark>
 
@@ -32,8 +32,8 @@ The user is allocated a % share of the pool based on how much they deposited. \
 \
 Upon exit of KEI from the pool the % share of each asset allocated to the user is converted back to KEI as profit and accessible to the user. \
 \
-<mark style="color:purple;">**Formula:**</mark>&#x20;
+<mark style="color:purple;background-color:green;">**Formula:**</mark>&#x20;
 
 ### <mark style="color:purple;">Tradable Assets</mark>
 
-Initially their will be 4 tradable assets via K-invest, BTC, ETH, DAI & KEI. As an initial index K-invest will focus on leading bluechip tokens before looking to further diversify into a range of decentralised indexes across the industry.&#x20;
+Initially their will be 4 tradable assets via K-invest, BTC, ETH, DAI & KEI. As an initial index K-invest will focus on leading tokens before looking to further diversify into a range of decentralised indexes across the industry.
