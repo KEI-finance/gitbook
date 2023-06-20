@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Screen Shot 2023-05-25 at 10.46.33.png
+cover: ../../.gitbook/assets/whitepaper-header.png
 coverY: 0
 ---
 

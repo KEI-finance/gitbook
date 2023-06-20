@@ -1,6 +1,6 @@
 ---
 description: Determine the work actioned to trigger platform profit distribution
-cover: ../.gitbook/assets/Screen Shot 2023-05-25 at 10.46.33.png
+cover: ../.gitbook/assets/whitepaper-header.png
 coverY: 0
 ---
 
@@ -8,11 +8,11 @@ coverY: 0
 
 The Kei Finance Processor plays a pivotal role in the Kei Protocol, executing a complex series of operations that govern the flow of profit within the ecosystem. This crucial contract intelligently allocates generated profit to appropriate channels, ensuring that the overall protocol economy maintains a healthy balance and stability.
 
-## <mark style="color:purple;">Overview</mark>
+## Overview
 
 The Processor operates as a self-executing smart contract, automatically activated once every 24 hours. This cyclical operation guarantees regular distribution of tokens and maintenance of the protocol's liquidity, contributing significantly to the platform's long-term sustainability. Upon activation, the Processor captures an immediate snapshot of the protocol's state, providing a comprehensive image of the token landscape at that instant.
 
-## <mark style="color:purple;">Operational Mechanic</mark>
+## Operational Mechanic
 
 The Processor's primary functions include:
 

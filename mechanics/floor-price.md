@@ -1,28 +1,30 @@
 ---
 description: Understand how the KEI token increases the protocol's floor price
-cover: ../.gitbook/assets/Screen Shot 2023-05-25 at 10.46.33.png
+cover: ../.gitbook/assets/whitepaper-header.png
 coverY: 0
 ---
 
 # 📈 Floor Price
 
-## <mark style="color:purple;">Floor Price Mechanism</mark>
+## Floor Price Mechanism
 
-KEI Finance utilizes a unique and groundbreaking "Raising Floor Price" mechanism, distinguishing it from other DeFi protocols and promoting the stability and growth of the KEI token's value. This innovative method creates a floor price - a minimum value that the KEI token cannot fall below, maintained by a continuous automated buyback and burn process.
+KEI Finance utilises a unique and groundbreaking "Raising Floor Price" mechanism, distinguishing it from other DeFi protocols and promoting the stability and growth of the KEI token's value. This innovative method creates a floor price - a minimum value that the KEI token cannot fall below, maintained by a continuous automated buyback and burn process.
 
-### <mark style="color:purple;">Buyback Mechanism</mark>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>Constantly raising floor price</p></figcaption></figure>
+
+### Buyback Mechanism
 
 When a user conducts a buy or sell transaction, our algorithm evaluates the current pool price against the floor price. If the pool price falls below the floor price, the system automatically buys back assets from the pool, raising the price above the floor price. The volume of assets to be bought back is determined algorithmically, ensuring a consistent pool price above the floor price. This process is entirely automated and transparent, fostering a stable environment for the KEI token value.
 
-### <mark style="color:purple;">Reserve Token</mark>
+### Reserve Token
 
 KEI token acts as a reserve token, backed by each asset held in the treasury, excluding LP and KEI tokens. If the KEI token's market value falls below the floor price, the assets in the treasury are deployed to buy back and burn the depreciated tokens, reinforcing the floor price.
 
-### <mark style="color:purple;">Multi-Coin Treasury Backed</mark>
+### Multi-Coin Treasury Backed
 
 The treasury currently holds ETH as its reserve, but is designed to support a range of other assets like BTC and DAI. This multi-coin backing enriches the treasury's capacity to support the KEI token's floor price.
 
-### <mark style="color:purple;">Floor Price Walkthrough</mark>
+### Floor Price Walkthrough
 
 The floor price is calculated based on the fluctuating prices of each asset in the treasury, primarily valued in ETH. As a result, the KEI token's value is essentially tethered to the value of ETH, meaning that the rise in ETH's value consequently elevates the KEI token's value. The 1:1 ETH-to-KEI ratio simplifies the floor price calculation as long as the treasury only holds ETH.
 
@@ -30,45 +32,11 @@ The floor price influences the minting of new tokens. Each minted token must be 
 
 This unique mechanism of KEI Finance not only ensures stability but also promotes a steady growth of the token value, making it an attractive choice for stakeholders.
 
-Diagram:
+## Floor Price Calculation
 
-<mark style="background-color:green;">and this needs updating</mark>
+In order to calculate the floor price the following calculation is done:
 
-```mathematica
-                                 KEI Finance Floor Price Mechanism
-                                             ___________________
-                                            |                   |
-                                            |      Treasury     |
-                                            |   (ETH, BTC, DAI) |
-                                            |___________________|
-                                                  /          \
-                                                 /            \
-                                                /              \
-                                    _________ /                \ _________
-                                   |                           |         |
-                                   |     Buyback Mechanism     |  Reserve Token
-                                   |    (Automated & Transparent) |   (Backed by Treasury Assets)
-                                   |___________________________|         |
-                                                  |                      |
-                                                  |                      |
-                                        _________|_________             |
-                                       |                   |            |
-                                       |      Pool Price   |            |
-                                       |   (Maintained Above Floor Price) |
-                                       |___________________|            |
-                                                  |                      |
-                                                  |                      |
-                                  _________ ______|_______ _______      |
-                                 |         |               |       |     |
-                                 |   Buy   |   Sell Transactions   |  Burn
-                                 |_________|_______________|_______|     |
-                                                  |                      |
-                                                  |                      |
-                                        _________|_________       _______|_______
-                                       |                   |     |               |
-                                       |      Floor Price  |     |  KEI Token Value
-                                       |(Influences Minting & Burning) | (Stable & Growing)
-                                       |___________________|     |_______________|
-```
+<table><thead><tr><th width="263">Variable</th><th>Details</th></tr></thead><tbody><tr><td>p</td><td>The resulting floor price</td></tr><tr><td>tokensCirculating</td><td>The total tokens which are not in the liquidity pools. (able to be sold)</td></tr><tr><td>tokenReserves</td><td>The total tokens in the liquidity pools (not able to be sold)</td></tr><tr><td>backingTreasury</td><td>The total value in ETH in the treasury (used for buying back tokens)</td></tr><tr><td>backingReserves</td><td>The total value in ETH in liquidity pools (will be swapped for tokens)</td></tr><tr><td>decimals</td><td>How much decimal precision we want to work with (all solidity math is in ints, so we need to make them decimals).</td></tr></tbody></table>
 
-This floor price mechanism safeguards KEI's token value while fostering growth,
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>formula for calculating the floor price</p></figcaption></figure>
+

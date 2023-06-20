@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Kei Finance ($KEI)](README.md)
+* [Welcome to Kei Finance (KEI)](README.md)
 * [Getting Started](getting-started/README.md)
   * [Connecting](getting-started/creating-a-wallet.md)
   * [Buying / Selling](getting-started/buying-the-token.md)
@@ -10,16 +10,17 @@
 
 ## Kei Financial Services
 
-* [Protocol Staking](kei-financial-services/protocol-staking.md)
-* [🔄 K-swap: Advanced Swapping](applications/swapping.md)
-* [🌱 K-Stake: Single KEI Staking](applications/staking/README.md)
-  * [How it works](applications/staking/how-it-works.md)
-  * [Unstake Penalty](applications/staking/unstake-penalty.md)
-* [🗣 K-Domain: Unique identify and referral](applications/affiliate.md)
-* [💱 K-DiversiFI: Decentralised Automated Investment Platform - Coming Soon](applications/k-trade-decentralised-automated-trading-platform-coming-soon.md)
-* [🎲 K-Pool: Incentivised Liquidity Provision](kei-financial-services/k-pool-incentivised-liquidity-provision.md)
-* [➡ K-Borrow: Lending & Borrowing Platform - Coming soon](applications/k-borrow-lending-and-borrowing-platform-coming-soon.md)
-* [💹 K-Positions: KEI Portfolio Trading - Coming Soon](applications/k-positions-kei-portfolio-trading-coming-soon.md)
+* [🔄 K-Swap: Advanced Swapping](kei-financial-services/swapping/README.md)
+  * [K-Swap: Profit Distribution](kei-financial-services/swapping/k-swap-profit-distribution.md)
+* [🌱 K-Stake: Protocol Staking](kei-financial-services/staking.md)
+* [🗣 K-Domain: Unique identify and referral](kei-financial-services/affiliate/README.md)
+  * [K-Domain: Profit Distribution](kei-financial-services/affiliate/k-domain-profit-distribution.md)
+* [💱 K-DiversiFI: Asset Diversification Platform - Coming Soon](kei-financial-services/k-diversifi-asset-diversification-platform-coming-soon/README.md)
+  * [K-DiversiFi: Profit Distribution](kei-financial-services/k-diversifi-asset-diversification-platform-coming-soon/k-diversifi-profit-distribution.md)
+* [➡ K-Borrow: Borrowing Platform - Coming soon](kei-financial-services/k-borrow-borrowing-platform-coming-soon/README.md)
+  * [K-Borrow: Profit Distribution](kei-financial-services/k-borrow-borrowing-platform-coming-soon/k-borrow-profit-distribution.md)
+* [💹 K-Positions: KEI Portfolio Trading - Coming Soon](kei-financial-services/k-positions-kei-portfolio-trading-coming-soon/README.md)
+  * [K-Positions: Profit Distribution](kei-financial-services/k-positions-kei-portfolio-trading-coming-soon/k-positions-profit-distribution.md)
 * [🤝 K-Gov: Governance - Coming Soon](applications/governance-coming-soon.md)
 
 ## Mechanics
@@ -28,10 +29,8 @@
 * [💰 Reserve Currency](mechanics/reserve-currency.md)
 * [🏛 Architecture](mechanics/architecture.md)
 * [🔑 Processor](mechanics/processor.md)
-* [🔓 Supplying](mechanics/bonding.md)
 * [🪙 Profit Distribution](mechanics/rewards.md)
 * [📈 Floor Price](mechanics/floor-price.md)
-* [💸 Fees](mechanics/fees.md)
 
 ***
 
