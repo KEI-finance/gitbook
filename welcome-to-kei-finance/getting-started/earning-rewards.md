@@ -10,15 +10,15 @@ Although, there is an option to stake your Kei tokens upon initiating a ‘Buy o
 
 * On PC, click on ‘Stake’ on the left-hand sidebar and input the amount of Kei tokens you would like to trade for some staked-Kei, in addition to the stake duration, and tap ‘Confirm Stake’.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 * Click ‘Confirm’ when prompted by your connected wallet.
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 * And voila! You get a success message.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 

@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/whitepaper-header.png
 coverY: 0
 ---
 
-# 🔑 Processor
+# Processor
 
 The Kei Finance Processor plays a pivotal role in the Kei Protocol, executing a complex series of operations that govern the flow of profit within the ecosystem. This crucial contract intelligently allocates generated profit to appropriate channels, ensuring that the overall protocol economy maintains a healthy balance and stability.
 

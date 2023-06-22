@@ -18,17 +18,17 @@ See the below walkthrough for detailed information on how to swap.
 
 * Enter the amount of Ethereum you would like to trade for some Kei tokens based on the balance on your wallet account, and hit the ‘Confirm Swap’ button.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Where to input your currencies</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Where to input your currencies</p></figcaption></figure>
 
 * Tap ‘Confirm’ once prompted by Metamask (or your non-custodial wallet of choice).
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 * On Kei Finance there is an option for users to automatically stake when they buy the Kei token through the process of ‘Swapping.’ Through this minimalistic approach users on Kei Protocol can ‘Buy’ these tokens and ‘Stake’ them in a single transaction, while also save some extra in transaction fees and having to go through the back and forth to ‘Buy’ and then do another transaction to ‘Stake,’ thereby reducing redundancy.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 * Upon logging into their dashboard, while placing a ‘Buy’ order, users can choose to toggle the ‘Automatic Stake’ button on, to stake while buying, in one go.
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13).png>)
 

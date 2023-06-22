@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/whitepaper-header.png
 coverY: 0
 ---
 
-# 🏛 Architecture
+# Architecture
 
 The Architect Contract plays a vital role within KEI Finance's advanced smart contract architecture. It provides a resilient, secure, and modular framework for the continuous evolution and improvement of the platform.
 

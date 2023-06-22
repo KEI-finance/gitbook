@@ -1,10 +1,10 @@
 ---
-description: Nurturing Autonomous Community Decision-Making
+description: 'Governance: Nurturing Autonomous Community Decision-Making'
 cover: ../.gitbook/assets/whitepaper-header.png
 coverY: 0
 ---
 
-# 🤝 K-Gov: Governance - Coming Soon
+# K-Gov - Coming Soon
 
 At the heart of KEI's decentralized financial ecosystem is K-Governance, our automated governance model that promotes active community participation and fosters protocol growth in a democratic manner.
 

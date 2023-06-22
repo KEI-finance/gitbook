@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/whitepaper-header.png
 coverY: 0
 ---
 
-# 📈 Floor Price
+# Floor Price
 
 ## Floor Price Mechanism
 
