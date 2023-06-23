@@ -22,14 +22,14 @@ K-Swap employs a strategic approach, offering to supplement a percentage of an i
 
 The precise contribution from K-Swap is not random, but is carefully calculated. It depends on a specific formula that considers the length of staking among other factors. The formula is as follows:
 
-| Variable |                                      |
-| -------- | ------------------------------------ |
-| x        | What percentage the will be supplied |
-| P        | The maximum supply percentage        |
-| p        | The minimum supply percentage        |
-| S        | The maximum stake duration           |
-| s        | The minimum stake duration           |
-| t        | The users designated stake duration  |
+| Variable |                                     |
+| -------- | ----------------------------------- |
+| x        | Percentage that will be supplied    |
+| P        | The maximum supply percentage       |
+| p        | The minimum supply percentage       |
+| S        | The maximum stake duration          |
+| s        | The minimum stake duration          |
+| t        | The users designated stake duration |
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt="" width="375"><figcaption><p>Formula to calculate supply percent</p></figcaption></figure>
 
@@ -47,7 +47,7 @@ Determining the specific fixed rate for a particular token is a straightforward 
 
 <table><thead><tr><th width="192">Variable</th><th>Meaning</th></tr></thead><tbody><tr><td>x</td><td>The price of the of the fixed rate supplied tokens</td></tr><tr><td>d</td><td>The discount applied in percent (example: 0.2 for 20%)</td></tr><tr><td>p</td><td>The current price of the token in based on the supply</td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="274"><figcaption><p>Formula to calculate fixed rate price</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="274"><figcaption><p>Formula to calculate fixed rate price</p></figcaption></figure>
 
 | Discount Rate | 20% |
 | ------------- | --- |

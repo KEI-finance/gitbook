@@ -16,11 +16,11 @@ The Identity contract is embedded entirely within the protocol. So whenever affi
 
 The Kei Finance Identity Program is an integral part of the KEI ecosystem, establishing an engaging relationship between users and the platform. It is powered by a dedicated Identity Contract, which is closely intertwined with the Affiliate Contract. This connection ensures that a portion of all profits are directed to the users, nurturing an all-inclusive rewards distribution process.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>NFT's that power K-Domain</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>NFT's that power K-Domain</p></figcaption></figure>
 
 ## **Becoming an Affiliate - Purchasing an Identity**
 
-To become an affiliate for the Kei Finance protocol, you need to register an identity, which will assign a unique URL to your wallet address. The registration process involves purchasing an identity directly from the Kei Finance website or an NFT marketplace. Each identity is registered for a specific duration and can be renewed or repurchased by others once it expires. As identities are represented as NFTs, they can be freely traded on any NFT marketplace, providing flexibility and potential value for participants.
+To become an affiliate for the Kei Finance protocol, you need to purchase and register a domain name, that will act as an identity. This will assign a unique URL to your wallet address. The registration process involves purchasing an identity directly from the Kei Finance website or an NFT marketplace. Each identity is registered for a specific duration and can be renewed or repurchased by others once it expires. As identities are represented as NFTs, they can be freely traded on any NFT marketplace, providing flexibility and potential value for participants.
 
 ### **Pricing Model**
 
@@ -60,6 +60,10 @@ _**Distribution Table**_
 <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption><p>Example Payout Structure</p></figcaption></figure>
 
 ## Identity Trading
+
+{% hint style="success" %}
+you can essentially sell your network as a bundle. Build up a network and sell it off. **You’re not selling contact info or anything of the like**, but rather the affiliate bonuses and the associated k-domain. Buy a domain, build an affiliate group, sell it off.
+{% endhint %}
 
 Unique Kei Finance domain names, embodied as identity tokens, can be traded among users. These tokens, being NFTs, abide by the same rules as all other NFTs on the Kei Protocol. Each trade sparks the reward contract, triggering a distribution of fees as rewards to all protocol stakers, boosting the overall tokenomics of the KEI ecosystem.\
 &#x20;
