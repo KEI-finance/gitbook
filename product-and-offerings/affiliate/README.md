@@ -16,7 +16,7 @@ The Identity contract is embedded entirely within the protocol. So whenever affi
 
 The Kei Finance Identity Program is an integral part of the KEI ecosystem, establishing an engaging relationship between users and the platform. It is powered by a dedicated Identity Contract, which is closely intertwined with the Affiliate Contract. This connection ensures that a portion of all profits are directed to the users, nurturing an all-inclusive rewards distribution process.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>NFT's that power K-Domain</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>NFT's that power K-Domain</p></figcaption></figure>
 
 ## **Becoming an Affiliate - Purchasing an Identity**
 

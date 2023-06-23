@@ -8,7 +8,6 @@
   * [Connecting](welcome-to-kei-finance/getting-started/creating-a-wallet.md)
   * [Buying / Selling](welcome-to-kei-finance/getting-started/buying-the-token.md)
   * [Earning Rewards](welcome-to-kei-finance/getting-started/earning-rewards.md)
-  * [Get More Rewards](welcome-to-kei-finance/getting-started/get-more-rewards.md)
 * [KEI Team](welcome-to-kei-finance/kei-team.md)
 
 ## Product & Offerings

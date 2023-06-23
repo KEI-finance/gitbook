@@ -52,7 +52,7 @@ This deterrent discourages impulsive entry and exit from the staking pool, foste
 
 <table><thead><tr><th width="219">Variable</th><th>Meaning</th></tr></thead><tbody><tr><td>u</td><td>The resulting penalty</td></tr><tr><td>kd</td><td>The kink duration position</td></tr><tr><td>kp</td><td>The kink penalty position </td></tr><tr><td>p</td><td>The min penalty</td></tr><tr><td>P</td><td>The max penalty</td></tr><tr><td>d</td><td>The committed stake duration</td></tr><tr><td>x</td><td>The current days that have passed</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Penalties and Principal: A Responsible Balance**
 

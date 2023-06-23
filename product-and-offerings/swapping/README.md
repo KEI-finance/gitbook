@@ -47,7 +47,7 @@ Determining the specific fixed rate for a particular token is a straightforward 
 
 <table><thead><tr><th width="192">Variable</th><th>Meaning</th></tr></thead><tbody><tr><td>x</td><td>The price of the of the fixed rate supplied tokens</td></tr><tr><td>d</td><td>The discount applied in percent (example: 0.2 for 20%)</td></tr><tr><td>p</td><td>The current price of the token in based on the supply</td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="274"><figcaption><p>Formula to calculate fixed rate price</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="274"><figcaption><p>Formula to calculate fixed rate price</p></figcaption></figure>
 
 | Discount Rate | 20% |
 | ------------- | --- |
