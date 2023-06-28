@@ -16,6 +16,10 @@ A dynamic and accomplished Growth Leader with a profound understanding of the bl
 
 CMO With multiple years experience across several DeFi networks and a strong focus on powerful go to market strategies that deliver rapid brand awareness, growth and new user acquisition.
 
+#### Rojan Maharjan- Full-stack Developer
+
+A strong, well rounded full-stack developer with a speciality focus on blockchain technology. With 4+ years of experience, he has successfully created and deployed blockchain SaaS (Software-as-a-Service) platforms, demonstrating his expertise in building scalable and secure solutions in the blockchain space.
+
 #### Tom Tsao - Full-Stack Engineer
 
 A strong, well rounded full stack developer with a specialty focus on smart contract development. Bringing a passion for decentralised finance and automated trading mechanics to deliver powerfully autonomous and transparent profit growth tools.

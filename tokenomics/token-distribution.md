@@ -2,19 +2,17 @@
 
 ### **Token Details**
 
-**Name:** KEI token
+**Name:** KEI token - Utility Token
 
 **Symbol:** KEI
 
 **Chain:** Arbitrum
 
-**Supply:** 50  Million initial supply, uncapped
+**Supply: 6**0  Million initial supply, uncapped
 
 **Decimal:** 8
 
-
-
-<figure><img src="../.gitbook/assets/piechart (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Tokenomics.png" alt=""><figcaption></figcaption></figure>
 

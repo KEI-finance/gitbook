@@ -36,7 +36,7 @@ The longer you keep your money staked, the more rewards you can get. These extra
 
 <table><thead><tr><th width="219">Variable</th><th>Meaning</th></tr></thead><tbody><tr><td>r</td><td>The resulting reward multiplier</td></tr><tr><td>ks</td><td>The kink stake duration position</td></tr><tr><td>km</td><td>The kink reward multiplier position </td></tr><tr><td>m</td><td>The min reward multiplier</td></tr><tr><td>M</td><td>The max reward multiplier</td></tr><tr><td>s</td><td>The min staking duration</td></tr><tr><td>S</td><td>The max staking duration</td></tr><tr><td>x</td><td>The user input staking duration</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/image (35).png" alt="" width="563"><figcaption><p>Calculation for Reward Multiplier</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35) (1).png" alt="" width="563"><figcaption><p>Calculation for Reward Multiplier</p></figcaption></figure>
 
 ## **Penalty Structure: Discouraging Early Unstaking**
 
