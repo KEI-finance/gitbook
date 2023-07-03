@@ -41,6 +41,15 @@
 * [Profit Distribution](mechanics/rewards.md)
 * [Floor Price](mechanics/floor-price.md)
 
+## Legal
+
+* [Terms and Conditions](legal/terms-and-conditions.md)
+* [Terms of Service](legal/terms-of-service.md)
+* [Privacy Policy](legal/privacy-policy.md)
+* [Disclaimers](legal/disclaimers.md)
+* [Kei Token & NFTs](legal/kei-token-and-nfts.md)
+* [Fees and payments](legal/fees-and-payments.md)
+
 ## Technicals
 
 * [Networks](technicals/networks/README.md)

@@ -13,7 +13,7 @@ The Kei Finance protocol and these docs are bound to the following[ terms and co
 
 Kei Finance stands at the vanguard of the DeFi industry, embodying a transformative force dedicated to driving significant advancements within the sector. Our aim is to address and resolve inherent obstacles prevalent in the DeFi landscape, leveraging cutting-edge technology and a firm commitment to sustained growth. Through the integration of innovative solutions and an emphasis on user-centric, fully automated financial services, we endeavor to reinforce trust and foster transparency within the DeFi community. Our platform is not merely a venue for financial transactions, but a conduit for substantial change - a catalyst in the evolution of decentralized finance.
 
-<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption><p>High Level Kei Finance Protocol</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>High Level Kei Finance Protocol</p></figcaption></figure>
 
 ## Our Mission
 
@@ -58,4 +58,4 @@ Kei Finance builds upon a foundation of robust security and transparency. With o
 
 Together, these aspects form the cornerstone of Kei Finance's value proposition. By offering a set of sophisticated financial tools, including K-Swap, K-Stake, K-Domain, K-DiversiFi, and upcoming additions like K-Positions and K-Borrow, we strive to create a user-centric, automated DeFi platform that revolutionizes the traditional financial landscape.
 
-<figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -30,5 +30,5 @@ See the below walkthrough for detailed information on how to swap.
 
 * Upon logging into their dashboard, while placing a ‘Buy’ order, users can choose to toggle the ‘Automatic Stake’ button on, to stake while buying, in one go.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
