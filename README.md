@@ -23,7 +23,7 @@ Our platform is engineered to provide an array of financial tools that meet the 
 
 * [K-Swap: Best-price Swapping](product-and-offerings/swapping/)
 * [K-Stake: Locked Single Staking with multipliers and auto-compounding](product-and-offerings/staking.md)
-* [K-Domain: Unique Identity and Referrals](product-and-offerings/affiliate/)
+* [K-ID: Unique Identity and Referrals](product-and-offerings/affiliate/)
 * [K-DiversiFi: Decentralized automated Investment Solutions](product-and-offerings/k-diversifi/)
 
 In addition, we have several features in the pipeline that aim to further elevate the financial freedom and flexibility we offer to our users:
@@ -56,6 +56,6 @@ Contrary to standard protocols susceptible to token value dilution, Kei Finance 
 
 Kei Finance builds upon a foundation of robust security and transparency. With our KEI contract open for public analysis, we express our commitment to maintaining a clear and trustworthy environment. As the funds under Kei's management increase, the platform becomes progressively attractive to token holders.
 
-Together, these aspects form the cornerstone of Kei Finance's value proposition. By offering a set of sophisticated financial tools, including K-Swap, K-Stake, K-Domain, K-DiversiFi, and upcoming additions like K-Positions and K-Borrow, we strive to create a user-centric, automated DeFi platform that revolutionizes the traditional financial landscape.
+Together, these aspects form the cornerstone of Kei Finance's value proposition. By offering a set of sophisticated financial tools, including K-Swap, K-Stake, K-ID, K-DiversiFi, and upcoming additions like K-Positions and K-Borrow, we strive to create a user-centric, automated DeFi platform that revolutionizes the traditional financial landscape.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

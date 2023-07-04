@@ -3,6 +3,7 @@
 ## Welcome to Kei Finance
 
 * [Overview](README.md)
+* [PRESALE OPPORTUNITY: 29th Aug](welcome-to-kei-finance/presale-opportunity-29th-aug.md)
 * [Socials LinkTree](welcome-to-kei-finance/contact-us.md)
 * [Getting Started](welcome-to-kei-finance/getting-started/README.md)
   * [Connecting](welcome-to-kei-finance/getting-started/creating-a-wallet.md)
@@ -15,8 +16,8 @@
 * [K-Swap](product-and-offerings/swapping/README.md)
   * [K-Swap: Profit Distribution](product-and-offerings/swapping/k-swap-profit-distribution.md)
 * [K-Stake](product-and-offerings/staking.md)
-* [K-Domain](product-and-offerings/affiliate/README.md)
-  * [K-Domain: Profit Distribution](product-and-offerings/affiliate/k-domain-profit-distribution.md)
+* [K-ID](product-and-offerings/affiliate/README.md)
+  * [K-ID: Profit Distribution](product-and-offerings/affiliate/k-id-profit-distribution.md)
 * [K-DiversiFI](product-and-offerings/k-diversifi/README.md)
   * [K-DiversiFi: Profit Distribution](product-and-offerings/k-diversifi/k-diversifi-profit-distribution.md)
 * [K-Borrow - Coming Soon](product-and-offerings/k-borrow-coming-soon/README.md)

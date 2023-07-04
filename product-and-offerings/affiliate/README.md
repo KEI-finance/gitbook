@@ -1,36 +1,36 @@
 ---
 description: >-
   Unique identify and referral: Boost Kei Finance community and earn rewards
-  with unique Kei Finance referral domains.
+  with unique Kei Finance referral ID's.
 cover: ../../.gitbook/assets/whitepaper-header.png
 coverY: 0
 ---
 
-# K-Domain
+# K-ID
 
 {% hint style="info" %}
 The Identity contract is embedded entirely within the protocol. So whenever affiliate rewards are distributed, a percentage of rewards are allocated to the affiliate contract. This is applied to all applications within the protocol.
 {% endhint %}
 
-## **Introduction to Kei Finance Identity**
+## **Introduction to K-ID**
 
 The Kei Finance Identity Program is an integral part of the KEI ecosystem, establishing an engaging relationship between users and the platform. It is powered by a dedicated Identity Contract, which is closely intertwined with the Affiliate Contract. This connection ensures that a portion of all profits are directed to the users, nurturing an all-inclusive rewards distribution process.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>NFT's that power K-Domain</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>NFT's that power K-ID</p></figcaption></figure>
 
-## **Becoming an Affiliate - Purchasing an Identity**
+## **Becoming an Affiliate - Purchasing an IDentity**
 
-To become an affiliate for the Kei Finance protocol, you need to purchase and register a domain name, that will act as an identity. This will assign a unique URL to your wallet address. The registration process involves purchasing an identity directly from the Kei Finance website or an NFT marketplace. Each identity is registered for a specific duration and can be renewed or repurchased by others once it expires. As identities are represented as NFTs, they can be freely traded on any NFT marketplace, providing flexibility and potential value for participants.
+To become an affiliate for the Kei Finance protocol, you need to purchase and register an ID name, that will act as an identity. This will assign a unique URL to your wallet address. The registration process involves purchasing an ID directly from the Kei Finance website or an NFT marketplace. Each K-ID is registered for a specific duration and can be renewed or repurchased by others once it expires. As identities are represented as NFTs, they can be freely traded on any NFT marketplace, providing flexibility and potential value for participants.
 
 ### **Pricing Model**
 
-The cost of domain names is determined by two factors: the length of the domain name and the duration of ownership. Shorter names imply a higher cost, reflecting the premium nature of concise, memorable names. Additionally, the length of ownership acts as a price multiplier, where each extra year of ownership multiplies the base cost.
+The cost of K-ID's is determined by two factors: the length of the K-ID and the duration of ownership. Shorter names imply a higher cost, reflecting the premium nature of concise, memorable names. Additionally, the length of ownership acts as a price multiplier, where each extra year of ownership multiplies the base cost.
 
-<table><thead><tr><th width="262">Number of Characters</th><th>Price (KEI tokens)</th><th>~ (USD value)</th></tr></thead><tbody><tr><td>1</td><td>10,000</td><td>$900</td></tr><tr><td>2</td><td>5,000</td><td>$450</td></tr><tr><td>3</td><td>2,000</td><td>$180</td></tr><tr><td>4</td><td>1,000</td><td>$90</td></tr><tr><td>5</td><td>500</td><td>$45</td></tr><tr><td>6</td><td>200</td><td>$18</td></tr><tr><td>7 or more</td><td><del>100</del> (free for a limitted time)</td><td><del>$9</del></td></tr></tbody></table>
+<table><thead><tr><th width="262">Number of Characters</th><th>~ (USD value)</th></tr></thead><tbody><tr><td>1</td><td>$900 (discounted first year)</td></tr><tr><td>2</td><td>$450 (discounted first year)</td></tr><tr><td>3</td><td>$180 (discounted first year)</td></tr><tr><td>4</td><td>$90 (discounted first year)</td></tr><tr><td>5</td><td>$45 (discounted first year)</td></tr><tr><td>6</td><td>$18 (Free for first 1000 users)</td></tr><tr><td>7 or more</td><td>Free for a limited time</td></tr></tbody></table>
 
 > **Example**
 >
-> _A identity name 'SomeName' (8 characters) would have a base price of 100 tokens secured for 3 years would cost 3 x Base Price, totalling to 300 KEI tokens in this case._
+> _A identity name 'Sam' (3 characters) would have a base price of $180usd equivalent of KEI tokens, secured for 3 years would cost 3 x Base Price, totalling to $300usd worth of KEI tokens in this case._
 
 ## **How it works**
 
@@ -62,8 +62,8 @@ _**Distribution Table**_
 ## Identity Trading
 
 {% hint style="success" %}
-you can essentially sell your network as a bundle. Build up a network and sell it off. **You’re not selling contact info or anything of the like**, but rather the affiliate bonuses and the associated k-domain. Buy a domain, build an affiliate group, sell it off.
+you can essentially sell your network as a bundle. Build up a network and sell it off. **You’re not selling contact info or anything of the like**, but rather the affiliate bonuses and the associated k-ID. Buy a ID, build an affiliate group, sell it off.
 {% endhint %}
 
-Unique Kei Finance domain names, embodied as identity tokens, can be traded among users. These tokens, being NFTs, abide by the same rules as all other NFTs on the Kei Protocol. Each trade sparks the reward contract, triggering a distribution of fees as rewards to all protocol stakers, boosting the overall tokenomics of the KEI ecosystem.\
+Unique Kei Finance ID names, embodied as identity tokens, can be traded among users. These tokens, being NFTs, abide by the same rules as all other NFTs on the Kei Protocol. Each trade sparks the reward contract, triggering a distribution of fees as rewards to all protocol stakers, boosting the overall tokenomics of the KEI ecosystem.\
 &#x20;
