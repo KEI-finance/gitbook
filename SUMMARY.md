@@ -25,6 +25,8 @@
 * [K-Positions - Coming Soon](product-and-offerings/k-positions-coming-soon/README.md)
   * [K-Positions: Profit Distribution](product-and-offerings/k-positions-coming-soon/k-positions-profit-distribution.md)
 * [K-Gov - Coming Soon](product-and-offerings/governance-coming-soon.md)
+* [K-Marketplace - Future](product-and-offerings/k-marketplace-future.md)
+* [K-Send - Future](product-and-offerings/k-send-future.md)
 
 ## Tokenomics
 
