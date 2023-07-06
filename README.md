@@ -29,7 +29,7 @@ Our platform is engineered to provide an array of financial tools that meet the 
 In addition, we have several features in the pipeline that aim to further elevate the financial freedom and flexibility we offer to our users:
 
 * [K-Positions: Stakeholder portfolio NFT trading](product-and-offerings/k-positions-coming-soon/)
-* [K-Borrow: Lending and borrowing platform](product-and-offerings/k-borrow-coming-soon/)
+* [K-Borrow: Lending and borrowing platform](product-and-offerings/k-borrow-future/)
 * [K-Gov: Governance for Kei](product-and-offerings/governance-coming-soon.md)
 
 By integrating these services within one ecosystem, we aim to offer a seamless user experience, where the entire DeFi universe is accessible within a single platform.
