@@ -4,21 +4,21 @@ cover: ../.gitbook/assets/whitepaper-header.png
 coverY: 0
 ---
 
-# Profit Distribution
+# Reward Distribution
 
 {% hint style="info" %}
-Kei Protocol has a contract - known as rewards - that handles where each amount of profit generated on the platform is allocated. The platform rewards are the rewards that go through the reward contract and are then distributed to; Staking, Treasury, Debt Repayment, Liquidity and Affiliate reward programs.
+Kei Protocol has a contract - known as rewards - that handles where each amount of rewards generated on the platform is allocated. The platform rewards are the rewards that go through the reward contract and are then distributed to; Staking, Treasury, Debt Repayment, Liquidity and Affiliate reward programs.
 {% endhint %}
 
-KEI Finance ensures fair and sustainable profit distribution, aimed at aligning all stakeholders towards the common goal of the protocol's growth. Our robust [tokenomics](broken-reference) and unique profit distribution system benefit all participants, including stakers, the treasury, debt repayment mechanisms, and affiliates.
+KEI Finance ensures fair and sustainable reward distribution, aimed at aligning all stakeholders towards the common goal of the protocol's growth. Our robust [tokenomics](broken-reference) and unique reward distribution system benefit all participants, including stakers, the treasury, debt repayment mechanisms, and affiliates.
 
-The individual allocations for each section are defined at each profit generating point. Meaning that different parts of the protocol will different the profit in different ways.
+The individual allocations for each section are defined at each reward generating point. Meaning that different parts of the protocol will different the reward in different ways.
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Avenues of profit distribution</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Avenues of reward distribution</p></figcaption></figure>
 
 ## Staking Rewards
 
-Staking rewards make up a significant part of KEI's profit distribution. By staking KEI tokens, users receive Staked-KEI (sKEI) tokens, granting them governance rights and a portion of the protocol's rewards. The reward structure incentivises long-term and large-scale staking with greater rewards and voting power. Any penalties incurred by stakers prematurely unstaking are reallocated back into the staking reward pool, ensuring its continuous growth. Additionally, stakers receive a unique KEI NFT, immediately tradable on NFT marketplaces.
+Staking rewards make up a significant part of KEI's reward distribution. By staking KEI tokens, users receive Staked-KEI (sKEI) tokens, granting them governance rights and a portion of the protocol's rewards. The reward structure incentivises long-term and large-scale staking with greater rewards and voting power. Any penalties incurred by stakers prematurely unstaking are reallocated back into the staking reward pool, ensuring its continuous growth. Additionally, stakers receive a unique KEI NFT, immediately tradable on NFT marketplaces.
 
 ## Treasury Rewards
 
@@ -34,7 +34,7 @@ The rewards allocated to the processor in the protocol serve the purpose of reim
 
 ## Affiliate Rewards
 
-KEI Finance rewards its community members for expanding its user base through a multi-tiered affiliate program. It represents a smaller but substantial portion of the overall reward pool. If a user (A) refers a new user (B) who makes a purchase, the referrer (A) earns 90% of the profit allocated to the affiliate reward. This reward system extends one more level, with the referrer earning 10% for purchases made by individuals referred by their invitees.
+KEI Finance rewards its community members for expanding its user base through a multi-tiered affiliate program. It represents a smaller but substantial portion of the overall reward pool. If a user (A) refers a new user (B) who makes a purchase, the referrer (A) earns 90% of the reward allocated to the affiliate reward. This reward system extends one more level, with the referrer earning 10% for purchases made by individuals referred by their invitees.
 
 The KEI Finance affiliate program encourages active community involvement and strengthens the network effect, thus contributing to the platform's overall growth and prosperity. The rewards are only distributed when the invitee executes a trade on the platform, ensuring a genuine expansion of the user base.  Learn more on affiliate rewards in the [identity](../product-and-offerings/affiliate/) section.
 
@@ -44,4 +44,4 @@ A small percentage determined by the number of platform users and volume is dist
 
 
 
-Our profit distribution system, through these four interconnected mechanisms, establishes a positive feedback loop, fostering platform sustainability, token value growth, and community involvement.
+Our reward distribution system, through these four interconnected mechanisms, establishes a positive feedback loop, fostering platform sustainability, token value growth, and community involvement.

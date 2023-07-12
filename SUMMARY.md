@@ -41,7 +41,7 @@
 
 * [Architecture](mechanics/architecture.md)
 * [Processor](mechanics/processor.md)
-* [Profit Distribution](mechanics/rewards.md)
+* [Reward Distribution](mechanics/rewards.md)
 * [Floor Price](mechanics/floor-price.md)
 
 ## Legal
