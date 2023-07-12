@@ -14,6 +14,10 @@
 
 KEI Finance is excited to present a novel opportunity to participate in the initial offering of our utility token, $KEI, key to accessing and interacting with our suite of innovative web3 financial tools.
 
+{% hint style="info" %}
+The tokens will be claimable via our website on the 3rd of October
+{% endhint %}
+
 #### Access Opportunity Mechanics & Structure
 
 Our unique pricing model is designed to confer significant advantages to early participants, with lasting benefits extended to those who join us at later stages. We have meticulously designed a post-Token Generation Event (TGE) release plan, with a thoughtful unlocking and vesting schedule to support sustainable platform growth.
@@ -24,9 +28,9 @@ Here's the highlight: even at the top-tier pricing of $0.10 per token, we've del
 
 #### Access Opportunity Overview
 
-The KEI presale commences on the <mark style="background-color:blue;">29th of August 2023 and will continue until the 26th of September 2023,</mark> via our website. This offering will feature 7 price levels, from $0.10 per token down to $0.07 with a 42.8% discount. The minimum contribution is set at $200, with a maximum limit of $50,000. Our goal is to circulate 58.33% of the initial total token supply to raise $3.24 million, setting a modest platform valuation of $6 million FDV.
+The KEI presale commences on the <mark style="background-color:blue;">29th of August 2023 and will continue until the 26th of September 2023,</mark> via our website. This offering will feature 7 price levels, from $0.10 per token down to $0.07 with a 42.8% discount. The minimum contribution is set at $200, with a maximum limit of $50,000. Our goal is to circulate 58.33% of the initial total token supply to raise $3.12 million, setting a modest platform valuation of $6 million FDV.
 
-The Token Generation Event (TGE) will commence on the 3rd October 2023 feature a price of $0.10 per token, with 20% of the initial total token supply allocated to the initial liquidity pool.
+The Token Generation Event (TGE) will commence on the 3rd October 2023 feature a price of $0.10 per token, with 15% of the initial total token supply allocated to the initial liquidity pool.
 
 #### Access Opportunity Stages
 
