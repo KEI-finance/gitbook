@@ -6,10 +6,6 @@
 
 With over 12 years of experience, many in the DeFi space, having worked across a diverse range of organisations, from small startups to unicorns, as well as large-scale government and corporate enterprises. His expertise lies in architecting complex systems, developing large-scale robust applications, and implementing secure digital technologies.
 
-#### Samuel Hishon - CGO
-
-A dynamic and accomplished Growth Leader with a profound understanding of the blockchain industry and DeFi ecosystem. Leveraging strong leadership skills and a data-driven approach, he excels at driving growth and fostering innovation in the rapidly evolving landscape of decentralized systems.
-
 ## Core Team
 
 #### Matthew Peters - CMO
