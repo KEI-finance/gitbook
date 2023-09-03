@@ -38,15 +38,11 @@ Interested parties will be able to participate using FIAT, USDC or ETH.
 
 The offering stages are devised to incentivize early participation, with fewer tokens allocated at the lowest price level. For instance, at $0.07, there will be 3% of tokens on offer, increasing to 13.3% of tokens at $0.10.
 
-It's crucial to emphasize that even the TGE price of $0.10 represents compelling value, thanks to our modest platform valuation. This sets the stage for a healthy, positive price discovery process upon TGE.
-
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+It's crucial to emphasize that even the TGE price of $0.12 represents compelling value, thanks to our modest platform valuation. This sets the stage for a healthy, positive price discovery process upon TGE.
 
 #### Token Distribution & Interaction Opportunities
 
 At TGE, 15% of tokens will be immediately available, with the remainder divided into four staking positions locked for intervals of 30 days. This system creates a graduated vesting distribution spanning four months, thereby facilitating meaningful engagement with our platform during the vesting period.
-
-Participants can interact with our platform by trading their stakes on our e-NFT marketplace or experimenting with our K-DiversiFi tool. Thus, early participants do more than access our utility token at an advantageous price—they become integral parts of an innovative fintech platform that's redefining web3 finance.
 
 _Please note that participation in crypto-assets involves risks, including potential loss of capital. Always make informed decisions and invest within your risk tolerance._
 
