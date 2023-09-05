@@ -30,7 +30,7 @@ Here's the highlight: even at the top-tier pricing of $0.10 per token, we've del
 
 The KEI presale commences on the <mark style="background-color:blue;">29th of August 2023,</mark> via our website. This offering will feature 7 price levels, from $0.10 per token down to $0.07 with a 58.8% discount. The a maximum allocation of tokens is set to 1,000,000. Our goal is to circulate 58.33% of the initial total token supply to raise $3.12 million, setting a modest platform valuation of $6 million FDV.
 
-The Token Generation Event (TGE) will commence on the 3rd October 2023 feature a price of $0.10 per token, with 15% of the initial total token supply allocated to the initial liquidity pool.
+The Token Generation Event (TGE) will have a date locked in towards the end of the year feature a price of $0.12 per token, with 15% of the initial total token supply allocated to the initial liquidity pool.
 
 #### Access Opportunity Stages
 
