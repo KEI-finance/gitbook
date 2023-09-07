@@ -27,6 +27,7 @@
 * [K-Gov - Coming Soon](product-and-offerings/governance-coming-soon.md)
 * [K-Marketplace - Future](product-and-offerings/k-marketplace-future.md)
 * [K-Send - Future](product-and-offerings/k-send-future.md)
+* [K-Pay: Off Ramp](product-and-offerings/k-pay-off-ramp.md)
 
 ## Tokenomics
 
