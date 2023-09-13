@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/whitepaper-header.png
 coverY: 0
 ---
 
-# K-Stake
+# KEI Staking
 
 {% hint style="info" %}
 The staking platform on Kei Finance transcends the mere role of offering rewards to investors in the protocol. It also stands as the principal interface for engaging with the protocol. Coupled with reward multipliers, it amplifies your user experience and return on investment, making it more than just a passive investment platform.
@@ -28,7 +28,7 @@ Users stake their KEI tokens for a predefined duration to earn staked-KEI tokens
 
 ### Reward Multiplier: Increasing ROI
 
-The longer you keep your money staked, the more rewards you can get. These extra rewards apply across all parts of the Kei Protocol, helping you earn more from every tool and service. For example, if you have a 10x reward multiplier, you could get about 10 times more rewards than someone with a 1x multiplier.
+The longer you keep your money staked, the more rewards you can get. These extra rewards apply across all parts of the KEI Protocol, helping you earn more from every tool and service. For example, if you have a 10x reward multiplier, you could get about 10 times more rewards than someone with a 1x multiplier.
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ The staking algorithm utilized by the Kei Protocol is pioneering in its integrat
 
 ## Trading Staked Positions: Avoid fees for greater flexibility&#x20;
 
-Furthering the recognition of flexibility, users also have the option to sell their whole of partial position to other users who take on the staking period committment. Learn more of trading staked positions in the [K-Positions](k-positions-coming-soon/) section.&#x20;
+Furthering the recognition of flexibility, users also have the option to sell their whole of partial position to other users who take on the staking period committment. Learn more of trading staked positions in the [K-Positions](positions-trading-coming-soon/) section.&#x20;
 
 ## **Post-Duration Rewards: No Penalties, Continuous Earnings**
 

@@ -4,23 +4,23 @@ cover: ../../.gitbook/assets/whitepaper-header.png
 coverY: 0
 ---
 
-# K-Swap
+# Token Swaps
 
 {% hint style="info" %}
-K-Swap operates on a Fixed Rate Price model, ensuring that users receive the most advantageous rate when making their purchases directly through our website.
+KEI token swaps operate on a Fixed Rate Price model, ensuring that users receive the most advantageous rate when making their purchases directly through our website.
 {% endhint %}
 
-The K-Swap features offer a seamless onboarding experience onto the Kei Protocol, enabling users to effortlessly stake and swap tokens in a single transaction. By combining these functionalities, it not only saves users on transaction fees but also facilitates a controlled supply flow within the protocol. This innovative mechanism ensures a gradual and stable increase in the token supply while maintaining efficient operations.
+The swap features offer a seamless onboarding experience onto the Kei Protocol, enabling users to effortlessly stake and swap tokens in a single transaction. By combining these functionalities, it not only saves users on transaction fees but also facilitates a controlled supply flow within the protocol. This innovative mechanism ensures a gradual and stable increase in the token supply while maintaining efficient operations.
 
-Where a K-Swap purchase transaction would look like the following:
+Where a swap purchase transaction would look like the following:
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ## Supply Percentage: Rewarding Long Term Stakers&#x20;
 
-K-Swap employs a strategic approach, offering to supplement a percentage of an individual's purchase contingent on their staking duration. This strategy is crafted to deliver higher discounts for more extended staking periods, thereby motivating users to stake longer and receive larger discounts.
+Swaps employ a strategic approach, offering to supplement a percentage of an individual's purchase contingent on their staking duration. This strategy is crafted to deliver higher discounts for more extended staking periods, thereby motivating users to stake longer and receive larger discounts.
 
-The precise contribution from K-Swap is not random, but is carefully calculated. It depends on a specific formula that considers the length of staking among other factors. The formula is as follows:
+The precise contribution from a swap is not random, but is carefully calculated. It depends on a specific formula that considers the length of staking among other factors. The formula is as follows:
 
 | Variable |                                     |
 | -------- | ----------------------------------- |
@@ -80,4 +80,4 @@ If the KEI token price dips below the defined floor price during a transaction, 
 
 ## **Affiliate Tracking: Rewarding Community Contribution**
 
-K-Swap is not merely a tool for trade optimization; it also serves a crucial role in the Kei affiliate program. As each swap transaction is conducted, the SwapRouter records the transaction's affiliate, enabling the protocol to keep a meticulous record of affiliate contributions. This feature fosters a sense of community and shared profit, as it enables affiliates to receive deserved rewards for their contributions to the Kei Finance ecosystem.
+KEI token swaps are not merely a tool for trade optimization; it also serves a crucial role in the Kei affiliate program. As each swap transaction is conducted, the SwapRouter records the transaction's affiliate, enabling the protocol to keep a meticulous record of affiliate contributions. This feature fosters a sense of community and shared profit, as it enables affiliates to receive deserved rewards for their contributions to the Kei Finance ecosystem.

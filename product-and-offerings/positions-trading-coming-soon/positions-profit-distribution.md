@@ -1,8 +1,8 @@
 ---
-description: The distribution ratios for K-Domain
+description: The distribution ratios for K-ID
 ---
 
-# K-Positions: Profit Distribution
+# Positions: Profit Distribution
 
 ## Trade Fee
 

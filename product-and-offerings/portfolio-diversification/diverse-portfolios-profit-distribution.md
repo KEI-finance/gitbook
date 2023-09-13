@@ -1,8 +1,8 @@
 ---
-description: The distribution ratios for K-Domain
+description: The distribution ratios for KEI finance IDs
 ---
 
-# K-DiversiFi: Profit Distribution
+# Diverse Portfolios: Profit Distribution
 
 ## Profit Generation
 

@@ -24,12 +24,12 @@ Our platform is engineered to provide an array of financial tools that meet the 
 * [K-Swap: Best-price Swapping](product-and-offerings/swapping/)
 * [K-Stake: Locked Single Staking with multipliers and auto-compounding](product-and-offerings/staking.md)
 * [K-ID: Unique Identity and Referrals](product-and-offerings/affiliate/)
-* [K-DiversiFi: Decentralized automated Investment Solutions](product-and-offerings/k-diversifi/)
+* [K-DiversiFi: Decentralized automated Investment Solutions](product-and-offerings/portfolio-diversification/)
 
 In addition, we have several features in the pipeline that aim to further elevate the financial freedom and flexibility we offer to our users:
 
-* [K-Positions: Stakeholder portfolio NFT trading](product-and-offerings/k-positions-coming-soon/)
-* [K-Borrow: Lending and borrowing platform](product-and-offerings/k-borrow-future/)
+* [K-Positions: Stakeholder portfolio NFT trading](product-and-offerings/positions-trading-coming-soon/)
+* [K-Borrow: Lending and borrowing platform](product-and-offerings/kei-finance-borrow-mechanic-future/)
 * [K-Gov: Governance for Kei](product-and-offerings/governance-coming-soon.md)
 
 By integrating these services within one ecosystem, we aim to offer a seamless user experience, where the entire DeFi universe is accessible within a single platform.

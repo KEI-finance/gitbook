@@ -1,8 +1,8 @@
 ---
-description: The distribution ratios for K-Swap
+description: The distribution ratios for swaps
 ---
 
-# K-Swap: Profit Distribution
+# Token Swap: Profit Distribution
 
 ## Supplier
 

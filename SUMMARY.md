@@ -13,21 +13,21 @@
 
 ## Product & Offerings
 
-* [K-Swap](product-and-offerings/swapping/README.md)
-  * [K-Swap: Profit Distribution](product-and-offerings/swapping/k-swap-profit-distribution.md)
-* [K-Stake](product-and-offerings/staking.md)
-* [K-ID](product-and-offerings/affiliate/README.md)
-  * [K-ID: Profit Distribution](product-and-offerings/affiliate/k-id-profit-distribution.md)
-* [K-DiversiFI](product-and-offerings/k-diversifi/README.md)
-  * [K-DiversiFi: Profit Distribution](product-and-offerings/k-diversifi/k-diversifi-profit-distribution.md)
-* [K-Positions - Coming Soon](product-and-offerings/k-positions-coming-soon/README.md)
-  * [K-Positions: Profit Distribution](product-and-offerings/k-positions-coming-soon/k-positions-profit-distribution.md)
-* [K-Borrow - Future](product-and-offerings/k-borrow-future/README.md)
-  * [K-Borrow: Profit Distribution](product-and-offerings/k-borrow-future/k-borrow-profit-distribution.md)
-* [K-Gov - Coming Soon](product-and-offerings/governance-coming-soon.md)
-* [K-Marketplace - Future](product-and-offerings/k-marketplace-future.md)
-* [K-Send - Future](product-and-offerings/k-send-future.md)
-* [K-Pay: Off Ramp](product-and-offerings/k-pay-off-ramp.md)
+* [Token Swaps](product-and-offerings/swapping/README.md)
+  * [Token Swap: Profit Distribution](product-and-offerings/swapping/token-swap-profit-distribution.md)
+* [KEI Staking](product-and-offerings/staking.md)
+* [KEI Affiliate Program](product-and-offerings/affiliate/README.md)
+  * [Affiliate: Profit Distribution](product-and-offerings/affiliate/affiliate-profit-distribution.md)
+* [Portfolio Diversification](product-and-offerings/portfolio-diversification/README.md)
+  * [Diverse Portfolios: Profit Distribution](product-and-offerings/portfolio-diversification/diverse-portfolios-profit-distribution.md)
+* [Positions Trading - Coming Soon](product-and-offerings/positions-trading-coming-soon/README.md)
+  * [Positions: Profit Distribution](product-and-offerings/positions-trading-coming-soon/positions-profit-distribution.md)
+* [KEI finance Borrow Mechanic - Future](product-and-offerings/kei-finance-borrow-mechanic-future/README.md)
+  * [Borrowing: Profit Distribution](product-and-offerings/kei-finance-borrow-mechanic-future/borrowing-profit-distribution.md)
+* [Governance - Coming Soon](product-and-offerings/governance-coming-soon.md)
+* [KEI finance Marketplace - Future](product-and-offerings/kei-finance-marketplace-future.md)
+* [P2P Asset Sending- Future](product-and-offerings/p2p-asset-sending-future.md)
+* [Premium Crypto Payment Solution](product-and-offerings/premium-crypto-payment-solution.md)
 
 ## Tokenomics
 

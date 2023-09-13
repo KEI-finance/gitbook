@@ -4,11 +4,11 @@ cover: ../../.gitbook/assets/whitepaper-header.png
 coverY: 0
 ---
 
-# K-Borrow - Coming Soon
+# KEI finance Borrow Mechanic - Future
 
 ## How it works&#x20;
 
-In Kei Finance, the K-Borrow feature operates using the [Reserve Currency](broken-reference) functionalities. This enables users to utilise their stakes as collateral to borrow from the treasury reserve assets. The unique aspect of this setup is that there is no requirement for a separate lender, as the protocol itself acts as the lender. As a result, all lending profits are directed back to the protocol, benefiting KEI holders and KEI stakers through rewards and incentives. This approach ensures that the protocol remains self-sustaining and supports the community of token holders and stakers.
+In Kei Finance, the borrow feature operates using the [Reserve Currency](broken-reference) functionalities. This enables users to utilise their stakes as collateral to borrow from the treasury reserve assets. The unique aspect of this setup is that there is no requirement for a separate lender, as the protocol itself acts as the lender. As a result, all lending profits are directed back to the protocol, benefiting KEI holders and KEI stakers through rewards and incentives. This approach ensures that the protocol remains self-sustaining and supports the community of token holders and stakers.
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>K-Borrow</p></figcaption></figure>
 
@@ -34,6 +34,6 @@ The borrowing contract assures safe token borrowing due to the protocol removing
 
 ## What happens when a user defaults on their loan?&#x20;
 
-**Option 1:** When a Kei Finance user defaults on their loan other users have the ability to pay the loan off and claim the users staked token position.&#x20;
+**Option 1:** When a KEI finance user defaults on their loan other users have the ability to pay the loan off and claim the users staked token position.&#x20;
 
 **Option 2:** Assuming no users have purchased the default loan position the platform can unstake the allocated tokens and burn them. This enables the protocol to claimback the collateral. As the tokens have not exceeded the floor price, there is no loss to the protocol.

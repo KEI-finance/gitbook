@@ -18,7 +18,7 @@ Where [**sKEI**](tokens-kei-and-skei.md#skei-token) represents the staking token
 
 ## Supplying
 
-The [K-Swap](../product-and-offerings/swapping/) functionalities provide a way for the protocol to organically grow the total supply in a controlled and stable way. This is a mechanism which is used to provide the [Reserve Currency](broken-reference) functionalities, and further raise the floor price for all token holders.
+The swap functionalities provide a way for the protocol to organically grow the total supply in a controlled and stable way. This is a mechanism which is used to provide the [Reserve Currency](broken-reference) functionalities, and further raise the floor price for all token holders.
 
 ## Deflationary Mechanics
 

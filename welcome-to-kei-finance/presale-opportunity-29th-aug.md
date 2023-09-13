@@ -1,11 +1,5 @@
 # PRESALE OPPORTUNITY: 29th Aug
 
-{% hint style="success" %}
-## <mark style="color:blue;background-color:yellow;">**JOIN OUR WAITLIST**</mark>
-
-## &#x20;<mark style="color:blue;background-color:yellow;">**>>>**</mark> [<mark style="color:blue;background-color:yellow;">**HERE**</mark>](https://kei-fi.norby.live/event/10e509d6-9b72-4df0-90b7-e04ca0ed24fc?utm\_source=o2MOMdET0VRmzrznotxaZ0G3EDo2\&utm\_medium=referral\&utm\_campaign=user\&utm\_content=shortlink) <mark style="color:blue;background-color:yellow;">**<<<**</mark>
-{% endhint %}
-
 ### Presale Raise 29th August 2023
 
 [Presale Blog](https://medium.com/@kei.fi/kei-finance-public-presale-a-unique-entry-into-the-future-of-decentralized-asset-management-aa6880fd86cc)
