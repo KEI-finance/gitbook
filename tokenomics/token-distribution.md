@@ -8,15 +8,11 @@
 
 **Chain:** Arbitrum
 
-**Supply: 6**0  Million initial supply, uncapped
+**Supply:** 70  Million initial supply, uncapped
 
 **Decimal:** 8
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Tokenomics.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/token economy.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://docs.google.com/spreadsheets/d/1ylAuQGw_Q33sXpDfB5IT0m1JeqnAEIXwIj81dt50rYs/edit?usp=sharing" %}
 
 ##
 
