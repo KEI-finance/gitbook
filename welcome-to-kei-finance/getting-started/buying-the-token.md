@@ -1,34 +1,26 @@
 ---
-description: Buying / Selling on Kei Finance
+description: Buying on Kei Finance
 ---
 
-# Buying / Selling
+# Buying
 
-<mark style="background-color:green;">DEMO: NOT LIVE YET</mark>
+Once users have successfully connected their wallets they can immediately engage in the buying process. To purchase KEI tokens users can swap via a range of tokens cross-chain or purchase directly from fiat via a bank card.&#x20;
 
-Once users have successfully connected their wallets they can immediately engage in the buying process. To purchase Kei tokens, users need to have some funds in their wallets to exchange these assets for Kei tokens via a process otherwise known as 'Swapping’.
 
-Unlike conventional DeFi platforms, the ‘Supplier contract’ on Kei Finance is designed such that when users try to swap their ETH for Kei tokens, the supplying happens inside the tokens from the ‘Swap.’ that, when a user initiates a ‘Swap’ order on Kei Protocol the router automatically executes a ‘Bond’ and a ’Swap,’ behind the scenes, in the best way that is for the user.
 
-For instance, following a purchase order, should the purchase price specified by the user be cheaper than the ‘Swap’ price, the platform intuitively selects the ‘Bond’ price to buy from and vice versa - doing all of that in one transaction.
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-11-17 at 12.36.11.png" alt=""><figcaption></figcaption></figure>
 
-Currently, on Kei Finance, users can exchange their Ethereum tokens for Kei at a discount rate by purchasing Kei directly from their dashboard.
 
-See the below walkthrough for detailed information on how to swap.
 
-* Enter the amount of Ethereum you would like to trade for some Kei tokens based on the balance on your wallet account, and hit the ‘Confirm Swap’ button.
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-11-17 at 12.38.17.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Where to input your currencies</p></figcaption></figure>
+KEI finance is committed to offering the most user friendly and familiar access options to the protocol. As a commitment to DeFi simplified, users are able to choose which method suits their personal needs.&#x20;
 
-* Tap ‘Confirm’ once prompted by Metamask (or your non-custodial wallet of choice).
+Once a user has purchased KEI tokens they will have the option to stake their tokens. Staking is like interest but within the world of web3. Stake tokens are locked in smart contracts which are like vaults. Tokens within the contract earn an APR (Interest Rate) on their tokens which can be accessed daily.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+For more visit [KEI staking](../../product-and-offerings/staking.md)
 
-* On Kei Finance there is an option for users to automatically stake when they buy the Kei token through the process of ‘Swapping.’ Through this minimalistic approach users on Kei Protocol can ‘Buy’ these tokens and ‘Stake’ them in a single transaction, while also save some extra in transaction fees and having to go through the back and forth to ‘Buy’ and then do another transaction to ‘Stake,’ thereby reducing redundancy.
+### Presale Purchases
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-
-* Upon logging into their dashboard, while placing a ‘Buy’ order, users can choose to toggle the ‘Automatic Stake’ button on, to stake while buying, in one go.
-
-![](<../../.gitbook/assets/image (13) (1).png>)
+Users who opted for a 42% discount via the presale will receive placeholder KEI tokens that represent the value owed on TGE (Token Generation Event) When the KEI token is launched on the 8th of February investors will automatically receive their portion of KEI tokens.&#x20;
 

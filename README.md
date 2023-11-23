@@ -1,61 +1,81 @@
 ---
 description: >-
-  Smartly Engineered for Stability, Growth and Trust - Reimagining Personal
-  Finance, with an Automated, Self-Governing Token Economy & Intelligent
-  Financial Tooling and Services.
-cover: .gitbook/assets/whitepaper-header.png
+  DeFi simplified - KEI finance offers an extremely user friendly cross-chain
+  algorithmic trading strategy platform with real world crypto payment
+  solutions.
+cover: .gitbook/assets/ACCESS (2).png
 coverY: 0
 ---
 
 # Overview
 
-The Kei Finance protocol and these docs are bound to the following[ terms and conditions.](https://kei.fi/terms)
+The KEI Finance protocol and these docs are bound to the following[ terms and conditions.](https://kei.fi/terms)
 
-Kei Finance stands at the vanguard of the DeFi industry, embodying a transformative force dedicated to driving significant advancements within the sector. Our aim is to address and resolve inherent obstacles prevalent in the DeFi landscape, leveraging cutting-edge technology and a firm commitment to sustained growth. Through the integration of innovative solutions and an emphasis on user-centric, fully automated financial services, we endeavor to reinforce trust and foster transparency within the DeFi community. Our platform is not merely a venue for financial transactions, but a conduit for substantial change - a catalyst in the evolution of decentralized finance.
+KEI Finance is built from the lessons we have learnt in DeFi. Traditionally DeFi remains to be inaccessible to the average trader, especially when it comes to complicated cross-chain yield bearing positions. Alongside complexity, DeFi lacks any real world connection, where digital assets remain on the blockchain and without direct value linked to real world use cases. KEI finance has rebuilt DeFi to be as accessible as any web2 trading platform and is linked with KEI finance debit cards that offer direct blockchain to vendor payments, connecting your crypto and yield to real life payments without 3rd party user fund management.&#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>High Level Kei Finance Protocol</p></figcaption></figure>
+KEI finance operates on 3 founding principles Access | Grow | Transact&#x20;
+
+<figure><img src=".gitbook/assets/Screen Shot 2023-09-28 at 10.13.15.png" alt=""><figcaption></figcaption></figure>
 
 ## Our Mission
 
-Kei Finance is committed to reshaping the landscape of Decentralized Finance (DeFi). Our mission is to provide a comprehensive, fully autonomous, and self-sustaining ecosystem that integrates strategic tokenomics to stimulate long-term growth and reward all stakeholders. This commitment is the embodiment of our vision for a truly democratized financial system.
+KEI finance mission is simple. Deliver a Decentralised Asset management platform that feels like any other traditional e-commerce trading website. It is within our mission to remove the complexities of DeFi and create a new era of access that is supported by automated asset growth mechanics and tangible real world utility. At KEI finance the user need not know they are even interacting with the blockchain as the UI/UX is built in ways that trigger intuitive user flows driving conversions of traditional traders.&#x20;
 
-Our platform is engineered to provide an array of financial tools that meet the diverse needs of our users. These include:
+Our platform is engineered to provide an array of financial tools and user experience that meet the requirements of Access | Grow | Transact.These include:
 
-* [K-Swap: Best-price Swapping](product-and-offerings/swapping/)
-* [K-Stake: Locked Single Staking with multipliers and auto-compounding](product-and-offerings/staking.md)
-* [K-ID: Unique Identity and Referrals](product-and-offerings/affiliate/)
-* [K-DiversiFi: Decentralized automated Investment Solutions](product-and-offerings/portfolio-diversification/)
+* [Cross-Chain & fiat backed token Swaps](product-and-offerings/swapping/)
+* [Familiar Login Methods ](welcome-to-kei-finance/getting-started/)
+* [KEI token Staking](technicals/kei-contracts/staking.md)
+* [On-Chain Affiliate Systems ](technicals/kei-contracts/affiliate.md)
+* [Automated Trading Strategies:](product-and-offerings/kei-automated-trading-strategies.md)
+* [KEI Debit Card Payments - Direct Blockchain to vendor payments](product-and-offerings/kei-debit-card-payments.md)
 
-In addition, we have several features in the pipeline that aim to further elevate the financial freedom and flexibility we offer to our users:
-
-* [K-Positions: Stakeholder portfolio NFT trading](product-and-offerings/positions-trading-coming-soon/)
-* [K-Borrow: Lending and borrowing platform](product-and-offerings/kei-finance-borrow-mechanic-future/)
-* [K-Gov: Governance for Kei](product-and-offerings/governance-coming-soon.md)
-
-By integrating these services within one ecosystem, we aim to offer a seamless user experience, where the entire DeFi universe is accessible within a single platform.
+By combining the concept of Access | Grow | Transact into one ecosystem KEI finance delivers a decentralised financial growth platform that anyone can use. The result being a comprehensive experience from point of entry and then a seamless exit via real world spending.&#x20;
 
 ## **Our Vision**
 
-Our vision at Kei Finance is to go beyond the conventional DeFi experience by offering a complete, rewarding, and seamless journey through the world of decentralized finance. We aim to position ourselves as the primary choice for users seeking a comprehensive DeFi protocol. When you join Kei Finance, you are stepping into a future where DeFi is efficient, intelligent, and notably rewarding - a future where the democratization of finance is not just an aspiration but a reality that is within your reach.
+Keep it simple. Kevin the founder of KEI finance conceptualised the protocol off the idea that a user need not know they are even interacting with the blockchain when growing their digital asset portfolio. It was with this thought that KEI was born. We have built a protocol that mirrors common web2 themes driving an intuitive experience where non crypto users can easily self-guide through the platform and begin accumulating and transacting in digital assets.&#x20;
 
 ## Our Value Proposition
 
-### **Reserve Currency Dynamics of KEI**
+### **Simplified and Intuitive DeFi Access**&#x20;
 
-Kei Finance positions KEI as an unprecedented reserve currency within the DeFi ecosystem, anchored by a minimum price that incrementally escalates over time. This strategic measure is designed to insulate KEI from adverse market fluctuations and foster an environment of consistent growth, thereby bolstering trust and value within the system.
 
-### **Reward Distribution and Value Accrual**
 
-We've architected a unique reward mechanism that channels the platform's profits back to the token holders. The platform itself serves as a multi-faceted tool for profit distribution, contributing to the users' share of profits while bolstering the growth of the Kei ecosystem.
+<figure><img src=".gitbook/assets/Screen Shot 2023-11-17 at 11.52.27.png" alt=""><figcaption></figcaption></figure>
 
-### **Innovative Token Supply Mechanism**
+KEI Finance offers a range of login options that reflect the stage of an individuals user journey. Connect with KEI via common web2 logins including email and social accounts or opt for web3 native connections such as direct wallet connect or anonymous options.\
+\
+Investing in DeFi shouldn't be a complex and manual task. KEI has built a seamless 4 step automated investment flow that reflects traditional investment UI/UX. Enter algorithmic trading strategies by simply selecting the tokens you wish to accumulate, inputting your investment value, selecting a custom trade duration and profit or loss triggers. KEI will automatically distribute your investment across relative strategies to begin growing your portfolio based on your 4 step input.&#x20;
 
-Contrary to standard protocols susceptible to token value dilution, Kei Finance has designed a supply mechanism that reinvests the total cost of each token purchase back into the protocol. This practice enhances the floor price, expands liquidity, and increases staking rewards, reinforcing price stability for KEI.
+### **Autonomous Portfolio Growth**&#x20;
+
+
+
+<figure><img src=".gitbook/assets/Screen Shot 2023-11-17 at 11.53.41.png" alt=""><figcaption></figcaption></figure>
+
+Traditionally, trading in DeFi has required immense manual inputs from a user across multiple projects and protocols. KEI finance automates asset growth by providing the user with a range of trading strategies. After initial investment, the KEI finance protocol will diversify user funds across strategies and begin automatically accruing desired assets. \
+\
+Users have the option to completly customise this experience by using a combination of all or no protocl strategies and creating their own trading systems. No matter your style of trading, set the inputs and let KEI finance begin growing your assets via our self-automated technology.&#x20;
+
+### **Direct Blockchain to Vendor Payment Solutions**
+
+<figure><img src=".gitbook/assets/Screen Shot 2023-11-17 at 11.54.19.png" alt=""><figcaption></figcaption></figure>
+
+In a Blockchain first, KEI finance users can connect KEI debit cards directly to active trading positions and their crypto wallets. Without needing to have funds managed by third parties, users can make payments using the value in trading positions or their wallet in any shop across the globe. KEI debit cards work just like any other Mastercard and can be used for online purchases, subscriptions, cash out or direct in-shop buying. \
+\
+_Unavailable in: Russia, Iran & Afghanisation_
+
+### User Reward Distribution & Growth
+
+
+
+<figure><img src=".gitbook/assets/Screen Shot 2023-11-17 at 11.57.15.png" alt=""><figcaption></figcaption></figure>
+
+We've architected a unique reward mechanism that channels the platform's profits back to the token holders. The platform itself serves as a multi-faceted tool for profit distribution, contributing to the users' share of profits while bolstering the growth of the KEI ecosystem.
 
 ### **Security, Transparency, and Growth**
 
-Kei Finance builds upon a foundation of robust security and transparency. With our KEI contract open for public analysis, we express our commitment to maintaining a clear and trustworthy environment. As the funds under Kei's management increase, the platform becomes progressively attractive to token holders.
+KEI Finance builds upon a foundation of robust security and transparency. With our KEI contract open for public analysis, we express our commitment to maintaining a clear and trustworthy environment. As the funds under KEI's management increase, the platform becomes progressively attractive to token holders.
 
-Together, these aspects form the cornerstone of Kei Finance's value proposition. By offering a set of sophisticated financial tools, including K-Swap, K-Stake, K-ID, K-DiversiFi, and upcoming additions like K-Positions and K-Borrow, we strive to create a user-centric, automated DeFi platform that revolutionizes the traditional financial landscape.
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+Together, these aspects form the cornerstone of KeI Finance's value proposition. By offering a set of sophisticated financial tools, we strive to create a user-centric, automated DeFi platform that revolutionizes the traditional financial landscape.

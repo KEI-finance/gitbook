@@ -1,25 +1,44 @@
 ---
-description: Connecting to Kei using a wallet
+description: Connecting to KEI
 ---
 
-# Connecting
+# Connect To KEI finance
 
-<mark style="background-color:green;">DEMO: NOT LIVE YET</mark>
+<mark style="background-color:green;">Live from 8th of February</mark>
 
-To get started on the Kei Protocol users would have to visit the website and sign into their App by connecting their non-custodial wallet of choice - in this case, we use Metamask just as seen in the steps below.
+Getting started on KEI offers multiple connection options to users. Users who prefer common login and connection methods can opt for an email verification option or social logins. For those who are more adept toWeb3 methods can connect via a wallet of their choice or anonymously.&#x20;
 
 * Visit the website at [https://kei.fi](https://kei.fi), and click the ‘App’ button to sign into your App.
-
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
-
 * Once on the Dashboard homepage, click ‘Connect Wallet’ to connect a non-custodial wallet E.g Metamask.
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Select your wallet of choice from the list of custodial wallets that pops up.
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-11-17 at 11.52.27.png" alt=""><figcaption></figcaption></figure>
 
-* Click ‘Connect’ when prompted by your wallet.
+* Select your preferred method for connection and follow the prompts.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+Email Prompts&#x20;
+
+
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-11-17 at 12.31.03.png" alt=""><figcaption></figcaption></figure>
+
+Wallet connection options&#x20;
+
+
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-11-17 at 12.31.17.png" alt=""><figcaption></figcaption></figure>
+
+Anonymous Connect
+
+
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-11-17 at 12.31.31.png" alt=""><figcaption></figcaption></figure>
+
+### Security On KEI finance | Keeping Your Funds Secure
+
+Access via email or social methods are powered by a new form of technology called Account Abstraction (ERC-4337 Standard) which basically means that a digital wallet is solely secured by a smart contract and not an externally operated wallet. Account Abstraction powers web3 technology to use a multi-signature technology just like Web2 methods. KEI finance implements two-factor authentication (2FA) code systems to add an additional layer of security for users.&#x20;
+
+
+
+During pivotal moments within a user journey, KEI finance will send out 2FA codes to users via their selected methods (Email verification, Authenticator Apps). Using 2FA users maintain the final confirmation from a user owned third party software.&#x20;

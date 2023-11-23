@@ -4,7 +4,7 @@ description: The distribution ratios for swaps
 
 # Token Swap: Profit Distribution
 
-## Supplier
+## Supplier (A smart contract specific to KEI finance)
 
 For the supplier, we implement a lower staking and affiliate return as this will be one of our largest profit generating incomes, and the funds we receive here we want to really focus on building up the floor price.
 

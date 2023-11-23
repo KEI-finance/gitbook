@@ -10,7 +10,13 @@ coverY: 0
 KEI token swaps operate on a Fixed Rate Price model, ensuring that users receive the most advantageous rate when making their purchases directly through our website.
 {% endhint %}
 
-The swap features offer a seamless onboarding experience onto the Kei Protocol, enabling users to effortlessly stake and swap tokens in a single transaction. By combining these functionalities, it not only saves users on transaction fees but also facilitates a controlled supply flow within the protocol. This innovative mechanism ensures a gradual and stable increase in the token supply while maintaining efficient operations.
+Swapping is a Web3 term that means to exchange one token for another token. For example a user can swap their Bitcoin (BTC) for KEI tokens, like swapping 5 euros for 5.5 US dollars.&#x20;
+
+Staking refers to the act of locking your tokens in smart contracts that are like bank vaults where users can earn an interest known as APR on the value of tokens locked in these contracts.&#x20;
+
+Supplier: A contract (Code) specific to the KEI finance protocol that manages the minting of KEI tokens.&#x20;
+
+The swap features offer a seamless onboarding experience onto the KEI Protocol, enabling users to effortlessly stake and swap tokens in a single transaction. By combining these functionalities, it not only saves users on transaction fees but also facilitates a controlled supply flow within the protocol. This innovative mechanism ensures a gradual and stable increase in the token supply while maintaining efficient operations.
 
 Where a swap purchase transaction would look like the following:
 
@@ -18,7 +24,9 @@ Where a swap purchase transaction would look like the following:
 
 ## Supply Percentage: Rewarding Long Term Stakers&#x20;
 
-Swaps employ a strategic approach, offering to supplement a percentage of an individual's purchase contingent on their staking duration. This strategy is crafted to deliver higher discounts for more extended staking periods, thereby motivating users to stake longer and receive larger discounts.
+Swaps employ a user first approach, offering to supplement a percentage of an individual's purchase on their staking duration. This strategy is crafted to deliver higher discounts for more extended staking periods, thereby motivating users to stake longer and receive larger discounts.
+
+Example: If you were to stake your KEI tokens for 12 months you would receive better discounts than someone opting to stake for 6 months.&#x20;
 
 The precise contribution from a swap is not random, but is carefully calculated. It depends on a specific formula that considers the length of staking among other factors. The formula is as follows:
 
@@ -56,7 +64,11 @@ Determining the specific fixed rate for a particular token is a straightforward 
 
 When the supplier springs into action and new tokens are minted, the funds received from the purchase are divided into two key portions. The first segment directly supports each minted token, establishing its inherent value. The remainder of the funds is seen as profit.
 
-The focus of these profit mechanics is twofold: fostering the protocol's growth and bolstering the liquidity pool. The expansion of the liquidity pool contributes to price stability, preventing sharp fluctuations and ensuring a smoother trading experience. Meanwhile, the protocol's growth adds value for all investors by raising the floor price and providing attractive staking rewards.
+The focus of these profit mechanics is twofold:&#x20;
+
+1\) Foster the protocol's growth and bolstering the liquidity pool. The expansion of the liquidity pool contributes to price stability, preventing sharp fluctuations and ensuring a smoother trading experience.
+
+2\) The profit tokens add growth to the protocol and value for all investors by raising the floor price and providing attractive staking rewards.
 
 The following diagram provides a clear illustration of how the funds are initially distributed upon supply:
 
@@ -74,10 +86,3 @@ Every transaction incurs a fee that fuels the protocol's growth, benefitting all
 
 When purchases are made directly through the website, the buy fee is effectively mitigated by the application of a discounted supply rate. This mechanism implies the potential for a fee-free purchase experience on the website, as the applied discount could entirely offset the buying fee.
 
-## **Automated Buyback and Burn: Ensuring Price Stability**
-
-If the KEI token price dips below the defined floor price during a transaction, the protocol instantaneously purchases the tokens back and initiates a burn process. This action reduces the total supply of KEI, which counteracts the price drop and restores the token's price back up to the floor level. This automated buyback-and-burn mechanism ensures the sustained stability of the KEI token price, minimizing the impact of market volatility on the Kei Finance ecosystem.
-
-## **Affiliate Tracking: Rewarding Community Contribution**
-
-KEI token swaps are not merely a tool for trade optimization; it also serves a crucial role in the Kei affiliate program. As each swap transaction is conducted, the SwapRouter records the transaction's affiliate, enabling the protocol to keep a meticulous record of affiliate contributions. This feature fosters a sense of community and shared profit, as it enables affiliates to receive deserved rewards for their contributions to the Kei Finance ecosystem.

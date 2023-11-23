@@ -1,3 +1,9 @@
+---
+description: >-
+  See the team at https://kei.fi/#team or chat directly with them every
+  Wednesday at 11am UTC via the Discord Channel.
+---
+
 # KEI Team
 
 ## Founders

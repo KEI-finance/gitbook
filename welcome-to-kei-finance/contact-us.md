@@ -1,5 +1,5 @@
 ---
-description: Find Kei at the following locations
+description: Learn More Via All KEI finance links
 ---
 
 # Socials LinkTree

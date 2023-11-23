@@ -3,11 +3,11 @@
 ## Welcome to Kei Finance
 
 * [Overview](README.md)
-* [PRESALE OPPORTUNITY: 29th Aug](welcome-to-kei-finance/presale-opportunity-29th-aug.md)
+* [PRESALE CLOSING 1st Dec 2023](welcome-to-kei-finance/presale-closing-1st-dec-2023.md)
 * [Socials LinkTree](welcome-to-kei-finance/contact-us.md)
 * [Getting Started](welcome-to-kei-finance/getting-started/README.md)
-  * [Connecting](welcome-to-kei-finance/getting-started/creating-a-wallet.md)
-  * [Buying / Selling](welcome-to-kei-finance/getting-started/buying-the-token.md)
+  * [Connect To KEI finance](welcome-to-kei-finance/getting-started/creating-a-wallet.md)
+  * [Buying](welcome-to-kei-finance/getting-started/buying-the-token.md)
   * [Earning Rewards](welcome-to-kei-finance/getting-started/earning-rewards.md)
 * [KEI Team](welcome-to-kei-finance/kei-team.md)
 
@@ -16,27 +16,19 @@
 * [Token Swaps](product-and-offerings/swapping/README.md)
   * [Token Swap: Profit Distribution](product-and-offerings/swapping/token-swap-profit-distribution.md)
 * [KEI Staking](product-and-offerings/staking.md)
+* [KEI Automated Trading Strategies](product-and-offerings/kei-automated-trading-strategies.md)
+* [KEI Debit Card Payments](product-and-offerings/kei-debit-card-payments.md)
 * [KEI Affiliate Program](product-and-offerings/affiliate/README.md)
   * [Affiliate: Profit Distribution](product-and-offerings/affiliate/affiliate-profit-distribution.md)
-* [Portfolio Diversification](product-and-offerings/portfolio-diversification/README.md)
-  * [Diverse Portfolios: Profit Distribution](product-and-offerings/portfolio-diversification/diverse-portfolios-profit-distribution.md)
-* [Positions Trading - Coming Soon](product-and-offerings/positions-trading-coming-soon/README.md)
-  * [Positions: Profit Distribution](product-and-offerings/positions-trading-coming-soon/positions-profit-distribution.md)
-* [KEI finance Borrow Mechanic - Future](product-and-offerings/kei-finance-borrow-mechanic-future/README.md)
-  * [Borrowing: Profit Distribution](product-and-offerings/kei-finance-borrow-mechanic-future/borrowing-profit-distribution.md)
-* [Governance - Coming Soon](product-and-offerings/governance-coming-soon.md)
-* [KEI finance Marketplace - Future](product-and-offerings/kei-finance-marketplace-future.md)
-* [P2P Asset Sending- Future](product-and-offerings/p2p-asset-sending-future.md)
-* [Premium Crypto Payment Solution](product-and-offerings/premium-crypto-payment-solution.md)
+* [KEI Governance - Coming Soon](product-and-offerings/governance-coming-soon.md)
 
 ## Tokenomics
 
-* [Tokens: KEI & sKEI](tokenomics/tokens-kei-and-skei.md)
-* [Token Utility](tokenomics/token-utility.md)
-* [Growth & Intrinsic Value](tokenomics/growth-and-intrinsic-value.md)
-* [Token Distribution](tokenomics/token-distribution.md)
+* [KEI Ecosystem Tokens: KEI & sKEI](tokenomics/kei-ecosystem-tokens-kei-and-skei.md)
+* [Protocol Growth & Intrinsic Value](tokenomics/protocol-growth-and-intrinsic-value.md)
 * [Roadmap](tokenomics/roadmap.md)
-* [Fundraising](tokenomics/fundraising.md)
+* [KEI Token Raising](tokenomics/kei-token-raising.md)
+* [Tokenomics Sheet](tokenomics/tokenomics-sheet.md)
 
 ## Mechanics
 
@@ -51,7 +43,7 @@
 * [Terms of Service](legal/terms-of-service.md)
 * [Privacy Policy](legal/privacy-policy.md)
 * [Disclaimers](legal/disclaimers.md)
-* [Kei Token & NFTs](legal/kei-token-and-nfts.md)
+* [KEI Token & NFTs](legal/kei-token-and-nfts.md)
 * [Fees and payments](legal/fees-and-payments.md)
 
 ## Technicals
