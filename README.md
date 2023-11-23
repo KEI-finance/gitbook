@@ -3,7 +3,7 @@ description: >-
   DeFi simplified - KEI finance offers an extremely user friendly cross-chain
   algorithmic trading strategy platform with real world crypto payment
   solutions.
-cover: .gitbook/assets/ACCESS (2).png
+cover: .gitbook/assets/ACCESS.png
 coverY: 0
 ---
 
