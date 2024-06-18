@@ -6,7 +6,7 @@
 
 ### Platform Access Opportunity Informative Note
 
-KEI Finance is excited to present a novel opportunity to participate in the initial offering of our utility token, KEI, key to accessing and interacting with our suite of innovative web3 financial tools.
+KEI finance is excited to present a novel opportunity to participate in the initial offering of our utility KEI token, key to accessing and interacting with our suite of innovative Web3 financial tools.
 
 {% hint style="info" %}
 The tokens will be claimable via our website at the end of the sale
@@ -26,13 +26,13 @@ The last opportunity to pre purchase the KEI token will be throughout January vi
 
 #### Presale Vesting&#x20;
 
-For those purcahsing in the presale or subsequent raises will have a vesting period where 15% is unlocked on TGE and the remainder to be released linearly for the next four months.&#x20;
+For those purchasing in the presale or subsequent raises will have a vesting period where 15% is unlocked on TGE and the remainder to be released linearly for the next four months.&#x20;
 
 Vested tokens will be staked by KEI on behalf of the holder where the daily APR rewards will be claimable by holders as a testament to our user first reward based approach.&#x20;
 
 #### Purchasing KEI
 
-For those looking to access a 42% discount on the KEI token can do so via multiplie cross chain token options or direct from Fiat via card payment at https://kei.fi&#x20;
+For those looking to access a 42% discount on the KEI token can do so via multiple cross chain token options or direct from Fiat via card payment at https://kei.fi&#x20;
 
 #### Token Distribution & Interaction Opportunities
 
